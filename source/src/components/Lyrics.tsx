@@ -1,0 +1,10 @@
+import {useEffect,useRef,useState} from 'react';
+import {formatTime} from '../progress';
+import type {Chapter,Subtitles} from '../library';
+export function Lyrics({subtitles,chapter,position,seek,onRead}:{subtitles:Subtitles|null;chapter:Chapter;position:number;seek:(t:number)=>void;onRead:()=>void}){
+ const [follow,setFollow]=useState(true),[retry,setRetry]=useState(0);const scroller=useRef<HTMLDivElement>(null);
+ const active=subtitles?.cues.findLastIndex(c=>position>=c.start)??-1;
+ useEffect(()=>{if(!follow)return;const el=scroller.current?.querySelector<HTMLButtonElement>(`[data-line="${active}"]`),p=scroller.current;if(el&&p)p.scrollTo({top:el.offsetTop-p.offsetTop-p.clientHeight/2+el.clientHeight/2,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});},[active,follow,retry,subtitles]);
+ if(!subtitles)return <div className="subtitle-pending"><span className="dialog-kicker">官方音频 · 原版阅读</span><h2>{chapter.title}</h2><p>本篇同步字幕还在整理核对。<br/>现在可以听完整录音，或切换看原版。</p><button className="small-btn" onClick={onRead}>看原版正文 ↗</button><small>进度照常自动保存</small></div>;
+ return <><div className="lyrics-scroll" ref={scroller} onWheel={()=>setFollow(false)} onTouchMove={()=>setFollow(false)} role="region" tabIndex={0} aria-label="逐句同步正文"><div className="lyric-pad"/><p className="subtitle-label">{subtitles.status==='verified'?'字幕已核对':subtitles.textStatus==='canonical-article-exact'?'正文与官网一致 · 字幕时间试校':'字幕试校 · 时间与文字待逐句复核'}</p>{active<0&&<p className="intro-cue">正在朗读书名、篇名或日期…</p>}{subtitles.cues.map((c,i)=><button key={`${c.start}-${i}`} data-line={i} className={`lyric-line ${i===active?'is-current':i<active?'is-past':''}`} aria-current={i===active?'true':undefined} aria-label={`跳到${formatTime(c.start)}：${c.text}`} onClick={()=>{seek(c.start);setFollow(true);setRetry(n=>n+1);}}>{c.text}</button>)}<p className="excerpt-end">本篇朗读到这里。<br/><span>注释请切换原版阅读查看。</span></p><div className="lyric-pad"/></div>{!follow&&<button className="follow-btn" onClick={()=>{setFollow(true);setRetry(n=>n+1);}}>回到当前句 ↓</button>}</>;
+}

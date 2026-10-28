@@ -1,0 +1,18 @@
+{
+  "version": "0.3.0",
+  "date": "2026-10-28",
+  "name": "听见文字",
+  "catalogChapters": 160,
+  "volumes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "canonicalSubtitledChapters": 1,
+  "allSubtitlesComplete": false,
+  "progressStorage": "browser-local",
+  "publicAudioSource": "共产党员网",
+  "publicBookSource": "理论中国原版电子书",
+  "releaseType": "usable-reading-audio-release-subtitles-in-progress"
+}
