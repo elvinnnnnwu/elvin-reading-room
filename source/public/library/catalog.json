@@ -2074,7 +2074,8 @@
       "subtitleStatus": "pending",
       "textMode": "official-facsimile",
       "endPage": 27,
-      "durationEstimate": 1277
+      "durationEstimate": 1277,
+      "mobileAudioUrl": "./audio/v1-001-mobile-v1.mp3"
     },
     {
       "id": "v1-002",

@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "date": "2026-10-28",
   "name": "听见文字",
   "catalogChapters": 160,
@@ -14,5 +14,8 @@
   "progressStorage": "browser-local",
   "publicAudioSource": "共产党员网",
   "publicBookSource": "理论中国原版电子书",
-  "releaseType": "usable-reading-audio-release-subtitles-in-progress"
+  "releaseType": "usable-reading-audio-release-subtitles-in-progress",
+  "mobileOptimizedChapters": 1,
+  "mobileAudioByteReductionPercent": 62.498,
+  "forcedRefresh": false
 }

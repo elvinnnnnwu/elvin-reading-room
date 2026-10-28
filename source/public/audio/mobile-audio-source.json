@@ -1,0 +1,32 @@
+{
+  "originalBytes": 20426919,
+  "mobileBytes": 7660478,
+  "sizeReduction": 0.62498,
+  "originalSha256": "7d98a2e9207960bb859b5459b4eaea30348e60a4e2e48cd58dd033eb832ea064",
+  "mobileSha256": "a3b43dd398ee45a64e20eebd99849f1be6a3b553dc67c9690c39159e13be3a6e",
+  "codec": "MP3 mono 48kbps 44100Hz",
+  "durationDifferenceSeconds": 0.026133,
+  "checks": [
+    {
+      "atSeconds": 22,
+      "waveformCorrelation": 0.988031,
+      "sampleCountsMatch": true
+    },
+    {
+      "atSeconds": 60,
+      "waveformCorrelation": 0.994624,
+      "sampleCountsMatch": true
+    },
+    {
+      "atSeconds": 600,
+      "waveformCorrelation": 0.974876,
+      "sampleCountsMatch": true
+    },
+    {
+      "atSeconds": 1200,
+      "waveformCorrelation": 0.991856,
+      "sampleCountsMatch": true
+    }
+  ],
+  "note": "原始官方录音重新编码，无剪辑、变速或合成；旧文件保留。波形比对验证采样点对应，不等于逐字人工复听。"
+}
