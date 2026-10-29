@@ -1,0 +1,5130 @@
+{
+  "version": "0.4.0",
+  "handoffCommit": "a2c2267714d3fb29a62c42b9a6f4bec6ee7801cc",
+  "all160Passed": true,
+  "siteBytes": 912949736,
+  "legacyResourcesPreserved": 7,
+  "textValidation": "Exact subtitle bytes preserved from audited source handoff; inherited canonical hashes match its audit. This is provenance validation, not a new independent proofreading claim.",
+  "chapters": [
+    {
+      "id": "v1-001",
+      "subtitleFileSha256": "aa94badc0f0313fa70612eec66cdd8509c44f1c9ef87ac157c825861c27b0034",
+      "inheritedCanonicalTextSha256": "2775fbd4f6722dfb2f9f7a10d958143c5b65dff8a604811b395ac0686433ba62",
+      "mobileSha256": "0393e6e706c3e4fc9b5db505ebb076180961a45c5cfa21401ad30e497029b6c0",
+      "mobileBytes": 5301157,
+      "sourceSha256": "7d98a2e9207960bb859b5459b4eaea30348e60a4e2e48cd58dd033eb832ea064",
+      "decodedSourceDuration": 1276.6824375,
+      "decodedMobileDuration": 1276.7146875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97196,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 319.170609375,
+          "correlation": 0.978353,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 766.0094625,
+          "correlation": 0.98162,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1268.6824375,
+          "correlation": 0.959152,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-002",
+      "subtitleFileSha256": "03420fb3d21f5ada1e7ee37695ea568d01520653502b0145d2491337404ac66c",
+      "inheritedCanonicalTextSha256": "1eab9469270f8913842179e1b5419b07aab7e614d84b54631ca512885504af2c",
+      "mobileSha256": "9d852d57b1dbc44d3963f855cb523cda5d89a87ee5ca1cc4a3373468e1cfca98",
+      "mobileBytes": 23403865,
+      "sourceSha256": "2948dc7157135c49df3a7aeadf4ed9817e1230820e8d23ea1a4ea4d64b379442",
+      "decodedSourceDuration": 5647.72575,
+      "decodedMobileDuration": 5647.744,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.974208,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1411.9314375,
+          "correlation": 0.962964,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 3388.6354499999998,
+          "correlation": 0.967266,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 5639.72575,
+          "correlation": 0.978555,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-003",
+      "subtitleFileSha256": "7c521e38070575b56fd0cdbe593e7f1013f5aff9d11057d8c4c02b4b7502b646",
+      "inheritedCanonicalTextSha256": "6608d4743059fd840cf24a0c187d41036701d48c01a9bcbb5f9cbcfcc453915e",
+      "mobileSha256": "2ab6793dad9d97a5b7530c47b78afda1bfad2749533583beba6da6e2985cb06a",
+      "mobileBytes": 5153689,
+      "sourceSha256": "f460fc3cc99481619abdea53a18e8c1e8be757a1a04f3758335cdf8c940a5901",
+      "decodedSourceDuration": 1241.6,
+      "decodedMobileDuration": 1241.6,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98722,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 310.4,
+          "correlation": 0.98449,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 744.9599999999999,
+          "correlation": 0.966839,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1233.6,
+          "correlation": 0.96087,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-004",
+      "subtitleFileSha256": "c9644e0e15f17b51f8a2343b8a7564d597c5b9ae539f5a214f485224f9f176a3",
+      "inheritedCanonicalTextSha256": "2536abfe3042c13fe2809b624eaea2b20cba382fc04a074e0041d6634c33d7f2",
+      "mobileSha256": "d735c405a44544aace94a62a3e50f21ce8dc5f43f70f513a4b80825e75d1e454",
+      "mobileBytes": 21106294,
+      "sourceSha256": "90bb9a07e766c704acf6e15cb0e111740070ab55103b778ce3b96dc3ceda2077",
+      "decodedSourceDuration": 5097.9004375,
+      "decodedMobileDuration": 5097.941375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.965725,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1274.475109375,
+          "correlation": 0.973557,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 3058.7402625,
+          "correlation": 0.95601,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 5089.9004375,
+          "correlation": 0.975429,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-005",
+      "subtitleFileSha256": "163f643608f7e74e8323918f2945f372b789e401eb9343bacdefedc396f36059",
+      "inheritedCanonicalTextSha256": "45805dc1dd1cd2d82cb651cfeb7d7523d514e649430eee86ea93e8767cabefdc",
+      "mobileSha256": "b7f9e2b7104caa6281df1d17b1397f30cc9a1f69bc0ab6c19c4907993aeaac70",
+      "mobileBytes": 5944824,
+      "sourceSha256": "c71a0b3317c939bf924216aae2419cf1eb3bc0cf36d2a701c8dbd9ddf97f1e0a",
+      "decodedSourceDuration": 1432.2155,
+      "decodedMobileDuration": 1432.2346875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.971154,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 358.053875,
+          "correlation": 0.967469,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 859.3293,
+          "correlation": 0.966742,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1424.2155,
+          "correlation": 0.970469,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-006",
+      "subtitleFileSha256": "8f293b518798adcea6053a707e7a6e2d51476638870fe4c3be07af94b6fbfb36",
+      "inheritedCanonicalTextSha256": "b0f267bc26a64d6dde42ec3af795c3293b716734bc8b2f9790d6973a0c70cbd4",
+      "mobileSha256": "835c4343908c79ccccb4cb4d1e54f30ddd4c9d6cda282863eaaf59833385a1b6",
+      "mobileBytes": 8498542,
+      "sourceSha256": "e2b3e95f10edf5ced82df072f20807690730ef4e83930820405561e8bb5ea24b",
+      "decodedSourceDuration": 2046.0669375,
+      "decodedMobileDuration": 2046.08,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.954217,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 511.516734375,
+          "correlation": 0.955625,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1227.6401624999999,
+          "correlation": 0.975462,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2038.0669375,
+          "correlation": 0.961607,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-007",
+      "subtitleFileSha256": "8357d0fd77d0cc60a376e8151949066fcd48ab9de3d02bd45f8cceed45376630",
+      "inheritedCanonicalTextSha256": "c18fab38fb6d46ec43d26478e2116952d65e6716a27a73d2f0e771a3af5c674c",
+      "mobileSha256": "04056d0967cfa3e09718a4734314e8eea755019b6b439c12434c8abda8334be7",
+      "mobileBytes": 5650847,
+      "sourceSha256": "e721fa81f7f2b7cb83555c29e7b51187bf67eb5c89a3f12ca2c1003034610633",
+      "decodedSourceDuration": 1361.1624375,
+      "decodedMobileDuration": 1361.1946875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.933642,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 340.290609375,
+          "correlation": 0.946469,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 816.6974624999999,
+          "correlation": 0.986419,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1353.1624375,
+          "correlation": 0.958841,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-008",
+      "subtitleFileSha256": "22b131c9955d62224cc0f696cf3ee3a0d45e85da2724e87d3294e6397aceaf82",
+      "inheritedCanonicalTextSha256": "37522c109fa689bbab0beb9d52d512d3e1ddf803742024019259a1ae1fcbecd0",
+      "mobileSha256": "c1f4e0eacfc5af36589e715a62d167305d0bd7bbdfdc345c9ed8cca3c3c21b0b",
+      "mobileBytes": 5166646,
+      "sourceSha256": "74b3984658c6f75abb78cde3f7e043231c622a1bfe077f5126df3c918ed8e7f0",
+      "decodedSourceDuration": 1243.977125,
+      "decodedMobileDuration": 1243.989375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.979019,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 310.99428125,
+          "correlation": 0.967229,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 746.386275,
+          "correlation": 0.97609,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1235.977125,
+          "correlation": 0.955987,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-009",
+      "subtitleFileSha256": "625d383cb25e6869c58c21f307054b2f15010f2730be045b8469e4c53aa4bfb8",
+      "inheritedCanonicalTextSha256": "a4c2957122a99cc7f20bd6cb925d824042efa541d71238091d73c39eedb72dcc",
+      "mobileSha256": "37938d967a6c86aaf5ff5d743542b76423008565bb4982c472f075ea2b148834",
+      "mobileBytes": 1340849,
+      "sourceSha256": "96ebc7ed6a1dfbde121893702e54fff1309e71f33a2f844e7ac9da39bf6ac60a",
+      "decodedSourceDuration": 322.8735,
+      "decodedMobileDuration": 322.901375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.983373,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 80.718375,
+          "correlation": 0.973084,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 193.7241,
+          "correlation": 0.98217,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 314.8735,
+          "correlation": 0.950876,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-010",
+      "subtitleFileSha256": "56bbbb29b9ae596277662d0517ab1e7c1b39e145342fda605d3c1246e035d9b3",
+      "inheritedCanonicalTextSha256": "bd30ccf0ff1339a2df82f8652fdf3fc68b042bf3f42f8da5899d094421f07c8d",
+      "mobileSha256": "400ca36e33bb6aab4952d8a9651330777b961cb201f87f3f9e7d7360f90d5f85",
+      "mobileBytes": 3170827,
+      "sourceSha256": "3eb8fd59bb2c17b917ffeedfa0aee97b0eee384963aca07b9e9dca03adddfdc6",
+      "decodedSourceDuration": 764.029375,
+      "decodedMobileDuration": 764.032,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.976207,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 191.00734375,
+          "correlation": 0.962383,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 458.417625,
+          "correlation": 0.974319,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 756.029375,
+          "correlation": 0.954684,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-011",
+      "subtitleFileSha256": "33684bd6b4689e8a5651400df0e5ce42e5cf743d92527af47c043a7a4773bd0d",
+      "inheritedCanonicalTextSha256": "559f796d58a500e027c0d67361395c9297ead2305fc7be9b9327e48604f9afa3",
+      "mobileSha256": "cf6d4af428e85df5ead539f433e313594ebf013fc3a617cc7919aa6eac430363",
+      "mobileBytes": 3460020,
+      "sourceSha256": "cbab3d363aeaf81a04093b2653310b144666bf895b508b2cc380719523ab7536",
+      "decodedSourceDuration": 834.2988125,
+      "decodedMobileDuration": 834.304,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.986214,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 208.574703125,
+          "correlation": 0.973938,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 500.5792875,
+          "correlation": 0.956632,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 826.2988125,
+          "correlation": 0.952871,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-012",
+      "subtitleFileSha256": "d02c4d644aba7a446194160967b1869208aae6d77f02125a3be2b0a336c9095d",
+      "inheritedCanonicalTextSha256": "34203bf3ba1ce9570b5915b91291b7b647729af5a254daa867c796cfbbcca6fb",
+      "mobileSha256": "3420c4f325df696db6e10a0ad81181f093fd47495b499d728339f6c77b5302c9",
+      "mobileBytes": 13519087,
+      "sourceSha256": "dc666b421e4de5226447b65d1e7916750cad824ab0339dda1b6d94501063cef0",
+      "decodedSourceDuration": 3260.9698125,
+      "decodedMobileDuration": 3260.9706875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.970273,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 815.242453125,
+          "correlation": 0.968395,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1956.5818875,
+          "correlation": 0.963777,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 3252.9698125,
+          "correlation": 0.967644,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-013",
+      "subtitleFileSha256": "c528471a6f53ef50b4c047d9f014e458df4f4bdfcd3abd78fa03458642c2255d",
+      "inheritedCanonicalTextSha256": "b5fe2107e2fee659028a1c216812822e3946476fbefc81fa26726b624e010ac5",
+      "mobileSha256": "a392b122d33c62405603089e5d2183d69c2e8eb152b4ef7ac24a83e35f531986",
+      "mobileBytes": 45889026,
+      "sourceSha256": "014a2a7bc947f8384ed7c6b6b74807f5452c7f934d1cf83c6f97cab891ec1a54",
+      "decodedSourceDuration": 11075.1085625,
+      "decodedMobileDuration": 11075.1146875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.978185,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2768.777140625,
+          "correlation": 0.985901,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 6645.0651375,
+          "correlation": 0.960239,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 11067.1085625,
+          "correlation": 0.976711,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-014",
+      "subtitleFileSha256": "decaf4a7e0712fbfb57261a1c06db16868dde393c9c3b2d513ed75de97be88f7",
+      "inheritedCanonicalTextSha256": "e02ecd4a6c4b3eb67a5796a92b18fc1f6177927e4b4ca03c2a6906b9a44f5040",
+      "mobileSha256": "59930c02787f696d5b4a8ffc6da1fea988fd2ae9c1f23b79977610f47a12a07c",
+      "mobileBytes": 1992501,
+      "sourceSha256": "650ddbe8740bafbcfa60edc898f531b65646bb2017b63fa7b9c02a9dd7f139fb",
+      "decodedSourceDuration": 480.182875,
+      "decodedMobileDuration": 480.213375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.962911,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 120.04571875,
+          "correlation": 0.968678,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 288.109725,
+          "correlation": 0.972975,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 472.182875,
+          "correlation": 0.951286,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-015",
+      "subtitleFileSha256": "b953300cda52b1df0732fb24b8c3ada039fd57cc5cdc9af60825bce90e5f5489",
+      "inheritedCanonicalTextSha256": "744ce65d910db3655e7706df6443f08ee15844bae0b84e776a6c2860b3c04212",
+      "mobileSha256": "a4e5beaac31bb207456bdf6fb550613fa8f6a9db2f19208f880913f7807469f4",
+      "mobileBytes": 8313411,
+      "sourceSha256": "ebb278edfda5ffba4b62f87ccbf051191128b69051332b168baf56b1b9c2fd09",
+      "decodedSourceDuration": 2002.2335,
+      "decodedMobileDuration": 2002.261375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.979604,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 500.558375,
+          "correlation": 0.957626,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1201.3401,
+          "correlation": 0.952156,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1994.2335,
+          "correlation": 0.954817,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-016",
+      "subtitleFileSha256": "1bcd8e667c6c8e317698dcf83be2f431bfc4edef723d4be9d95e15cd73cc9a75",
+      "inheritedCanonicalTextSha256": "ed944719bba932ef1df47fbae869ad851f3a2ab302eb6fc54a2656cde9830e6b",
+      "mobileSha256": "be4064071673bea7f252ec362432779ea1494abe0ca479f714e3371bc80ccb40",
+      "mobileBytes": 5007015,
+      "sourceSha256": "553315c017866c9ca84d9819f08e55cf9539212f30d10d6ce99940d3630992f7",
+      "decodedSourceDuration": 1205.4988125,
+      "decodedMobileDuration": 1205.504,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.941954,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 301.374703125,
+          "correlation": 0.952114,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 723.2992875,
+          "correlation": 0.953502,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1197.4988125,
+          "correlation": 0.938438,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-017",
+      "subtitleFileSha256": "395264add0e348d4f705e76a1a18338cc63ba74262ac89f76df1e7c18903e8b7",
+      "inheritedCanonicalTextSha256": "f724b7680c09a3bc2d2b8ab42e3716ee2db22a1856a897b30518ffb28b3e020b",
+      "mobileSha256": "acc4e41bc078c9738902f08d4335f592c557bc7a192b0e44b8791c5823e84684",
+      "mobileBytes": 12271560,
+      "sourceSha256": "40bbabdfd6191b36de4dde10bc0b9d9815886ffa2f2caa2962f72483360244b9",
+      "decodedSourceDuration": 2961.789375,
+      "decodedMobileDuration": 2961.792,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.968486,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 740.44734375,
+          "correlation": 0.969502,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1777.0736249999998,
+          "correlation": 0.971837,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2953.789375,
+          "correlation": 0.971422,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v1-018",
+      "subtitleFileSha256": "03dc04c0d51f18663b24416af49ddc042b24024a57b92e452b6db23fb5f0163f",
+      "inheritedCanonicalTextSha256": "ecc6960823c2aac366c07ce4dd8cbfa3cb843eba257b22feaf03734de460bab5",
+      "mobileSha256": "5287a5987171c65b21465134cad932599864886d43c8604a65edd8635762aace",
+      "mobileBytes": 30248479,
+      "sourceSha256": "eafecec098504318042428bd59c52fd85e35a03381c690906f5e58da58cbcc56",
+      "decodedSourceDuration": 7300.8326875,
+      "decodedMobileDuration": 7300.864,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.969133,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1825.208171875,
+          "correlation": 0.976643,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 4380.4996125,
+          "correlation": 0.985955,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 7292.8326875,
+          "correlation": 0.962708,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-001",
+      "subtitleFileSha256": "875f4a5a18cab00d18b095113310ea6ae015a408be7e7fcdafd9aaf34b599015",
+      "inheritedCanonicalTextSha256": "0ec32edde3ef10ccf82f9703350231c0d6c9786800a08078dc36b993a59e2649",
+      "mobileSha256": "e4929807a021e46dc09f75719a44fdc4d773d2178d0da241d5cda234114ef9c8",
+      "mobileBytes": 4505491,
+      "sourceSha256": "f722346874f44cfb3e5674e4149e281ace182f2ec8b5d198da7bbcf2cf5e81ad",
+      "decodedSourceDuration": 1087.056,
+      "decodedMobileDuration": 1087.061375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.985716,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 271.764,
+          "correlation": 0.977077,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 652.2336,
+          "correlation": 0.984914,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1079.056,
+          "correlation": 0.987201,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-002",
+      "subtitleFileSha256": "c609742e4334a9eda928a4edeaca2b1428b2bcdaf1b3f1e45d953cb954b2d18c",
+      "inheritedCanonicalTextSha256": "34279ec6fa5de6fe851ddb42cb6f399cf31b52e088d67c4168d0945b8ee7828a",
+      "mobileSha256": "3dc1662efc5e3c8f08e6fa733f385943783c0c3fd3a1c36f627973b32b9925eb",
+      "mobileBytes": 3176809,
+      "sourceSha256": "b09882920c96c54d590181803755448e01dd4944732fcfa27ebd98f7e057cd3c",
+      "decodedSourceDuration": 766.944,
+      "decodedMobileDuration": 766.976,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.979493,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 191.736,
+          "correlation": 0.985073,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 460.16639999999995,
+          "correlation": 0.989839,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 758.944,
+          "correlation": 0.991272,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-003",
+      "subtitleFileSha256": "4440774ac96c8dce219a2f7d3f9eb1475d77c26876e20c0aaaa7870105082489",
+      "inheritedCanonicalTextSha256": "008757ac1eb9f990c310925fc161ee14f4727799641e71327cb6b6db7e146c3e",
+      "mobileSha256": "22ddfe7b5384dfc3f0fe7087d01e894f19775d496c5f8a53b2eee40d84a96e63",
+      "mobileBytes": 1576075,
+      "sourceSha256": "3362de9ce2e63f6085597b42ebd8c06231a79b87e13b48386acbbe2e6c7775d1",
+      "decodedSourceDuration": 380.616,
+      "decodedMobileDuration": 380.629375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.961591,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 95.154,
+          "correlation": 0.990639,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 228.3696,
+          "correlation": 0.984506,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 372.616,
+          "correlation": 0.978319,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-004",
+      "subtitleFileSha256": "6f04d9b09c62d5bacdcb367f4e89b2ff2bc365834e8ad7e2c4227c11d678309b",
+      "inheritedCanonicalTextSha256": "cb40d16d643b990a0c063fb8fc1d960292523237c8cdf0cbd72c89127b778f1c",
+      "mobileSha256": "06088d7f0b6d6751bccf2c4b86dc4790cd2561b78320061a87e9ce5877df2c40",
+      "mobileBytes": 6876511,
+      "sourceSha256": "9dd041418eaf75eac8d45a800f7314377bade62e0a2cb3bf5b8e956fc9cddc9f",
+      "decodedSourceDuration": 1660.008,
+      "decodedMobileDuration": 1660.032,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.986914,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 415.002,
+          "correlation": 0.980734,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 996.0047999999999,
+          "correlation": 0.990828,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1652.008,
+          "correlation": 0.967813,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-005",
+      "subtitleFileSha256": "85fb67304eb7b4d2da3b623f2addc253a6be03e7639c6b1bd0096627921981be",
+      "inheritedCanonicalTextSha256": "51fc356e9783affe21d64d1dc9540f048becb2bc186edbc75ed807f4bc264381",
+      "mobileSha256": "9ebe8e7327216def9483c6c844e6b886c27be100373b51e2ea96260fa88ff9d4",
+      "mobileBytes": 8528175,
+      "sourceSha256": "04f4e8bc41225b83b7b02264f3afb03f1b51a6dea325b02f31ea0225d6ca2a31",
+      "decodedSourceDuration": 2061.024,
+      "decodedMobileDuration": 2061.056,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.976353,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 515.256,
+          "correlation": 0.977273,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1236.6144,
+          "correlation": 0.983832,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2053.024,
+          "correlation": 0.988336,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-006",
+      "subtitleFileSha256": "7660f29549ecb075872e1c7aecae3027be4a3abac1c052900a026c6003b95a20",
+      "inheritedCanonicalTextSha256": "a7660aa38c035f4db1e7a941abf0d0d32c67ceb31b94d4cb33424b4b3b21ef28",
+      "mobileSha256": "fe904c62ee93048358edcc0d6cfd2073c5e5c3b773721374b35d70752192afd9",
+      "mobileBytes": 5907316,
+      "sourceSha256": "08f7b45c2ec647a01dd88745caed40a8270369e44cafa4bbb2596ed76d7e88c5",
+      "decodedSourceDuration": 1426.008,
+      "decodedMobileDuration": 1426.048,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.985771,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 356.502,
+          "correlation": 0.985885,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 855.6048,
+          "correlation": 0.98267,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1418.008,
+          "correlation": 0.983306,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-007",
+      "subtitleFileSha256": "7b6bdc82cdeb0970c82926a22191e333696f8f09b9814b9f9b3bb467b9623000",
+      "inheritedCanonicalTextSha256": "3a5bd40dc2566278f9b30a55d713748ffcd71f11a529c090f9ad218ae5710a1c",
+      "mobileSha256": "c279fb26898d9579a0bd26b33dbac18c373c378a98014de59465e215564b3ed9",
+      "mobileBytes": 1246902,
+      "sourceSha256": "644ac2f2dbd0f24033d572aaa50e50d198647f6fa1485aa52e8cce8a19184bbf",
+      "decodedSourceDuration": 300.624,
+      "decodedMobileDuration": 300.629375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.983007,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 75.156,
+          "correlation": 0.979943,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 180.3744,
+          "correlation": 0.984317,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 292.624,
+          "correlation": 0.985711,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-008",
+      "subtitleFileSha256": "8d013e2593cf2302b390287815598f212824d0b1b6c20111b456b5bbb33a8d5f",
+      "inheritedCanonicalTextSha256": "9353739c7bc1caf09fed4a0b5d731b906f0fb9a637ba5be3ea86cd1998c04f29",
+      "mobileSha256": "28dcd1f408439f3df7a3b17807d62893853f89d8a9fc095fc4e45c2b6c4aad81",
+      "mobileBytes": 21924409,
+      "sourceSha256": "2cd16794d92fec3fb74c788e9682fab10a054ed5593fe729fe746244236c561d",
+      "decodedSourceDuration": 5296.704,
+      "decodedMobileDuration": 5296.725375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.982171,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1324.176,
+          "correlation": 0.963761,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 3178.0224,
+          "correlation": 0.984439,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 5288.704,
+          "correlation": 0.967063,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-009",
+      "subtitleFileSha256": "a731c46830550587fa2734e202f08a7584ed1ee689889ef52404a3a3c15d7291",
+      "inheritedCanonicalTextSha256": "2b4568d8a240bc7934307e7aab29e5700e27e0a6a37f255e95fde672e8d30642",
+      "mobileSha256": "7960781f1f2d966b3832ad927cc6f3a66765d43bdee2557b6d147ace7528d6c1",
+      "mobileBytes": 54327104,
+      "sourceSha256": "4c9384b5e99c2a0c405c5e9a25d69b36422e89bca0ca540125dc98a4d0b5fad2",
+      "decodedSourceDuration": 13120.704,
+      "decodedMobileDuration": 13120.725375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.980869,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 3280.176,
+          "correlation": 0.989205,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 7872.4223999999995,
+          "correlation": 0.979577,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 13112.704,
+          "correlation": 0.981458,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-010",
+      "subtitleFileSha256": "0581902b1296e9cd3569bba37afbaba8932496965c81d0ea236712eec684535d",
+      "inheritedCanonicalTextSha256": "be0b960cd40994008b1dc7d06842642534e2d8329f571158a8abcf79f9b6a168",
+      "mobileSha256": "0e2e89775dae3593f3ca238eb426bc8d61a4156a431f39ffab5ec5f004a6de5d",
+      "mobileBytes": 10073456,
+      "sourceSha256": "3bfe94356aee3ef412c099d3cb6726caffa7d292a103186ae0bc9dfb648c789f",
+      "decodedSourceDuration": 2433.624,
+      "decodedMobileDuration": 2433.664,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.965496,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 608.406,
+          "correlation": 0.979785,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1460.1743999999999,
+          "correlation": 0.984769,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2425.624,
+          "correlation": 0.994755,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-011",
+      "subtitleFileSha256": "bd168fee267f89155edffcf6b629ea5232423df01ab7484a5295e36ea500bbc5",
+      "inheritedCanonicalTextSha256": "ca0441269f6c94dcf2202723fe2f6339c6068fcc48bc5d19c6fb20789849a82e",
+      "mobileSha256": "24fd5f9ca21ead25426c58937159acd8e9caf21a94023441caa95f8e54b2a504",
+      "mobileBytes": 1815935,
+      "sourceSha256": "ae99a6c329be1ee280ac9948b37ae53f5d328143ae0f8fa6fe7ecef84a61fafd",
+      "decodedSourceDuration": 438.048,
+      "decodedMobileDuration": 438.0586875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.967228,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 109.512,
+          "correlation": 0.983081,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 262.8288,
+          "correlation": 0.982537,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 430.048,
+          "correlation": 0.985943,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-012",
+      "subtitleFileSha256": "09ece1530777ffdfc51b0ef73f98f26625d40b922dbda8d880bc94230c096f20",
+      "inheritedCanonicalTextSha256": "afe8980fa79c0a30471f5e1b2ae03f61e96db34b7c82191acca0d189f844e277",
+      "mobileSha256": "f9ae0d2b32e4b78461729dc53d830b2625811e89a959b8232f3e485d2d8dab7d",
+      "mobileBytes": 8733515,
+      "sourceSha256": "13787b83139a05fad5c6ce4eb6e00b46a22db7e80f30cc97df9a23553dcaf381",
+      "decodedSourceDuration": 2108.424,
+      "decodedMobileDuration": 2108.4586875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.988011,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 527.106,
+          "correlation": 0.985761,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1265.0544,
+          "correlation": 0.987844,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2100.424,
+          "correlation": 0.986893,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-013",
+      "subtitleFileSha256": "5325d2f0b2a04d2e4b8074f50f1ad3351c2b995eaf148adee70102b16526f1a5",
+      "inheritedCanonicalTextSha256": "628a5629e0f400a88b93c6ea470616be16808f3ad4282ed3da42c1664f113b80",
+      "mobileSha256": "0ac43342df5851370741b1a41bf443fa3cdef54fe0e568df02a55bdccd3c0b2c",
+      "mobileBytes": 1354152,
+      "sourceSha256": "2f14f95570d3a9dce81ff6e0d9b979e5fc9195d73df0100beb1e1373aa346b10",
+      "decodedSourceDuration": 327.168,
+      "decodedMobileDuration": 327.168,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.989871,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 81.792,
+          "correlation": 0.980289,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 196.3008,
+          "correlation": 0.986484,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 319.168,
+          "correlation": 0.983203,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-014",
+      "subtitleFileSha256": "517fd814957dda09f3e1930dfe565ed6ac9048ac92c37f9808a3f03867c5e28f",
+      "inheritedCanonicalTextSha256": "51a1b347c74ac2875d2cfa3f53f57c0a8e057ba24d4e2fa2c77463c49b7b0726",
+      "mobileSha256": "3696b8f252f34a47a47c31f0e157a400d85993f677e98a67a1d099c800b429b3",
+      "mobileBytes": 5820551,
+      "sourceSha256": "a80bee325e15282ffd88a29043b4b297f5a41cbde504ab2427225223956998f5",
+      "decodedSourceDuration": 1405.296,
+      "decodedMobileDuration": 1405.312,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.968301,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 351.324,
+          "correlation": 0.980074,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 843.1776,
+          "correlation": 0.971919,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1397.296,
+          "correlation": 0.971872,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-015",
+      "subtitleFileSha256": "dd0d60753da81947098c9768191f06a7e06f03af6a3c2689307dad5a6022a5ca",
+      "inheritedCanonicalTextSha256": "c12950bbdda85857caa244a3c971df0d1bdec4fc62b530d044dabc38975f2a77",
+      "mobileSha256": "864c91790e6c5ab7d0ac19741b79cb4cef2d8f07b570a2f454ae447c2d949108",
+      "mobileBytes": 2424441,
+      "sourceSha256": "b8565934ec02bbd9a11dd3146a391f8f9a2e5c4be573de44052ec49466897780",
+      "decodedSourceDuration": 585.744,
+      "decodedMobileDuration": 585.7706875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.978257,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 146.436,
+          "correlation": 0.971397,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 351.4464,
+          "correlation": 0.976995,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 577.744,
+          "correlation": 0.977712,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-016",
+      "subtitleFileSha256": "e8757ac7c54fde81486dba23d075bc2b3dd63c51570d0d3141e5a989409e67d7",
+      "inheritedCanonicalTextSha256": "7fdcc1daf3f9d0e4dc5a4b38564e98ec08754b96647ca5fcfe9a7097ca5d2c19",
+      "mobileSha256": "4f57350f746569ce9304ce54991959b6f60cff6bd68f43090b9d942bdeafd0f2",
+      "mobileBytes": 2178644,
+      "sourceSha256": "8c47878dcded6fe3a221125b7352891cf1cc393ca357f5451a965302860f6947",
+      "decodedSourceDuration": 526.296,
+      "decodedMobileDuration": 526.336,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.969595,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 131.574,
+          "correlation": 0.980433,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 315.7776,
+          "correlation": 0.982006,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 518.296,
+          "correlation": 0.982699,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-017",
+      "subtitleFileSha256": "748a3cf95721cda457fb2bf5190d15bec62b7e02b77efd9c5a9c7d1d1937d16e",
+      "inheritedCanonicalTextSha256": "d76f30d70e80d9736137b3eaf98045b096a7c424b40c0d83fbe3bc2e5ed98b95",
+      "mobileSha256": "ec32e59aa2dbf77e7df1d5b6aea774f26763056b5c69cc63bad488fe60f2fafe",
+      "mobileBytes": 3656475,
+      "sourceSha256": "fac9c37c0ab0de2a85bbc31a387ffd74e90ae0ba1cb795e6a805807bf6560589",
+      "decodedSourceDuration": 882.456,
+      "decodedMobileDuration": 882.4746875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.984555,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 220.614,
+          "correlation": 0.986611,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 529.4736,
+          "correlation": 0.978704,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 874.456,
+          "correlation": 0.983871,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-018",
+      "subtitleFileSha256": "5e620e0a610e98e8d3bfcad763814f31c67182ede60892192891fb6b004dd145",
+      "inheritedCanonicalTextSha256": "eae8d8b4b77c928fb621c1965ff8c2161d92098f073fa48f38d01ed098337185",
+      "mobileSha256": "c05bf7389f6a681af6315d837975b35607f982f9e834c390d8b17042289e86e0",
+      "mobileBytes": 3324440,
+      "sourceSha256": "19b04f0b0191e60c3a995db40b2912ddecb55b367ab622cb580f65e2c457e405",
+      "decodedSourceDuration": 801.648,
+      "decodedMobileDuration": 801.664,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.981185,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 200.412,
+          "correlation": 0.988218,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 480.98879999999997,
+          "correlation": 0.991232,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 793.648,
+          "correlation": 0.991397,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-019",
+      "subtitleFileSha256": "bbf81a5f5ad94a331f796e7aec4d52fa7fdaba4cf621751ae04da8f3e3d606a5",
+      "inheritedCanonicalTextSha256": "e4e516a2d00f2ed00a4fd87b9306522c5daa44cd8e667eaa1b61b52a0dd6217c",
+      "mobileSha256": "ed2d0d1b54ecbf5ca71298d0801fb61fc995cc242c164b199e9d2d69cd30bc0f",
+      "mobileBytes": 5483050,
+      "sourceSha256": "efaeb4e94cc8742f781c83050d22b3346133cebbb14bc16ec015545cb8caaede",
+      "decodedSourceDuration": 1323.456,
+      "decodedMobileDuration": 1323.477375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.990359,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 330.864,
+          "correlation": 0.982569,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 794.0735999999999,
+          "correlation": 0.977219,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1315.456,
+          "correlation": 0.986145,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-020",
+      "subtitleFileSha256": "1509a2f734a5d4e54190108e32e17b84cc5cd0d33b663d5b49aabe0236752b3b",
+      "inheritedCanonicalTextSha256": "01c2d145aff092ac8cedeb0d196f272fea9e89f0f6d2c6e27fd51e8f97f281e8",
+      "mobileSha256": "3cecfbb894bb91201c29fddf90968bd1bb27820c3278ce051fea0dd5a144e5dc",
+      "mobileBytes": 8571627,
+      "sourceSha256": "783d12cc78c61d263103603fa1716a8e5e667fd84f959ac54ad8398e0b624436",
+      "decodedSourceDuration": 2067.744,
+      "decodedMobileDuration": 2067.7546875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.983323,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 516.936,
+          "correlation": 0.969785,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1240.6464,
+          "correlation": 0.960754,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2059.744,
+          "correlation": 0.979222,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-021",
+      "subtitleFileSha256": "2c7499b298f12bb9d25d2382f0d69b4eda06396e79fd979e4d43d5be10500348",
+      "inheritedCanonicalTextSha256": "005959a7cba9ef40dc016ddcb437c39d811530d3bd09db7e2b35a61d5e55b7b3",
+      "mobileSha256": "9b00333b2be57d6d3218142b4870eed42aeb5fb709284d93e3f592f26240c557",
+      "mobileBytes": 1453606,
+      "sourceSha256": "c087bcc99861802d657250729c03403372f2ace6aa7a00fb9289eb927d5c66bd",
+      "decodedSourceDuration": 350.856,
+      "decodedMobileDuration": 350.8906875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.984035,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 87.714,
+          "correlation": 0.985182,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 210.5136,
+          "correlation": 0.980608,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 342.856,
+          "correlation": 0.983249,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-022",
+      "subtitleFileSha256": "e039081d2dbc507840dd2016106cbc7816cb7fba98a61d9ffebe26f4fc3c21b8",
+      "inheritedCanonicalTextSha256": "549e629c37e7238b77b65f18cb870ab1441b80b6c11258ffdeb2922dea7842e9",
+      "mobileSha256": "80e45d28272e07d5be31b59e41b90a15045ed3be949004676471c4954b4621ee",
+      "mobileBytes": 1445496,
+      "sourceSha256": "a6f6ac5e698f212a15bab8a5cb00d53bb036d1729fbdbec2d97f64a9b3221318",
+      "decodedSourceDuration": 348.576,
+      "decodedMobileDuration": 348.5866875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.980493,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 87.144,
+          "correlation": 0.983778,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 209.1456,
+          "correlation": 0.982103,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 340.576,
+          "correlation": 0.979021,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-023",
+      "subtitleFileSha256": "f11de1d3f7678c90ad5b2b4d61e55de0721c14faf12ae97729e4bce5bbf4481d",
+      "inheritedCanonicalTextSha256": "2ce22805b2e5b9cd57553dff316d03019678b0fe392fc325918985d0729e1615",
+      "mobileSha256": "80a45a66f7405a565898ea1d8df43aa891ea2c1a84774d560c547cc2d207985b",
+      "mobileBytes": 19613789,
+      "sourceSha256": "a9c6a058c78b4f9eadd50a01e88dfeedd271c0b8780444537cccc102526d41ab",
+      "decodedSourceDuration": 4737.456,
+      "decodedMobileDuration": 4737.493375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.966612,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1184.364,
+          "correlation": 0.981092,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2842.4736,
+          "correlation": 0.982141,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 4729.456,
+          "correlation": 0.980218,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-024",
+      "subtitleFileSha256": "32d840b5c78842163b2cdb13dda4e6d59218a8182494fcac52fb79105132bcbd",
+      "inheritedCanonicalTextSha256": "d43fcf60ddd8dd238ea439b86b4946f90adc401c77ef740fa4d0cb1f254928de",
+      "mobileSha256": "3b43384b17654091450963350672009412a4c918ff6431525110cbc3c5e96f6e",
+      "mobileBytes": 871022,
+      "sourceSha256": "3159317922e67de5c268ba0bc630a1196730eade3acd926ee8a59661e443ebba",
+      "decodedSourceDuration": 210.648,
+      "decodedMobileDuration": 210.688,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.985242,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 52.662,
+          "correlation": 0.975711,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 126.38879999999999,
+          "correlation": 0.971852,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 202.648,
+          "correlation": 0.977151,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-025",
+      "subtitleFileSha256": "f1c0a285bff7b2ccceeb9aaec3ac533d26ee0f826a910f0d62959f518405fe87",
+      "inheritedCanonicalTextSha256": "f7dc15ed46f5bf98a808e9e7a80fb192060961aefa56d8355e75113f2e024219",
+      "mobileSha256": "f5cafefdb90d102433b43949829b95d404a46ff3bcedb4ef5e0fb68861eadb9c",
+      "mobileBytes": 1144369,
+      "sourceSha256": "971117d0ddf89b135a53212d8285b170f5a472d2a08dbf8395038a3679017242",
+      "decodedSourceDuration": 276.624,
+      "decodedMobileDuration": 276.6506875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.984856,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 69.156,
+          "correlation": 0.978686,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 165.9744,
+          "correlation": 0.990984,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 268.624,
+          "correlation": 0.982363,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-026",
+      "subtitleFileSha256": "97799b08b44423b3f1c73c6ea961b8c2d5a2ed6f9942be3229bdf73ceaf17938",
+      "inheritedCanonicalTextSha256": "04d0a9e67f3ed98617dfe24486be49caa564729b057d0ee3c36dd3ec79993e77",
+      "mobileSha256": "cdf208105450d7696fe58c9ff76850ad4851369348073f0ceefce4e43e7f4e7f",
+      "mobileBytes": 31516353,
+      "sourceSha256": "76c0c27b348c1c29a90f2975ed10eb819065414aba49c60478e71b9576a1db7a",
+      "decodedSourceDuration": 7616.928,
+      "decodedMobileDuration": 7616.9386875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.969535,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1904.232,
+          "correlation": 0.983064,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 4570.1568,
+          "correlation": 0.991711,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 7608.928,
+          "correlation": 0.990085,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-027",
+      "subtitleFileSha256": "923d5346df9b7d9db237785f60de7e3bdb1bc3e8e2452115ca97195601c330aa",
+      "inheritedCanonicalTextSha256": "3cc1361dbf05bd216b80209bda16af3a6da4edecbd55ffe2335bb88ebc777fb9",
+      "mobileSha256": "a52ed30fb07d79f55f1cdd8fa6ee3ab64f27ff19ee19b28fa82b87b8955a3a3f",
+      "mobileBytes": 1752822,
+      "sourceSha256": "7915f56b783900eaa14990273e437c9c5a7675733c0d65669e8f9f04172d5683",
+      "decodedSourceDuration": 423.384,
+      "decodedMobileDuration": 423.424,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.991194,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 105.846,
+          "correlation": 0.990597,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 254.0304,
+          "correlation": 0.98464,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 415.384,
+          "correlation": 0.988432,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-028",
+      "subtitleFileSha256": "fb31c19aaee8e572369b530f7a68497e7511d2b177b968db21b156118ae6a6ac",
+      "inheritedCanonicalTextSha256": "e0802ff79f88156578da3f56e35056b8d52a03f2093df2808ad902aa7e55056a",
+      "mobileSha256": "18ad9cd1a2b309f6edfa858d970ffe61fe9677819a768d57d079edd0df6e7d71",
+      "mobileBytes": 3066278,
+      "sourceSha256": "f8c747cedfba2eec704a5ae1acab7af9c2d78a199a406a3ddb13f828c65a3a24",
+      "decodedSourceDuration": 739.776,
+      "decodedMobileDuration": 739.797375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.981763,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 184.944,
+          "correlation": 0.974559,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 443.8656,
+          "correlation": 0.988261,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 731.776,
+          "correlation": 0.969841,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-029",
+      "subtitleFileSha256": "67b7497f5dbef5f88380d1ced1cdd6a20e0030754660da1f02e7832754787fff",
+      "inheritedCanonicalTextSha256": "9af5ced8106301ee0d45d4cd3c50ecc5c6c1aaf4841feb916df3536523b2c63d",
+      "mobileSha256": "a66e733a7e035301980d9e1eef5cc50209192b808ee9f751f4f63d3125258b3d",
+      "mobileBytes": 3483559,
+      "sourceSha256": "62db374a3dd9ab3c3f4e928b9fe76eef7141104b82143252baf3e69fb77dd3e7",
+      "decodedSourceDuration": 841.296,
+      "decodedMobileDuration": 841.301375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.966764,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 210.324,
+          "correlation": 0.979217,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 504.7776,
+          "correlation": 0.986014,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 833.296,
+          "correlation": 0.970366,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-030",
+      "subtitleFileSha256": "3acb2e8dd49e35c0ba49298dbb7f470a7641a821d58284da9d44a12b56d79d98",
+      "inheritedCanonicalTextSha256": "5c214976ed12d08e0a817df60b8ff4d5e98d72eefd5c98fce31a3999f5d8ca19",
+      "mobileSha256": "a8c6da34defaabc1e116f58debe78fafb99f773c5854230772696272a0a7d3f0",
+      "mobileBytes": 899535,
+      "sourceSha256": "351155e9eda77dd8e8f8509538018bc2214c2eee5475b2a3f13c8aace5642628",
+      "decodedSourceDuration": 216.984,
+      "decodedMobileDuration": 217.0026875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.986923,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 54.246,
+          "correlation": 0.968426,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 130.1904,
+          "correlation": 0.990957,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 208.984,
+          "correlation": 0.952396,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-031",
+      "subtitleFileSha256": "65a25ba4b161fc9f35bb2739aada15b019dce9494fc565da81981aa0e4f309ae",
+      "inheritedCanonicalTextSha256": "cef130bc98f5ecfd6b4155cbd5e84c18036fff5309cbf44bb7115c8f44952d46",
+      "mobileSha256": "39ee85fc6d7e4eeee94a2123dff317d4f1f1b1fc533388309e44704f3f5cc6a0",
+      "mobileBytes": 690986,
+      "sourceSha256": "99ac9f49beb922161ad4b80d69e6a48705cc08e8018b9b979fda846cfa564101",
+      "decodedSourceDuration": 166.608,
+      "decodedMobileDuration": 166.613375,
+      "waveformChecks": [
+        {
+          "seconds": 20.826,
+          "correlation": 0.986862,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 41.652,
+          "correlation": 0.983946,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 99.9648,
+          "correlation": 0.967172,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 158.608,
+          "correlation": 0.969743,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-032",
+      "subtitleFileSha256": "795d9bfaf82925db8c21494a734bab6b48bf8e3af72197f5b9a1ed0ae82a8c17",
+      "inheritedCanonicalTextSha256": "d6b2b03ba6b30cb2640f86e9467c869138572f70395e811fe2453d198d18710b",
+      "mobileSha256": "8d7118f4c9ff91fb6516a15287863c5893a56cf83604324a358faea516925c16",
+      "mobileBytes": 5891173,
+      "sourceSha256": "6d8ab5e5a8bfe8082e5db8fd3aeb9439982a3139a1ce8852aed8b4f7d4e4492c",
+      "decodedSourceDuration": 1422.744,
+      "decodedMobileDuration": 1422.7626875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97941,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 355.686,
+          "correlation": 0.989965,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 853.6464,
+          "correlation": 0.964193,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1414.744,
+          "correlation": 0.980937,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-033",
+      "subtitleFileSha256": "d812e24483a3ccb0897031bed56558c1a4fb40433bb8e99ce3c00224780fade8",
+      "inheritedCanonicalTextSha256": "df4c75cb783ad910903c8541ffea4ee4d44174f46a79e3325320afc9bd208836",
+      "mobileSha256": "69dd1dd61161b7b1d59f1002cd053c982f3fc35652046670aec3c717b9992480",
+      "mobileBytes": 1817150,
+      "sourceSha256": "1882d4448f63c13cb7621a17aec4c0cdfa0280ba321752bdc645a1c25eb85ce4",
+      "decodedSourceDuration": 437.856,
+      "decodedMobileDuration": 437.888,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97874,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 109.464,
+          "correlation": 0.977414,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 262.7136,
+          "correlation": 0.976698,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 429.856,
+          "correlation": 0.982608,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-034",
+      "subtitleFileSha256": "0c674414ae01beb4e948aefebad7fe085ec65458754dca1652ac2e6c8fbe8803",
+      "inheritedCanonicalTextSha256": "bb75531a9104289aa8df77db6aa3abf9062877e74d636330b3953e20ebc4702d",
+      "mobileSha256": "2b9a732a39ddbd57baf9af73d2e92a88ab5905aedc6ed9b2877a432aabc033fe",
+      "mobileBytes": 6087079,
+      "sourceSha256": "3f631a5d07b2257c33e9a756ad846cc1c0dece7f0e32a6318b3c24e3431677a0",
+      "decodedSourceDuration": 1469.088,
+      "decodedMobileDuration": 1469.0986875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.974377,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 367.272,
+          "correlation": 0.975487,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 881.4527999999999,
+          "correlation": 0.984647,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1461.088,
+          "correlation": 0.982295,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-035",
+      "subtitleFileSha256": "4771cfbc3cef7ca27547d43f159841b83efe9cd0579fe4b38a6f763c8e9446d3",
+      "inheritedCanonicalTextSha256": "0b3bbcad1838f3aed9d1c262d77685857588d35a8551330a39cef2f7fe3bfe23",
+      "mobileSha256": "f26c5ab5f100812dca9bb47efac024abcbef1ccb60d83f22333b33b53b8c6c83",
+      "mobileBytes": 3008107,
+      "sourceSha256": "d5734bbaac0534b8590b33cf46729d2924956ba19899757180a74121654b2b9f",
+      "decodedSourceDuration": 725.496,
+      "decodedMobileDuration": 725.504,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.979543,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 181.374,
+          "correlation": 0.987198,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 435.2976,
+          "correlation": 0.987731,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 717.496,
+          "correlation": 0.986097,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-036",
+      "subtitleFileSha256": "2a5477f99336ea27dee298cf427b79ba182233bb6193495d8f8271e2a091dcc2",
+      "inheritedCanonicalTextSha256": "c57840a34dcafcb73f789daddce83027a4654ff0b9740543e9455aa21a397faf",
+      "mobileSha256": "7cfbe32faee2cbf9e9257ad75d692e9a2511c95aabc91d68cff5742a34bfdf27",
+      "mobileBytes": 1870257,
+      "sourceSha256": "038f6601324f8dde28e94ff6b37a0bb4ee3364d14ad4d0fce922bf3099919480",
+      "decodedSourceDuration": 451.896,
+      "decodedMobileDuration": 451.925375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98126,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 112.974,
+          "correlation": 0.986071,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 271.1376,
+          "correlation": 0.989056,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 443.896,
+          "correlation": 0.98065,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-037",
+      "subtitleFileSha256": "54a90e5a687ab3344e2ffe616b491a6e8b4574435d32d35a22515d19f5f92407",
+      "inheritedCanonicalTextSha256": "25c300ae06dd254a9bfa59e3545ccf7b9fe1e9e858622ecaf76f5b38af81e686",
+      "mobileSha256": "4d9e95a6b5b8f5e5d88f7b05e799d8ac39e9a7560c5c0700093f14e1094bf394",
+      "mobileBytes": 5400163,
+      "sourceSha256": "41fc13c1a9bb9de224aba0cba1389397fb79080c4081237bb0aea910bc8ba361",
+      "decodedSourceDuration": 1304.016,
+      "decodedMobileDuration": 1304.021375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.981217,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 326.004,
+          "correlation": 0.981141,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 782.4096000000001,
+          "correlation": 0.982934,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1296.016,
+          "correlation": 0.986558,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-038",
+      "subtitleFileSha256": "d3e807f46947bbce0c842de0d595f0dd2a5f253e6f5e38f5ecedbc4d0e80f9c8",
+      "inheritedCanonicalTextSha256": "5ab0e04e67dcb7932ea0f32c9779ef3caba0aecada144bdbf8542693a9622e02",
+      "mobileSha256": "942ae6fdc8ce60f5542148e17957abf2a7a1caf695e405eeeb7946fd716423e0",
+      "mobileBytes": 3854783,
+      "sourceSha256": "bb22ada2d2c5b82ac4f99a87fc368de9a3eff133698bd114a154a614fe14c105",
+      "decodedSourceDuration": 929.784,
+      "decodedMobileDuration": 929.792,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.986997,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 232.446,
+          "correlation": 0.981532,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 557.8704,
+          "correlation": 0.991551,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 921.784,
+          "correlation": 0.96727,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-039",
+      "subtitleFileSha256": "5a6685ddc9841393341b281f0f460aab00462cf3d061c46e0653bcedf10a908a",
+      "inheritedCanonicalTextSha256": "253cbc4f22b0e7a8b61a2387e6e5a3564f8027f67ce86407e6b66bc667f2c295",
+      "mobileSha256": "b52bb3d00255e6d193c877dd56fedd73117f52e23a403c32df919f540d17890e",
+      "mobileBytes": 1144503,
+      "sourceSha256": "132e996cc6178ad50a668a24d2601af3decc5365dde8b1161f3633dc15db5154",
+      "decodedSourceDuration": 276.384,
+      "decodedMobileDuration": 276.3946875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.972754,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 69.096,
+          "correlation": 0.986274,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 165.8304,
+          "correlation": 0.980684,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 268.384,
+          "correlation": 0.98785,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v2-040",
+      "subtitleFileSha256": "b9e3937d28fcef75b04683e9cefd34c9706563fba68a12535baa0541402757cc",
+      "inheritedCanonicalTextSha256": "b16c917aeeca4261c6e9d20216d55dddd766490f92c776b9b6dad5463efece21",
+      "mobileSha256": "91f3a2c835a9affc432bd873172cce3a576909e86e7c70622f3341cb57c883dd",
+      "mobileBytes": 3161132,
+      "sourceSha256": "f8d3c72c6ee222cfd632aa09759f7b71df4a73eda1d7ad1f2ee9739257b42d9f",
+      "decodedSourceDuration": 763.224,
+      "decodedMobileDuration": 763.264,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.991553,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 190.806,
+          "correlation": 0.981061,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 457.93440000000004,
+          "correlation": 0.987992,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 755.224,
+          "correlation": 0.97748,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-001",
+      "subtitleFileSha256": "81d23e75caca2985bc6f2b4e84c779e7562e6a6d94a9a05eb45333e59b9884e2",
+      "inheritedCanonicalTextSha256": "7217c794fe83dc0510a08c3da232f86c71778731a9453b00bf7e2b16093a9175",
+      "mobileSha256": "9d08d2107edc2d0058a1a7bab7edeecbed93c5fffb2770cd2aabac3866e609b7",
+      "mobileBytes": 3291404,
+      "sourceSha256": "5ca21bf220a02e2f2b7294bb597822aaab820aba0b6a92a73f838428c2366675",
+      "decodedSourceDuration": 793.464,
+      "decodedMobileDuration": 793.472,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.952775,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 198.366,
+          "correlation": 0.971044,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 476.0784,
+          "correlation": 0.949027,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 785.464,
+          "correlation": 0.944331,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-002",
+      "subtitleFileSha256": "c5d5ff54991d7b5a6d28fcc13221e634ad0c6cc6da6e88957884740eee441243",
+      "inheritedCanonicalTextSha256": "7a2185dc95027e0c7607323f9e268ce7b9397bac7da1f4a0d1a8e3389418a16c",
+      "mobileSha256": "ec980994712784d6ac9d46640c7dad7620d3c42e2d91cde308f798b433aec3b8",
+      "mobileBytes": 4963572,
+      "sourceSha256": "ddca7524b9d5b2a53136a866bc9c92d81f593a9dce952139a9eacf2eb121f345",
+      "decodedSourceDuration": 1198.224,
+      "decodedMobileDuration": 1198.2506875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.968633,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 299.556,
+          "correlation": 0.987072,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 718.9344,
+          "correlation": 0.942395,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1190.224,
+          "correlation": 0.947095,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-003",
+      "subtitleFileSha256": "9a5db1ffeee6ecabf0ad8d9ec3eb07840fb252f710f5e1918df11f91a0e3a819",
+      "inheritedCanonicalTextSha256": "cb94f354153ba36b8ef8c21606951a4bb3d5caa27a45095c0c14c820b0be08d4",
+      "mobileSha256": "1446af9bd2aa6ff8f759e377bb7d3668ef7c667b05a6edfb49e9f540cc56ef53",
+      "mobileBytes": 563993,
+      "sourceSha256": "02d43f5d7eca1e4315481d4032a7160394fb8323533367ae84cd83b637e4d553",
+      "decodedSourceDuration": 135.936,
+      "decodedMobileDuration": 135.936,
+      "waveformChecks": [
+        {
+          "seconds": 16.992,
+          "correlation": 0.976259,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 33.984,
+          "correlation": 0.95784,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 81.5616,
+          "correlation": 0.960085,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 127.936,
+          "correlation": 0.966026,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-004",
+      "subtitleFileSha256": "a0085bba5ffa609e8d59b18b4e16002bf1c88e8482a7454d76aa02832be940ad",
+      "inheritedCanonicalTextSha256": "584fa41b6221746ccada613a7ad879fadbf8b11e4d8cf4916cb8da8b0a6be56d",
+      "mobileSha256": "9e0ca753e1ac9c5d88fe8b9142bddfe49122b3fd7c4da413003c2cc7c8706f59",
+      "mobileBytes": 443926,
+      "sourceSha256": "e3fe0fa66526e07a487fcb3a1a7f67c1313f60da2cdf54a7bf9d9e1f17bdade8",
+      "decodedSourceDuration": 106.704,
+      "decodedMobileDuration": 106.709375,
+      "waveformChecks": [
+        {
+          "seconds": 13.338,
+          "correlation": 0.967051,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 26.676,
+          "correlation": 0.957896,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 64.02239999999999,
+          "correlation": 0.958514,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 98.704,
+          "correlation": 0.966982,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-005",
+      "subtitleFileSha256": "66e31e1ab86719be6abf7c86cbe10ca366dc622c42864c5ea559fdf61d91af37",
+      "inheritedCanonicalTextSha256": "473f09bd2f9ecb2dc4421b1ede006749b815be5019fd2271096bca4729192f4c",
+      "mobileSha256": "08eb162deccd1952e99cd06abe685bfb5e38e526f4981ea994668ad494b847f5",
+      "mobileBytes": 2405660,
+      "sourceSha256": "297934db1f5f076b3adeccd74ff6106439ad70d7d147e57926924d775f6c6988",
+      "decodedSourceDuration": 580.584,
+      "decodedMobileDuration": 580.608,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.950125,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 145.146,
+          "correlation": 0.980693,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 348.3504,
+          "correlation": 0.957805,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 572.584,
+          "correlation": 0.960687,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-006",
+      "subtitleFileSha256": "47a303cd41579349c76e6e46ad11d1a51f00f488eb09e752e8d9acd56fb27965",
+      "inheritedCanonicalTextSha256": "7520d5cfac20766e826cd9d25ec6cfbff9f77066c548fdc7d46a4a4dabe6bc47",
+      "mobileSha256": "02a44df15b8b338853c1979529905c2ccd5821aead62a0046ac826ca4e9bdbc7",
+      "mobileBytes": 11560297,
+      "sourceSha256": "53c42dae94edca1f736ea0d2aaf9fa49c84dc9b6bec7770d65a92cbbb2481085",
+      "decodedSourceDuration": 2791.176,
+      "decodedMobileDuration": 2791.2106875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.945043,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 697.794,
+          "correlation": 0.944438,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1674.7056,
+          "correlation": 0.966977,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2783.176,
+          "correlation": 0.94799,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-007",
+      "subtitleFileSha256": "97d716dd9b63b897bc942510e72f0896d3688b0a1d56d732985c93ba3e61e7e2",
+      "inheritedCanonicalTextSha256": "a5927e3497e0c78f349176aaa5e7afa176a6d252380341c126cab8014e24747f",
+      "mobileSha256": "37d652d3d97b9cb18954efc81550e0c9e9c59e507985caabb85a4671638b4ac8",
+      "mobileBytes": 10782112,
+      "sourceSha256": "d26027520a3c42af36fe671343617363da5463b9757f5ceae90a6f31daa7ad43",
+      "decodedSourceDuration": 2602.944,
+      "decodedMobileDuration": 2602.965375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.956376,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 650.736,
+          "correlation": 0.958278,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1561.7664,
+          "correlation": 0.97334,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2594.944,
+          "correlation": 0.969225,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-008",
+      "subtitleFileSha256": "9a10342847a7e2d9bfec177292d693b8033b1d796244da26c162eb4d52bc8879",
+      "inheritedCanonicalTextSha256": "d5bc6d8c924b508d51e13c691518a7532d4a905d07e8bfb96034c2c22db6e116",
+      "mobileSha256": "6a8dfd81e56814342a850e6a9beac1218c3c68cf7cd009d7698bf34d8ad0beff",
+      "mobileBytes": 25661412,
+      "sourceSha256": "60af525851b015bb2eaf052b63928b5fca6235e071615d93f9da4b25db792337",
+      "decodedSourceDuration": 6201.144,
+      "decodedMobileDuration": 6201.173375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.970377,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1550.286,
+          "correlation": 0.979021,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 3720.6864,
+          "correlation": 0.984684,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 6193.144,
+          "correlation": 0.972352,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-009",
+      "subtitleFileSha256": "b2b2802525fe9df2aab8fa4d37e936559d3a1ef116009bcb3a7318be954d2fd6",
+      "inheritedCanonicalTextSha256": "62271da82ca12a84f4098231ba094e60e2669699082499692f0501f9e11ce94a",
+      "mobileSha256": "0282a810eba119fe961be89e12be58998488cea6c3b50f77527e0567256f5949",
+      "mobileBytes": 2088417,
+      "sourceSha256": "aca342c171d5d8b9f3622e7d9128c2faeebcbcad489aab9f97296d43fd0d5b05",
+      "decodedSourceDuration": 504.936,
+      "decodedMobileDuration": 504.96,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.985937,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 126.234,
+          "correlation": 0.990379,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 302.9616,
+          "correlation": 0.972563,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 496.936,
+          "correlation": 0.958088,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-010",
+      "subtitleFileSha256": "8c54eed5ae3a04f7c3ca059a22f6b0fe706f936c09f925c9d511b0b99b89dbff",
+      "inheritedCanonicalTextSha256": "94d116c3efed46206fd117a07d3088aebe3e7688d3a0492f58efbf0fc929c12a",
+      "mobileSha256": "cf0254f047c66700e67ee6050b60f6bb75787df6fe7bd645ca7db77adbe856ad",
+      "mobileBytes": 3343646,
+      "sourceSha256": "6ef1020889703182dfdb60cc553c3e7f1328cf6b7262ef6cac6bae77b4706256",
+      "decodedSourceDuration": 805.536,
+      "decodedMobileDuration": 805.5466875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.948192,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 201.384,
+          "correlation": 0.946589,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 483.32159999999993,
+          "correlation": 0.963628,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 797.536,
+          "correlation": 0.949253,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-011",
+      "subtitleFileSha256": "e852f0bc352ac6bda1f164d868dbd2400d3515466b9e013280f8ce02dd7595e3",
+      "inheritedCanonicalTextSha256": "e41bef2d8fb554df917044b51d7c4209bf8d707f614bb44a4572ed27e54c54ab",
+      "mobileSha256": "ed0e1c2d4f9e3f70e460d5e13236521926a0ae6eb9722fc17ed94c164826134b",
+      "mobileBytes": 450548,
+      "sourceSha256": "12746d6df4e27d48dd2b553ca9d509799add34e648cf86770862e043759a7e94",
+      "decodedSourceDuration": 108.624,
+      "decodedMobileDuration": 108.629375,
+      "waveformChecks": [
+        {
+          "seconds": 13.578,
+          "correlation": 0.952895,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 27.156,
+          "correlation": 0.962044,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 65.17439999999999,
+          "correlation": 0.963358,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 100.624,
+          "correlation": 0.964256,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-012",
+      "subtitleFileSha256": "d043ef4e26978d0d318958e17220e5780f6359d73f5108e1032f97d7da41be35",
+      "inheritedCanonicalTextSha256": "08e0f23bc59511b2ab308d4d54146ebbd32eb485112f437b9baf3569969d31e5",
+      "mobileSha256": "59a7878d3c66005973e35be4e16bec9fa3b62ace5d6085fd33bca3e96c805546",
+      "mobileBytes": 3150690,
+      "sourceSha256": "8a105847a069369f1bf1ef9189877eb2ebbe19accc319515563c31664615092b",
+      "decodedSourceDuration": 759.888,
+      "decodedMobileDuration": 759.893375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.964515,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 189.972,
+          "correlation": 0.949519,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 455.9328,
+          "correlation": 0.969977,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 751.888,
+          "correlation": 0.956064,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-013",
+      "subtitleFileSha256": "9fafb10e5ab775e6ecfc999589b72d2537e977fc35d505e66bdac23d6463a209",
+      "inheritedCanonicalTextSha256": "8fa03da7d7756d32667a8bbba21227bff368230faa285b1f7fb3bf35d0e3992b",
+      "mobileSha256": "0106d9b15f0f773ef40cfe03535e10576939886d3087b8dbbd36100c60e56135",
+      "mobileBytes": 3722590,
+      "sourceSha256": "d9367fc63118b7c684975655c4d5b3896fd9ee5ae2d89333c369cbc7877e9516",
+      "decodedSourceDuration": 899.064,
+      "decodedMobileDuration": 899.072,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.968901,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 224.766,
+          "correlation": 0.958288,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 539.4384,
+          "correlation": 0.973078,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 891.064,
+          "correlation": 0.965837,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-014",
+      "subtitleFileSha256": "5283f63ecceb5da8ea1e3095c2a1907faa1ab5231b8a6c69ba7b237340108179",
+      "inheritedCanonicalTextSha256": "cdf7ee5f7a9c66a35140b9129e5638fca983b4b4d4ab25131155a40c28fc442d",
+      "mobileSha256": "17f5c6cacbfe251c8f25f02877947a8f8fa0cba565c54796dea7e503d834a7c9",
+      "mobileBytes": 4457619,
+      "sourceSha256": "77f0b10ae5745a0a5761b346d82893679e1d51cfd80addfd2fe31360f01ba428",
+      "decodedSourceDuration": 1075.968,
+      "decodedMobileDuration": 1075.968,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.950526,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 268.992,
+          "correlation": 0.969157,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 645.5808000000001,
+          "correlation": 0.959805,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1067.968,
+          "correlation": 0.968898,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-015",
+      "subtitleFileSha256": "c907d0be9265647c2438420d84b9351a5cd0dd4f6fc5b0c878fa2da0710d9fe1",
+      "inheritedCanonicalTextSha256": "2477e42745c387d091f357d651cea187170b8f9a2ce70887af2b5db00ed37a2c",
+      "mobileSha256": "40d0244db236409dfcc521d14e9729fa4e94cf35465eabc2aa9430aa4385dc33",
+      "mobileBytes": 2495753,
+      "sourceSha256": "1f3c7f4290a964339f72c1e09ba42ce8ffe0939e69ce1c63e0c2ee4e07375dd9",
+      "decodedSourceDuration": 602.736,
+      "decodedMobileDuration": 602.752,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.956685,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 150.684,
+          "correlation": 0.973974,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 361.6416,
+          "correlation": 0.967451,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 594.736,
+          "correlation": 0.971683,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-016",
+      "subtitleFileSha256": "825dbee8141eed5424f380f0935ee837318114fcf3221ec7b90a90bbe2e11bcf",
+      "inheritedCanonicalTextSha256": "738f629afe3bf2ad31322d50c24fe8377e6d253c3d0edc810bd7ff87c6bf7e4b",
+      "mobileSha256": "16ed5410a7bc2ed849d7bfb8a4662c3fba379eb6525a7783bdf800fdad68a991",
+      "mobileBytes": 9011767,
+      "sourceSha256": "abe742db2a82d1644420fd343f667453aa147c5caed0a036ac2745a05fcbfdb8",
+      "decodedSourceDuration": 2174.664,
+      "decodedMobileDuration": 2174.677375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96724,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 543.666,
+          "correlation": 0.96819,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1304.7984000000001,
+          "correlation": 0.971901,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2166.664,
+          "correlation": 0.943476,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-017",
+      "subtitleFileSha256": "d9a24eb359125ccf53fd2c2bd6a923eba809403fca791008faaa80e81de0be31",
+      "inheritedCanonicalTextSha256": "5463d0bef21804949ba3d451ef3aed9c3882eab5d5e2f0f089566eb96803a3c2",
+      "mobileSha256": "29d206afc502985f1676c3f19cde1622086729fdd2ace73931d320ef7cd3cd5b",
+      "mobileBytes": 5220672,
+      "sourceSha256": "8e5cdc97bc4c9e7f52f9bca1aea1cc4af0401e5db8238916b7aaeb5e82e82d36",
+      "decodedSourceDuration": 1260.504,
+      "decodedMobileDuration": 1260.544,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.95491,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 315.126,
+          "correlation": 0.969713,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 756.3023999999999,
+          "correlation": 0.975728,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1252.504,
+          "correlation": 0.956534,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-018",
+      "subtitleFileSha256": "16e1e5b6373b804b94141c22f62db9c5f69ce559652a1e9d1d312e9b3a06fd09",
+      "inheritedCanonicalTextSha256": "8bdf493ce037a511041449908a50cb4dcf1212f1221471dadc6e84380862641e",
+      "mobileSha256": "822b9468604fbaa0126fd60cf3584d03e1aa690186a1678859d6e8333f1324ab",
+      "mobileBytes": 7568053,
+      "sourceSha256": "705e6ba71ae9514ac2eab1605f96a056ba9671e4e33cc951129052db8c29fc63",
+      "decodedSourceDuration": 1829.664,
+      "decodedMobileDuration": 1829.6746875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.970778,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 457.416,
+          "correlation": 0.971218,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1097.7984,
+          "correlation": 0.964352,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1821.664,
+          "correlation": 0.951369,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-019",
+      "subtitleFileSha256": "8d7d854a0c36bed6eb0c84af9bc0b2327a58d17e238a781a1b9815fa07f9fc64",
+      "inheritedCanonicalTextSha256": "fce694946bbadf1efc0c386da11bf05065c4ea559c11eb445e811453fac6956c",
+      "mobileSha256": "1cdca9b90db65ebcc018b482abda9719c2889af2166bc7c3195ff5949840dfad",
+      "mobileBytes": 29712798,
+      "sourceSha256": "06794649d16e3f7cee75c166c8509d3cd2a5db9eb171d743d2436e17d5de39b7",
+      "decodedSourceDuration": 7180.464,
+      "decodedMobileDuration": 7180.501375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.971651,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1795.116,
+          "correlation": 0.977145,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 4308.2784,
+          "correlation": 0.966787,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 7172.464,
+          "correlation": 0.947221,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-020",
+      "subtitleFileSha256": "32d9668ecc5bbb8284b8e3eb3391e722174610ed723acba28f4f429ba4c5026f",
+      "inheritedCanonicalTextSha256": "ebb4c99154622afc68887aaa1e1b468c1f6efecea66d1d7a7d0d54fc2073b7e3",
+      "mobileSha256": "d187c4c9f347dc0ab1a1879e6d5a55f163a4a68b29aa8779d1d30091aa6b0b78",
+      "mobileBytes": 1167122,
+      "sourceSha256": "1a1d703acc0e75f1d864bcac54d94856af80518b0918deea986ce762818387d9",
+      "decodedSourceDuration": 281.904,
+      "decodedMobileDuration": 281.941375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96981,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 70.476,
+          "correlation": 0.963712,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 169.14239999999998,
+          "correlation": 0.962198,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 273.904,
+          "correlation": 0.978002,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-021",
+      "subtitleFileSha256": "d98300e703c3b2539dbf500f0938ed24a7d6e9c142c5ee5b78102ae15a53ae8f",
+      "inheritedCanonicalTextSha256": "194c7503ed95e8cd9844d40c6dfdfec86722aaae9bd6891a3d42ea0eec39b97c",
+      "mobileSha256": "43bf925bc1d5a066512cf51bd82183bac23698fbf769c3411d04ca9dc763bdcc",
+      "mobileBytes": 2340557,
+      "sourceSha256": "284bd8c50f40dd4f8877f686a61847e2b8e8d65a18860a801b860996f3bc7762",
+      "decodedSourceDuration": 564.936,
+      "decodedMobileDuration": 564.949375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.954523,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 141.234,
+          "correlation": 0.979126,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 338.96160000000003,
+          "correlation": 0.958056,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 556.936,
+          "correlation": 0.951896,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-022",
+      "subtitleFileSha256": "406d746ed3290e157d27db3a06f370da45432b76cbbd48a36be7d1347a847054",
+      "inheritedCanonicalTextSha256": "5459844d198bce9de2ca6110c9db4f7906d91df4d2fcbaebbd074d1a9ac68256",
+      "mobileSha256": "f08245bd5107b92d5ce8b8b387927da360ad04a3eb5960f2184fddf2e57243da",
+      "mobileBytes": 1303602,
+      "sourceSha256": "083221534788eb512fecc79c7b955db0dedd91d6dc725e1855e80d439b649da5",
+      "decodedSourceDuration": 314.424,
+      "decodedMobileDuration": 314.453375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.969031,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 78.606,
+          "correlation": 0.968589,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 188.65439999999998,
+          "correlation": 0.961937,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 306.424,
+          "correlation": 0.964963,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-023",
+      "subtitleFileSha256": "596d7387e093e85119f5339d308c05f3fd7bb7317d567f1b643b7207deda1950",
+      "inheritedCanonicalTextSha256": "4c655be47da7a7ce4341590c1e103871d6375f0dee2ad1ca98893b29b6f8aaa6",
+      "mobileSha256": "0edffb6cbabcad3485419fbd3ee75d5635ef61d4d964a55a472cbf82ef096bd1",
+      "mobileBytes": 4198057,
+      "sourceSha256": "e81f0e4ad946a0cd1d1e08c99210c5cecb7fcb74e77a47bf8d07895aede6daf9",
+      "decodedSourceDuration": 1014.888,
+      "decodedMobileDuration": 1014.912,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.963136,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 253.722,
+          "correlation": 0.981363,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 608.9328,
+          "correlation": 0.972967,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1006.888,
+          "correlation": 0.959967,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-024",
+      "subtitleFileSha256": "a79d7e815d67ebfbbf7013cd567dbbaafa8641d524951d22271b0bea5036de96",
+      "inheritedCanonicalTextSha256": "c42a9b01b2b0ff92c6e69b9ba5137541668d59758cade08f49e30884d4016eab",
+      "mobileSha256": "b5cee2beb2e6dad796b03f6899b0cb5157f17af5c19a14984f3bf287a7f03c6b",
+      "mobileBytes": 1970480,
+      "sourceSha256": "7bb6e782ce1a2df78c91ca08c203d6e29f776f8efea4da3281412c088a5e14e9",
+      "decodedSourceDuration": 475.488,
+      "decodedMobileDuration": 475.52,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.965875,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 118.872,
+          "correlation": 0.961691,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 285.2928,
+          "correlation": 0.954765,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 467.488,
+          "correlation": 0.960339,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-025",
+      "subtitleFileSha256": "f1aefcfc40140f2f02fbaf14a7e17a1ff3b114008a4605354114497b121216e6",
+      "inheritedCanonicalTextSha256": "1ce697047849bcb712d1b3223defbab974715cba527957deba5306c7c457f794",
+      "mobileSha256": "9b46ee555d29a7a15443af022138188e7e2d55973d8df05aaa0cbb2bb46de58a",
+      "mobileBytes": 1823894,
+      "sourceSha256": "d0decbbb2905324b6fdaf77f326a13774443c87a7427f7dba313580bc9dfd2f6",
+      "decodedSourceDuration": 440.544,
+      "decodedMobileDuration": 440.576,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.965002,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 110.136,
+          "correlation": 0.9689,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 264.3264,
+          "correlation": 0.95602,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 432.544,
+          "correlation": 0.964025,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-026",
+      "subtitleFileSha256": "157877cea12d9a9e03a194504f8328ab5b5ef23fb4a8baf757f7ca823db76449",
+      "inheritedCanonicalTextSha256": "997dccc8caead73b1dfb2732d302c363249406f385e3f1c71fed4a10ee5a0e4a",
+      "mobileSha256": "8ab709f29597fc5cac6c0cc41b419565d8755b599ac27259194418744d07ddab",
+      "mobileBytes": 44960697,
+      "sourceSha256": "ed97d489d2f98c72e4dc8a9f2b6f69c8f655daae977423edddc80b93aed3bcfc",
+      "decodedSourceDuration": 10858.224,
+      "decodedMobileDuration": 10858.24,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.966183,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2714.556,
+          "correlation": 0.965903,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 6514.9344,
+          "correlation": 0.973588,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 10850.224,
+          "correlation": 0.942401,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-027",
+      "subtitleFileSha256": "4b77b0861430e620c16a2d0ee043df36b8117e1776a5bfd463773e9a3269deed",
+      "inheritedCanonicalTextSha256": "41fbe0431f289ef0f5764b6ae7cae79065044fbe682e7253951030fbfc0c786c",
+      "mobileSha256": "cb1ab5f1b164fe806cca098714335e2e73db43063583d4242a4bd5f10831d0e3",
+      "mobileBytes": 2248620,
+      "sourceSha256": "5c5e32795a53c8ea2256d27d29c15fa5dcef78e110091359001568d141bd16b9",
+      "decodedSourceDuration": 543.648,
+      "decodedMobileDuration": 543.6586875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.972257,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 135.912,
+          "correlation": 0.966561,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 326.1888,
+          "correlation": 0.953292,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 535.648,
+          "correlation": 0.957939,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-028",
+      "subtitleFileSha256": "6c54ec3845865811d8b217b07e7b1cb6165a5e0f937dc65f4e8f4d1cf3421b61",
+      "inheritedCanonicalTextSha256": "7c8e0d52ee41925aeef6260c85d7b7bc8da77208884ec16a7aa19f4b103ad29d",
+      "mobileSha256": "ce7f92b80285491690ced8faec2623fbca37827b8c6816e80d0d1eb6bb1fc7a7",
+      "mobileBytes": 2794487,
+      "sourceSha256": "df54544feec81a07fcb6fac29f4d91d7a870b8fd14b46de023cd7aad5ba6f338",
+      "decodedSourceDuration": 672.696,
+      "decodedMobileDuration": 672.725375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.958311,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 168.174,
+          "correlation": 0.956446,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 403.6176,
+          "correlation": 0.970389,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 664.696,
+          "correlation": 0.965612,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-029",
+      "subtitleFileSha256": "b8b9a1b8c9de8c990b53cc6b75f869216477a730ce26c62c63edeb9622a804e8",
+      "inheritedCanonicalTextSha256": "44b8bc8f19dc6ec7b298860798ae7876eece3ca3756b2a4a3b74b7f2ceb8c1f9",
+      "mobileSha256": "f7e1fbd9daba796654149c64bb3f01741f080684f9576948c0171aa8870cde64",
+      "mobileBytes": 2158520,
+      "sourceSha256": "a5bb37d56785d467494e1ac67fb8abd8dbbc343f0ae65a8cf8d274c1f7a0ad5e",
+      "decodedSourceDuration": 520.176,
+      "decodedMobileDuration": 520.192,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.960369,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 130.044,
+          "correlation": 0.951518,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 312.10560000000004,
+          "correlation": 0.95974,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 512.176,
+          "correlation": 0.930955,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-030",
+      "subtitleFileSha256": "a4a76854d03994c174b45e4cd3b1428c6b0d7fd53d677e7919568f154198c406",
+      "inheritedCanonicalTextSha256": "e33fd188bb73bc4cf1042d993431b97fadb5e399f1cb5a43d22c4570ceaea00e",
+      "mobileSha256": "7823bd43fa9a49f998e00b30c3778c76e3d4e10634c01677751d49bc4f2a0c78",
+      "mobileBytes": 1114096,
+      "sourceSha256": "f5892db20668ab3d79816110b1db00b584d48ad7be8d45bbc183fe52282375ef",
+      "decodedSourceDuration": 268.656,
+      "decodedMobileDuration": 268.672,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.950155,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 67.164,
+          "correlation": 0.964615,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 161.1936,
+          "correlation": 0.954661,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 260.656,
+          "correlation": 0.955426,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-031",
+      "subtitleFileSha256": "8688338315e44533468e8894203c939fc0c10fdedf75281d312921c7ee608c21",
+      "inheritedCanonicalTextSha256": "deeeb191ad82a2784ee8a1da1a6cf31dd7f522f3cad23b0d9d88d6137a43742d",
+      "mobileSha256": "4fb3654079b222346616f15a2df2e996d626f533dd667d2ca228a1aac21663fc",
+      "mobileBytes": 397050,
+      "sourceSha256": "7c44b69192bcbd9f6a6ed4f913ef2db3cc0ee41da340b8517182b43e05d3f807",
+      "decodedSourceDuration": 95.496,
+      "decodedMobileDuration": 95.5306875,
+      "waveformChecks": [
+        {
+          "seconds": 11.937,
+          "correlation": 0.957198,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 23.874,
+          "correlation": 0.96526,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 57.297599999999996,
+          "correlation": 0.953739,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 87.496,
+          "correlation": 0.95424,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v3-032",
+      "subtitleFileSha256": "ed5757119d0fdcf6f320aaa3db781f117b2f7a67b67bd6c43017290421bd0b4f",
+      "inheritedCanonicalTextSha256": "fe3902b772992b3456f39683acc502772b990004c95bbae6f90314ebd826a591",
+      "mobileSha256": "193ca517ca4a6bc1121ebad8fb2edb0111cd73e1cbe51924d3ba1587059cab33",
+      "mobileBytes": 582048,
+      "sourceSha256": "a3abeab128cd10ab61f6a948d988839e38c398a735158add201da84e15613944",
+      "decodedSourceDuration": 140.568,
+      "decodedMobileDuration": 140.5866875,
+      "waveformChecks": [
+        {
+          "seconds": 17.571,
+          "correlation": 0.94189,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 35.142,
+          "correlation": 0.966403,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 84.3408,
+          "correlation": 0.964885,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 132.568,
+          "correlation": 0.968275,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-001",
+      "subtitleFileSha256": "b6772958a14b628b03ad8ac5211b311a48748a767909ec23f26796a82f92f83e",
+      "inheritedCanonicalTextSha256": "66d453631f62f52c00cbe9f2f4751cf3942bc463429713be6449155ba7c1c3aa",
+      "mobileSha256": "167013a0abed9416a0ea38ab009460c749a28ba459cfbe02e99cafef67ea6135",
+      "mobileBytes": 9958119,
+      "sourceSha256": "574e0baba86d195cc869dd189f0e2b4b5efa2ff8f59a304acb512e6b2d63ad5b",
+      "decodedSourceDuration": 2398.464,
+      "decodedMobileDuration": 2398.464,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.974592,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 599.616,
+          "correlation": 0.969613,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1439.0783999999999,
+          "correlation": 0.991016,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2390.464,
+          "correlation": 0.96614,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-002",
+      "subtitleFileSha256": "9a9914ad21b33f659bbcc1980fa67c9779bcf576efcf8a43671c8d10d1ad19d6",
+      "inheritedCanonicalTextSha256": "e7a8187aec0206adafc20b3d81e66b586ca0935e45ac5d7235823282b58c4ccb",
+      "mobileSha256": "c61ed9df5e4f0a6f29a5716f4f2a25ef81b573fc92a209a8de337b11f803044d",
+      "mobileBytes": 1880292,
+      "sourceSha256": "0963b1153040ce468c61098435dc4168afe7219ac22e4e7f8900842edebd2c4c",
+      "decodedSourceDuration": 452.856,
+      "decodedMobileDuration": 452.864,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.967045,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 113.214,
+          "correlation": 0.978573,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 271.7136,
+          "correlation": 0.970477,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 444.856,
+          "correlation": 0.971144,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-003",
+      "subtitleFileSha256": "80b1799e59ec1732b79e78cc24fecd516528226b6d7ff3b7dc00d2aaabd23ce6",
+      "inheritedCanonicalTextSha256": "9b6811947a47e58e5e5ea8e008a8f1a544194703d72758073805a03f313a607d",
+      "mobileSha256": "0268b5b852b1b2d85d9472e4ea65ed526197271f4c0942cb413852a13f02e7f7",
+      "mobileBytes": 3966593,
+      "sourceSha256": "190ecb2b5f332babb0ee318e3a3fe03e884f5df358c73f593ec18c686e6097eb",
+      "decodedSourceDuration": 957.456,
+      "decodedMobileDuration": 957.4826875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.973742,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 239.364,
+          "correlation": 0.964893,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 574.4736,
+          "correlation": 0.95552,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 949.456,
+          "correlation": 0.97789,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-004",
+      "subtitleFileSha256": "a52d06c1520a6c0b7784e41ebd1ec377bbed108b6ca5c2dcb3ad797d76a4932a",
+      "inheritedCanonicalTextSha256": "666648b88a07b08d0f439c52f1a56c2a1f0e88ac530e750979560d6d3847b0b9",
+      "mobileSha256": "f424d23bdada797445d9b10fee9e87b63c143549ae402b4d387c4457ad353c1e",
+      "mobileBytes": 2927401,
+      "sourceSha256": "cf58ae2054f6e72f7252b509e812d60ab3cab11bb2baa9fc2c804dc39cc1a2f6",
+      "decodedSourceDuration": 705.696,
+      "decodedMobileDuration": 705.7066875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.981815,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 176.424,
+          "correlation": 0.981502,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 423.4176,
+          "correlation": 0.979602,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 697.696,
+          "correlation": 0.975248,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-005",
+      "subtitleFileSha256": "82060b5fc0a4dd66bfa4baefb9ee141318240bb5dac5edccd01c6bb9a9a3e41f",
+      "inheritedCanonicalTextSha256": "9cd15561d19469c06b26b5a6200c413264470633a15d4376973dfbb9f0ccf5ea",
+      "mobileSha256": "e31e34c90360fff31a9dd96e5365b70605ceb427594966ab4c783f87fcab41ce",
+      "mobileBytes": 1902365,
+      "sourceSha256": "f7c69ea2022a7bab28ef937aff3c9e5ca2e0c9270dec3a53902e17e6bd9984d3",
+      "decodedSourceDuration": 458.616,
+      "decodedMobileDuration": 458.624,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.978892,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 114.654,
+          "correlation": 0.978833,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 275.1696,
+          "correlation": 0.976686,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 450.616,
+          "correlation": 0.969076,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-006",
+      "subtitleFileSha256": "9264d2569ff8ff6141e42d710af166cc03df2d80b3a35d103d3ca689867047df",
+      "inheritedCanonicalTextSha256": "6a1e0e67a6014aa9159e410590248ac2a6e8ea931caa8ced4fdf1e4623e63637",
+      "mobileSha256": "ea006db356fa6bf5e6de5036b0197c36dc2e311ffccabc0cbbe984eb659a902b",
+      "mobileBytes": 6041632,
+      "sourceSha256": "2461995f1786377200364f121173a2d45a3b5b2f2f38a9811c201f92a8b24a27",
+      "decodedSourceDuration": 1457.064,
+      "decodedMobileDuration": 1457.0666875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.976925,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 364.266,
+          "correlation": 0.968891,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 874.2384000000001,
+          "correlation": 0.977691,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1449.064,
+          "correlation": 0.962526,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-007",
+      "subtitleFileSha256": "b704a5fc7e7003bdebf26e9c8534b443973a506b27b65fd9932d74f897f4bd3e",
+      "inheritedCanonicalTextSha256": "420d84ec88a6f034db2c421945907042c52a3e6102c8500a6a21db0011660c27",
+      "mobileSha256": "ee141c05d383661ebc61ae89019b01f46eb4f3bad7f66d63edb6b34ae12f9141",
+      "mobileBytes": 2280460,
+      "sourceSha256": "f66514e7d9da55a27035309f66ed40dfed7e041e94d88e5f9021a8063fe6aa84",
+      "decodedSourceDuration": 550.176,
+      "decodedMobileDuration": 550.1866875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.970486,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 137.544,
+          "correlation": 0.980306,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 330.10560000000004,
+          "correlation": 0.979234,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 542.176,
+          "correlation": 0.976782,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-008",
+      "subtitleFileSha256": "32490d6cfe954a85d33838227fddc2f58e81e359bea9330622bdafdc4ef5e034",
+      "inheritedCanonicalTextSha256": "8a04e55727f767df8299ba88c0e3c46fbe20d6fc3eb4c77d5bb0626e3f6e657b",
+      "mobileSha256": "74d466ad5c1dc3ab2558a6b864fa0643d018995230d775b0fb58b3c8d5df535b",
+      "mobileBytes": 1438926,
+      "sourceSha256": "712979114c7804eb01d58514fd2f49424669254dea3ceeb45e89274fba04178e",
+      "decodedSourceDuration": 347.304,
+      "decodedMobileDuration": 347.3066875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.962608,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 86.826,
+          "correlation": 0.973312,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 208.3824,
+          "correlation": 0.977982,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 339.304,
+          "correlation": 0.983435,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-009",
+      "subtitleFileSha256": "f0cc42ece8296493a3d2559979513698106958827aba7d32efa14689abd25d19",
+      "inheritedCanonicalTextSha256": "1d892c9edd2c0226854b61ebcee587a72644a89b2d580cb587dd9b74f758e888",
+      "mobileSha256": "a53bf2dfc9aefc0157e729bf136dcfad4fabb93d1a0ede52f48f38f56b20c29e",
+      "mobileBytes": 2867563,
+      "sourceSha256": "cdf5bddc81c4c25e5fa94a6b53fe04a957d831411efc9106564d7a5fdb160076",
+      "decodedSourceDuration": 691.656,
+      "decodedMobileDuration": 691.669375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.954627,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 172.914,
+          "correlation": 0.97257,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 414.99359999999996,
+          "correlation": 0.981539,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 683.656,
+          "correlation": 0.982132,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-010",
+      "subtitleFileSha256": "47f30c9b5d76fceb4835cfb6abef5c1b29f40cb7b4935effff9c2b0a6cd1edde",
+      "inheritedCanonicalTextSha256": "b40222266d3a7868765d17b08cceec1cb0a9ddd109bbf970e00cd5838dfb44bb",
+      "mobileSha256": "0ae08e32b745196e50c0fb1ff80a846278183fe9b8d90e3ac13a50e63ee744a3",
+      "mobileBytes": 2547249,
+      "sourceSha256": "28b6a83881b5d5d827f0f857bc445b1a1871614665cd400619dd33e04c6a27eb",
+      "decodedSourceDuration": 613.248,
+      "decodedMobileDuration": 613.248,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.974336,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 153.312,
+          "correlation": 0.974785,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 367.9488,
+          "correlation": 0.97663,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 605.248,
+          "correlation": 0.966274,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-011",
+      "subtitleFileSha256": "507c3e34d06d8da3642170ed39510bcccc5102c2adcc4e8a7b3d435f0b8a00b0",
+      "inheritedCanonicalTextSha256": "b1e25925291971c582ff49941fcfc1ac8487620624ba870400abdba54775af8b",
+      "mobileSha256": "e49fee2c575871663d291ebaa1340525efdad5d75558e874d46dd5c36f355123",
+      "mobileBytes": 660313,
+      "sourceSha256": "4fd8670c46e8de610908d8ee3b1642057bd78dc551a8482882714e7f4660337f",
+      "decodedSourceDuration": 158.976,
+      "decodedMobileDuration": 158.976,
+      "waveformChecks": [
+        {
+          "seconds": 19.872,
+          "correlation": 0.96588,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 39.744,
+          "correlation": 0.974678,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 95.3856,
+          "correlation": 0.974042,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 150.976,
+          "correlation": 0.981928,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-012",
+      "subtitleFileSha256": "684844cf679cfd371360f16beca9fcd03dcf4b7c495ab821c6920ad17c5e82a6",
+      "inheritedCanonicalTextSha256": "d0ce0ddc992f44e5d1ab957e5247784d340668e72b3ffbcc4fa525d596230249",
+      "mobileSha256": "69bcec95f29420792157ee768f5e61a3ee474fc0c983b45e2e7261a2988b7e5d",
+      "mobileBytes": 1408934,
+      "sourceSha256": "0049b0229188e6cc8680cd4009308eac1f8f2e660dc27bae10b943719955b13d",
+      "decodedSourceDuration": 339.456,
+      "decodedMobileDuration": 339.456,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.975847,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 84.864,
+          "correlation": 0.974064,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 203.6736,
+          "correlation": 0.974053,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 331.456,
+          "correlation": 0.977712,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-013",
+      "subtitleFileSha256": "722b3de2e936c8a9809c5c1060c3c30afb6c69ee419925ef2ed19eb3f2cbfd47",
+      "inheritedCanonicalTextSha256": "54f94b1bb0d982f14b27fc33f9cb11798e4397a4bbb82d3468e9c744703d6483",
+      "mobileSha256": "e000b0f4810b7eaf35a7fa563a3ec661c1f36300e1c3c3b67e1131c7ff673a9c",
+      "mobileBytes": 2807652,
+      "sourceSha256": "3b223a2d920b143ceb8372108bf91f5104c8ece6904e8c5f2e35ca638fa98840",
+      "decodedSourceDuration": 677.208,
+      "decodedMobileDuration": 677.248,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.964726,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 169.302,
+          "correlation": 0.978244,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 406.3248,
+          "correlation": 0.969284,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 669.208,
+          "correlation": 0.964504,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-014",
+      "subtitleFileSha256": "4b49dfa2211ff0ca8919a415458720991e50840ebd075e11804779a95768cb0e",
+      "inheritedCanonicalTextSha256": "53ee60098967f056b4b6c063378695efc647b0752f91914de4beab277fdd2c4e",
+      "mobileSha256": "d6f1322ea1367c37941cba21d98f1ee8101060e2960931083e660a491f834ce1",
+      "mobileBytes": 2377449,
+      "sourceSha256": "f48bf068e6b9dac58601877c375bf5ded0ccb52b349cd588f545681714e631fb",
+      "decodedSourceDuration": 573.576,
+      "decodedMobileDuration": 573.6106875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.952511,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 143.394,
+          "correlation": 0.961907,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 344.1456,
+          "correlation": 0.965441,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 565.576,
+          "correlation": 0.96733,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-015",
+      "subtitleFileSha256": "abf5f3935541888ce27c943b01df4bfdf030b74723949a15e2875a6d674f8571",
+      "inheritedCanonicalTextSha256": "a8bec7183a74925b008e4dce463f00df1ce2377867899340d94215cd84c9ae0d",
+      "mobileSha256": "3bbfe18fb2011132a999826cfb3d717eb51ae26090cf7544dabcd96c0ede20ed",
+      "mobileBytes": 873164,
+      "sourceSha256": "e3588ff32a355b1e49bbc75493cc572f1920dc3e7ecfa7f53f3f064458b27775",
+      "decodedSourceDuration": 210.768,
+      "decodedMobileDuration": 210.773375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.977825,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 52.692,
+          "correlation": 0.980826,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 126.46079999999999,
+          "correlation": 0.98618,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 202.768,
+          "correlation": 0.981375,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-016",
+      "subtitleFileSha256": "90a6339ec1653f3444b755c747b3a379afea5407a6ca98f545230268160d088f",
+      "inheritedCanonicalTextSha256": "cd62a606a96e3b1026dfc3c0b3d3ef8fd361231b1b8bd433d825c00c54c72b9c",
+      "mobileSha256": "96cf53416d621436b5ca5b11a668fa67980e2009f447bf55813bb6869b89b428",
+      "mobileBytes": 3767518,
+      "sourceSha256": "fdd7e5b5b5151127ea05d61226aa6c51589286b4d29910740f26c3c41b92b994",
+      "decodedSourceDuration": 908.208,
+      "decodedMobileDuration": 908.245375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.969031,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 227.052,
+          "correlation": 0.981706,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 544.9248,
+          "correlation": 0.990992,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 900.208,
+          "correlation": 0.975606,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-017",
+      "subtitleFileSha256": "15c4e2a8c2f1e26e4e714114598c1e2d6d35cdf20a549c34249302bd3b8fbb57",
+      "inheritedCanonicalTextSha256": "65caa96f581b80623fee96fa86658d088225702134b74026d2aadf122fc3613e",
+      "mobileSha256": "f70faccba21ad9a6b71ac43243f312a4dbab6b72a369e97b40fe36ebd974b79b",
+      "mobileBytes": 4771058,
+      "sourceSha256": "e9ce1feee910ce22cb3c63c79e1c1a15050678f7e56f3d5269885b256b22e8c0",
+      "decodedSourceDuration": 1151.496,
+      "decodedMobileDuration": 1151.5306875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.973763,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 287.874,
+          "correlation": 0.978551,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 690.8976,
+          "correlation": 0.971463,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1143.496,
+          "correlation": 0.98351,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-018",
+      "subtitleFileSha256": "0f32ef01a38bdd9ca0928a5e58a8e01706a0ed852eb2b28d320330958168d243",
+      "inheritedCanonicalTextSha256": "8a4d51b37157f19d6247e6981572300bb6010fec2495decab301bc08325fc861",
+      "mobileSha256": "0d971c9072282da7a945df2514bd49f7d498714643b55efc6c3014d1d76f762f",
+      "mobileBytes": 1067789,
+      "sourceSha256": "eca91d4690e3726d382fd3f6f16c63cdb008a4873c4afe556fce1b30ca20df63",
+      "decodedSourceDuration": 257.328,
+      "decodedMobileDuration": 257.365375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.958982,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 64.332,
+          "correlation": 0.969826,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 154.39679999999998,
+          "correlation": 0.979487,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 249.32799999999997,
+          "correlation": 0.960748,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-019",
+      "subtitleFileSha256": "2af38317667ce38ed323dac12da581ff101b87dcb859f8b7f3f9328630afe640",
+      "inheritedCanonicalTextSha256": "e3d4305d4b0a507a5377031b7d4a211395242f6b9227d51bd23c63c4b6ed246d",
+      "mobileSha256": "17e9728dc65aa0fe2d45816ad041180cff7216e52655050ff0afd0fa0ffeef80",
+      "mobileBytes": 847119,
+      "sourceSha256": "aaf699e6db5e9e1f29d5fe4dad20d1a5e369a4119a956e0e3b04a1586e7d57a2",
+      "decodedSourceDuration": 204.384,
+      "decodedMobileDuration": 204.416,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.976941,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 51.096,
+          "correlation": 0.984482,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 122.63039999999998,
+          "correlation": 0.973626,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 196.384,
+          "correlation": 0.965735,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-020",
+      "subtitleFileSha256": "6049570d3bfdce6b8d120855cb623705d50f1ee22ff96b0a7a924acd557e129f",
+      "inheritedCanonicalTextSha256": "a9e704fbb9896be3e6794cebbb0d0d8ba05bed8b3158d775db6bbda2b209b19b",
+      "mobileSha256": "98bb2b7c8d291a5d80da53076d43a82784b070dd5a1f9968b623d6c5dad1743d",
+      "mobileBytes": 2692896,
+      "sourceSha256": "c3b0b5b0dd1e0da40fbfce6021709521b7d125930014151962bf578ed70f92f5",
+      "decodedSourceDuration": 648.816,
+      "decodedMobileDuration": 648.832,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.964481,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 162.204,
+          "correlation": 0.962027,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 389.2896,
+          "correlation": 0.980005,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 640.816,
+          "correlation": 0.981229,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-021",
+      "subtitleFileSha256": "14ff5a9a3493becfadc28833884438b33764a43a74f02ec0371818ba81902c88",
+      "inheritedCanonicalTextSha256": "77383c29272b154b92c11e7e0d10ac6dcdb27361f4c1775a89dd303446dd443f",
+      "mobileSha256": "7c788cf02bb325203825e146026ee58d60dbeefd4ccea0da34bb29dbfd6d31f0",
+      "mobileBytes": 3336289,
+      "sourceSha256": "131ff3802537a7966dd0b5ec28f52311e720451c7bba372dad70d8e190146622",
+      "decodedSourceDuration": 803.904,
+      "decodedMobileDuration": 803.925375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.971259,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 200.976,
+          "correlation": 0.96058,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 482.3424,
+          "correlation": 0.97289,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 795.904,
+          "correlation": 0.970114,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-022",
+      "subtitleFileSha256": "3f94b68de26835c6f8b6d303a039af6a62dd67daacaa3865a67d7ffed190582d",
+      "inheritedCanonicalTextSha256": "1c19254f5b010ea705c3c60c39a9792418120e440edfbf0b16d35a6c103eaee1",
+      "mobileSha256": "8ec6dac6325332eaa072f862ccb9dda3f16ff608006eba1183fd8841e841bc26",
+      "mobileBytes": 3559233,
+      "sourceSha256": "5129e31733a083c46e3d499263e34efbe736a28d807ec3ef20a6a3b16f9bc9a1",
+      "decodedSourceDuration": 859.128,
+      "decodedMobileDuration": 859.136,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.968329,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 214.782,
+          "correlation": 0.969263,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 515.4768,
+          "correlation": 0.984204,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 851.128,
+          "correlation": 0.955846,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-023",
+      "subtitleFileSha256": "1c87eb0d106a94fab89514e45a401996e5d3bb48781c30c217f6c37b51d1b8ae",
+      "inheritedCanonicalTextSha256": "45b1bee8af3825ca7075e794cb046e4319f2742a52b9721d0a5050b5931a6b2b",
+      "mobileSha256": "1eebca59bd45f4b6c7d0b9672aebc6d5f406354ab769175a9383cdae36a40f69",
+      "mobileBytes": 389458,
+      "sourceSha256": "233c53e3d7522d87fd2483454052b98dd54cd0227d75e8439437a5f61607b226",
+      "decodedSourceDuration": 94.176,
+      "decodedMobileDuration": 94.208,
+      "waveformChecks": [
+        {
+          "seconds": 11.772,
+          "correlation": 0.984773,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 23.544,
+          "correlation": 0.961853,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 56.5056,
+          "correlation": 0.974419,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 86.176,
+          "correlation": 0.984511,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-024",
+      "subtitleFileSha256": "4c3591e58847646b8867a3b267922b3ac66db059e922e4f0c3783411fc410af8",
+      "inheritedCanonicalTextSha256": "8b18e6856a520a559a1d997f32332d1e90d9885eec73b9657ed880d8ff7c938b",
+      "mobileSha256": "819ef6ed1ac65b8b46d8519d6031e3b4f0d836a9f97024fd0216162b85a9d96f",
+      "mobileBytes": 12197064,
+      "sourceSha256": "760f3c2532b68769a13a37c858cce5e2e8c126f50bab46361bfeefeecd6e9ed9",
+      "decodedSourceDuration": 2942.664,
+      "decodedMobileDuration": 2942.677375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.970872,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 735.666,
+          "correlation": 0.972503,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1765.5984,
+          "correlation": 0.969648,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2934.664,
+          "correlation": 0.96498,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-025",
+      "subtitleFileSha256": "45ebb23b120897b26671259ce3b35256971ae191e870bcbe38d9e8f70ff2b8a9",
+      "inheritedCanonicalTextSha256": "3f9c5642a015158a77d532c7313682629cd507cf421cbd3c9047749174fa9efb",
+      "mobileSha256": "25e3dbd739216c5950339ea72d14d0d3baeae3a8f41a41b465ecd52132ff807f",
+      "mobileBytes": 1537602,
+      "sourceSha256": "07f7f6c335a37fc991f7969c24fc34128521b439c05eee53d929c930d044f22c",
+      "decodedSourceDuration": 370.656,
+      "decodedMobileDuration": 370.688,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.973643,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 92.664,
+          "correlation": 0.973646,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 222.3936,
+          "correlation": 0.97545,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 362.656,
+          "correlation": 0.975215,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-026",
+      "subtitleFileSha256": "01ed47a8bb8d145e2175213c16bd4eb14bb18a4c0d1e6cbb54e965ad16daf75e",
+      "inheritedCanonicalTextSha256": "5173ff0450a84c91c0a084af9e01b35cb767dcc99e538b5d353239fda30b0e65",
+      "mobileSha256": "956225738844b771709858d16312be17593ddd50046f5fd1afa498691ba6f6ce",
+      "mobileBytes": 4909869,
+      "sourceSha256": "2b26548f74535951bbaabf94c06ff32d677508a507dfd46c2cf1a1a973893378",
+      "decodedSourceDuration": 1184.448,
+      "decodedMobileDuration": 1184.469375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.979887,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 296.112,
+          "correlation": 0.98511,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 710.6688,
+          "correlation": 0.965567,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1176.448,
+          "correlation": 0.979868,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-027",
+      "subtitleFileSha256": "4a1be5084515d083beb26d4a371aad11eb918085e8cb680c40256eeb49201665",
+      "inheritedCanonicalTextSha256": "593f2039170b893549cd566566b638158625252968fefca1e05cec50f268ca78",
+      "mobileSha256": "85ddc1cb1256a719de6a2356ede18e6fd2bf724eec828646dcec295f2b3cf3fa",
+      "mobileBytes": 598314,
+      "sourceSha256": "13290fa1f35b15b455b5dde6fbfe95c6d5ae7b0d08f4899e5a3f1929d9f8c279",
+      "decodedSourceDuration": 144.456,
+      "decodedMobileDuration": 144.469375,
+      "waveformChecks": [
+        {
+          "seconds": 18.057,
+          "correlation": 0.984005,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 36.114,
+          "correlation": 0.98243,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 86.6736,
+          "correlation": 0.972039,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 136.456,
+          "correlation": 0.982606,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-028",
+      "subtitleFileSha256": "d370fdd36d882859f61c806f725f94b85523fef736963335f7fe282cb08c95a9",
+      "inheritedCanonicalTextSha256": "d1ee51d71057b8c25fec52d3beacb6215b1b157b559b812ae15bda5478d9f661",
+      "mobileSha256": "490b2381601b6e6a70cf4d3aca102b335886e96ab23ec5e2907d704da379ef56",
+      "mobileBytes": 1181079,
+      "sourceSha256": "e6ff9793740f94a024aa7c700e1941ffd18a40e4f78a7f13e98a20d696fc2f4b",
+      "decodedSourceDuration": 284.688,
+      "decodedMobileDuration": 284.7146875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.960054,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 71.172,
+          "correlation": 0.984308,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 170.81279999999998,
+          "correlation": 0.981629,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 276.688,
+          "correlation": 0.965911,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-029",
+      "subtitleFileSha256": "364690d9f98ddad39241ed897f99f8efc204a8bcd356eab3dc3e051bcdfcfddb",
+      "inheritedCanonicalTextSha256": "82cff1743b5121607d3f1a8722fe077ffb0a38492435310b51e7b091371d02ed",
+      "mobileSha256": "421e9d2a0888f794d5ff3522eb202c483c80536b20cbe8c060d68dfcf94148eb",
+      "mobileBytes": 1273731,
+      "sourceSha256": "e609f5e3c14fa817b7f244d38c06d2eff7d1fd9386a46577e005b05c696f80bc",
+      "decodedSourceDuration": 306.576,
+      "decodedMobileDuration": 306.6026875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.979961,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 76.644,
+          "correlation": 0.975145,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 183.9456,
+          "correlation": 0.966494,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 298.576,
+          "correlation": 0.974207,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-030",
+      "subtitleFileSha256": "100aaba34de6737a26c3e5b04325bb5fae013fc8dd7aaf3fb1c574a1aa804a69",
+      "inheritedCanonicalTextSha256": "47401eeca83838a2feacceffae765bb620afa3d160d13e3411eb7e93ef9dfc34",
+      "mobileSha256": "4c5d56933e9cb376f2fcad289e4721b533ed81d2dd6e4f83f5768ab404932ae3",
+      "mobileBytes": 1120890,
+      "sourceSha256": "74b1decdfc57c4cf9cedbe5137ddedd31d8188f74c5c36e6acaf8072bffaa389",
+      "decodedSourceDuration": 270.456,
+      "decodedMobileDuration": 270.464,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.961731,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 67.614,
+          "correlation": 0.984152,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 162.27360000000002,
+          "correlation": 0.959779,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 262.456,
+          "correlation": 0.969037,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-031",
+      "subtitleFileSha256": "5a890d4013b26618a53329b4d88484759b9424fc6383b01c8da18537488d8188",
+      "inheritedCanonicalTextSha256": "7d81d4ad8350271d604db85a347a26d7102eb7117d49e4f1fad8ec6aa7e50b88",
+      "mobileSha256": "bcb6bc694cd4b8d39c5268ca2fcdf10cc139c9b5b797a13a619dc49e9ae83ab9",
+      "mobileBytes": 1340293,
+      "sourceSha256": "e47b7bd13e7d19d27540388650b6e5c42d6f913f5b3d1a8b4dec0437c6778be8",
+      "decodedSourceDuration": 322.896,
+      "decodedMobileDuration": 322.901375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.962807,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 80.724,
+          "correlation": 0.967235,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 193.73760000000001,
+          "correlation": 0.964733,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 314.896,
+          "correlation": 0.977022,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-032",
+      "subtitleFileSha256": "34eec863ed2b2123d919f23b3799bfc85ab46f6d85ca9ecd8991ee43d2ef612f",
+      "inheritedCanonicalTextSha256": "1cd7274ecc03b766d5013dfecb0031d9cf287effedfcb0235251722eac61724e",
+      "mobileSha256": "85caee33a92f3382f38ff3a8842c4f9e283c74cc64c2b7165e26148373a7ce38",
+      "mobileBytes": 2423495,
+      "sourceSha256": "70d6824bd6a29bd899318d799cfbfad3ab9ae0a0e5f3a7d89ef2b1aa57ff28d8",
+      "decodedSourceDuration": 585.096,
+      "decodedMobileDuration": 585.1306875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.972307,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 146.274,
+          "correlation": 0.975433,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 351.0576,
+          "correlation": 0.962118,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 577.096,
+          "correlation": 0.973463,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-033",
+      "subtitleFileSha256": "6875a52fe5958f085969ce88e70bf7086c5b5a1cdf7a223f70708fdf99a9b37a",
+      "inheritedCanonicalTextSha256": "c64a71885f75eaa47636b5485b4043204c83210a5d51dab42afb35260f3cce6c",
+      "mobileSha256": "8818e1c13fff42ab324e4fe943421102ea3a51d8354d18c59df318e87abfa386",
+      "mobileBytes": 2866002,
+      "sourceSha256": "68e4a5d51613f2e9616a6aca88e138ac49dc2cd094389c4cc270c7ba880186ac",
+      "decodedSourceDuration": 690.504,
+      "decodedMobileDuration": 690.517375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96564,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 172.626,
+          "correlation": 0.987095,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 414.3024,
+          "correlation": 0.98703,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 682.504,
+          "correlation": 0.985048,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-034",
+      "subtitleFileSha256": "4ec70f30dfd2cda4ac9a441aa122235d49b4ac9ce344a7c73c0cd2df8eb40565",
+      "inheritedCanonicalTextSha256": "d0e34d910f4a2f4b536a6f02dc06406ea0172d8c43a32d8d17122c4cac86fc9c",
+      "mobileSha256": "1b2a52f762a34ca1518c7a94e9cf11b0eb919f09bf0ecbc35e76fd86fe9e267f",
+      "mobileBytes": 4875919,
+      "sourceSha256": "da881535dc511d12d81bca8fae8d26dca7a37ba9a088820c441eb9d8a8913f61",
+      "decodedSourceDuration": 1173.768,
+      "decodedMobileDuration": 1173.8026875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.980048,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 293.442,
+          "correlation": 0.97986,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 704.2608,
+          "correlation": 0.987471,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1165.768,
+          "correlation": 0.98742,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-035",
+      "subtitleFileSha256": "bc01993e8d24ad61341d7933fce10e6aacf844837ce70919f907aaf35b9c2e78",
+      "inheritedCanonicalTextSha256": "c3a9ff9620a1dad9ed8296c07b313b5ae35bb967f87d8ca23a00f9cc62eb5a74",
+      "mobileSha256": "5cf22a1f3a8c2c1c16695084f685f18ce42df2d54ed0962d4070c8600f12df8e",
+      "mobileBytes": 8515308,
+      "sourceSha256": "b7751d7fd139d1b1e4d5a4414b4100e1fe541acfea7924923670104f888cdbe3",
+      "decodedSourceDuration": 2051.064,
+      "decodedMobileDuration": 2051.072,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97913,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 512.766,
+          "correlation": 0.965234,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1230.6383999999998,
+          "correlation": 0.972071,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2043.0639999999999,
+          "correlation": 0.980772,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-036",
+      "subtitleFileSha256": "27ff5572ad739f91f2c2dc8e0e3b3c7b995e636a813b79703340773cc524dd60",
+      "inheritedCanonicalTextSha256": "2e7ee0be7a3d715ab75057db712c0ba82accd99afe8437715fba7bf04219fc9f",
+      "mobileSha256": "77e650f39a90264541a2994992fb9b9c1c6818a2444390b49ff905a3674437e9",
+      "mobileBytes": 3189970,
+      "sourceSha256": "f94d599511ea4e7ee32a75e08718e993459b713c2108394de3bb736dd5ea1cc9",
+      "decodedSourceDuration": 768.456,
+      "decodedMobileDuration": 768.469375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.976263,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 192.114,
+          "correlation": 0.9614,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 461.0736,
+          "correlation": 0.986503,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 760.456,
+          "correlation": 0.989013,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-037",
+      "subtitleFileSha256": "585445babcf39939bc04ae88352306d07340bd2134057bc8c124a09fe5a5c167",
+      "inheritedCanonicalTextSha256": "03a395e9020a60def1648f0cc5939c4015609d21c0f3db29d05bcd16ac4fb6de",
+      "mobileSha256": "b370dd35d690fa69c7db08a109e07b111190d0b7a92b3fb7f233cb57f7207300",
+      "mobileBytes": 1263573,
+      "sourceSha256": "8b90931f5e4ee8fb8c0d1a96e9e287fa40012dd9a2b6f6fd6ea174d973f7d4da",
+      "decodedSourceDuration": 304.464,
+      "decodedMobileDuration": 304.469375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.982833,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 76.116,
+          "correlation": 0.972331,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 182.67839999999998,
+          "correlation": 0.963911,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 296.464,
+          "correlation": 0.968325,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-038",
+      "subtitleFileSha256": "ce0b99abfdf9f234cc90b8706293536b80e06d74de79a6c5f2bdcd23f6ef3494",
+      "inheritedCanonicalTextSha256": "334b1b602adc87802ed5fd3670af5905586155f2c78807a8e9194f09d1fe7965",
+      "mobileSha256": "a0d2eca5b9a8c1dde76c540d8b15994fb26a1c4e6c88c6cdcaa9f28e2afc4b77",
+      "mobileBytes": 659173,
+      "sourceSha256": "ce2bf3ba4ad1f6221257ca4615b093a0649bbae180680323db1a1441c010304a",
+      "decodedSourceDuration": 158.448,
+      "decodedMobileDuration": 158.464,
+      "waveformChecks": [
+        {
+          "seconds": 19.806,
+          "correlation": 0.977625,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 39.612,
+          "correlation": 0.977362,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 95.0688,
+          "correlation": 0.967951,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 150.448,
+          "correlation": 0.96743,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-039",
+      "subtitleFileSha256": "c2fd0a159b866e8a723d1ef9f9a80bed5b8019c1cc4e8e96bbe0156926ea69f5",
+      "inheritedCanonicalTextSha256": "5ec36543415edfb1b042dcdcdf43a99093bd7a2c285dad4745ef8f56ce3ac2c1",
+      "mobileSha256": "6185fb3c93a0cc45e29727e40eb405a828d7a06a459daf89012ff7e41751ab53",
+      "mobileBytes": 3888692,
+      "sourceSha256": "2856a623f30c86be73bdc72c2aec9b7f5431687d444ceb3e1b5ffa307d3cb520",
+      "decodedSourceDuration": 937.488,
+      "decodedMobileDuration": 937.5146875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.982235,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 234.372,
+          "correlation": 0.976317,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 562.4928,
+          "correlation": 0.976208,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 929.488,
+          "correlation": 0.982556,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-040",
+      "subtitleFileSha256": "b04e76fb2428c177bb1a4b1fff92361a2ee94c90e0dd45435c44d2b538a75525",
+      "inheritedCanonicalTextSha256": "af1cc04203c357ad035954362af5f679a56a01023d9b715651b8cf64c124245f",
+      "mobileSha256": "520cbaef329b03f7ae9d0b0dc3413b6033c3139c6a9d002898838fb8d5a77fe6",
+      "mobileBytes": 2331985,
+      "sourceSha256": "e6394141c42888923c608c9506a8b01c61e725f3de9a82c7345428f0b080ad36",
+      "decodedSourceDuration": 561.456,
+      "decodedMobileDuration": 561.493375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.960768,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 140.364,
+          "correlation": 0.967053,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 336.8736,
+          "correlation": 0.972328,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 553.456,
+          "correlation": 0.973907,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-041",
+      "subtitleFileSha256": "89d020693eac1ad243b0783de220f12afcd4b0026666b7d0ed235460b5f901c5",
+      "inheritedCanonicalTextSha256": "ba7c95a8ba31ea2275f75af8187be7b526eeb56fb8f81be706cc4d8353ec97fd",
+      "mobileSha256": "1fcbef12f9f7c3f04bfec2cb519f17ff3ba752fb50c1294ccdbabf2634fff5d2",
+      "mobileBytes": 784791,
+      "sourceSha256": "6e8a286f3261efa4467060a05def74ad8cb212027d7b0a328e5c3a584844f6cb",
+      "decodedSourceDuration": 188.616,
+      "decodedMobileDuration": 188.629375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.976141,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 47.154,
+          "correlation": 0.957329,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 113.1696,
+          "correlation": 0.988857,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 180.616,
+          "correlation": 0.975396,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-042",
+      "subtitleFileSha256": "61c66f2aee240c6e98daadd45c797bdd742a0d6a32c7efb8bf43e98cb85f3898",
+      "inheritedCanonicalTextSha256": "f1235383f346174791ba81137d344d6b45d7821abddb8d905cb3247c1775817d",
+      "mobileSha256": "90ebdb0819b0bd7e005eb8704d19dae8b3441daa45f4d3b5026e2941fc3a7b50",
+      "mobileBytes": 5310632,
+      "sourceSha256": "6d1f05d1f5faa982405bfe96e2a33468c1ab8a0f081880b02efcff897a3af4fa",
+      "decodedSourceDuration": 1279.344,
+      "decodedMobileDuration": 1279.36,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.983018,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 319.836,
+          "correlation": 0.984157,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 767.6064,
+          "correlation": 0.983599,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1271.344,
+          "correlation": 0.977786,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-043",
+      "subtitleFileSha256": "0e253c50b834e830174f3383d31bfe1153c71b2d86db8a7c2662402a5ab66aa5",
+      "inheritedCanonicalTextSha256": "bce50762f7e0cdec4b0567200a7915f0f7c02130aeb3f4697adacc3530522a60",
+      "mobileSha256": "7ae654f821390517f0d5c146a5ee5ef3fb22f14367afa779c2546ce20e4d88b2",
+      "mobileBytes": 1094034,
+      "sourceSha256": "ad8256d6545543d80d97c57cb46cb50001f16a268bf1d5fc917cc4a551d10ac0",
+      "decodedSourceDuration": 263.448,
+      "decodedMobileDuration": 263.4666875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.976926,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 65.862,
+          "correlation": 0.986502,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 158.06879999999998,
+          "correlation": 0.972622,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 255.44799999999998,
+          "correlation": 0.987636,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-044",
+      "subtitleFileSha256": "dfdeb927925c8f15f1e1611b27daffcc51eb147dca3f5156e6085c89baa97507",
+      "inheritedCanonicalTextSha256": "9a988480bf139729a1168c1f489a9968b2782280577d178b6a30cb92811f2723",
+      "mobileSha256": "c8a37a24c169ce89452164be415d7dd5a78437b521e4f9b4b603b9994f5312ba",
+      "mobileBytes": 2522477,
+      "sourceSha256": "64629f9dbc62465064c8c490b750bdcb801367d20d78e77087afed496621f4c2",
+      "decodedSourceDuration": 607.728,
+      "decodedMobileDuration": 607.744,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.977783,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 151.932,
+          "correlation": 0.983982,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 364.63679999999994,
+          "correlation": 0.979667,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 599.728,
+          "correlation": 0.979142,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-045",
+      "subtitleFileSha256": "217b51c3c9e22bbb840016a9e07766f59aba0fc85f35c31661311c0a10629221",
+      "inheritedCanonicalTextSha256": "edd64279e4a662f898ba3a2019cb4d8803fce0370ff8eb4b0e87edf70a27379a",
+      "mobileSha256": "f135141663d04c9637c455e1d9266446d1891d2c41dc3e6b05a87f289de9ab2b",
+      "mobileBytes": 1121782,
+      "sourceSha256": "0a05c6375d5658dfe742fd5cad62b8b6f196ae03ea398a4a23436f4ebe9e2ddc",
+      "decodedSourceDuration": 270.096,
+      "decodedMobileDuration": 270.1226875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.966557,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 67.524,
+          "correlation": 0.950887,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 162.0576,
+          "correlation": 0.980727,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 262.096,
+          "correlation": 0.976098,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-046",
+      "subtitleFileSha256": "baae2552076703ac096f7dee5ea46162fb95b31b65879e224846589ddf1a6142",
+      "inheritedCanonicalTextSha256": "a96be85b54df558ff099764aa1f6219f3bf5f1386e825e40959674e85cd4b2e2",
+      "mobileSha256": "dce08f25e68c4c2a09c2f22499792b5a6e4e61222cf07abf68382d6f6bc3eaf7",
+      "mobileBytes": 2482288,
+      "sourceSha256": "03e7778fb470470aea5723c2bd83a2ae4ab7cfa9827a2350c4bf9444b0412105",
+      "decodedSourceDuration": 598.104,
+      "decodedMobileDuration": 598.144,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.975905,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 149.526,
+          "correlation": 0.961867,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 358.86240000000004,
+          "correlation": 0.96864,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 590.104,
+          "correlation": 0.98376,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-047",
+      "subtitleFileSha256": "893c84f148828cfa59250757b6cdfa20c125f03f086e16598d30ac4fec539655",
+      "inheritedCanonicalTextSha256": "c97bce3d4856a77662e52800f164ca469618af015c2e572553734004b8feb572",
+      "mobileSha256": "e95abe61213f5245b33802fab1be0c11e2311b3b02a721c217d4e47b4444d006",
+      "mobileBytes": 1153112,
+      "sourceSha256": "a297bba46a7877f2fe756ee2a28a67c51b8e59e63037af7a9ae88aa953b6af94",
+      "decodedSourceDuration": 278.064,
+      "decodedMobileDuration": 278.101375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97287,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 69.516,
+          "correlation": 0.966581,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 166.8384,
+          "correlation": 0.97937,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 270.064,
+          "correlation": 0.982818,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-048",
+      "subtitleFileSha256": "2ea2321e170d7aca56c63ee20a61113fa53f61d4ba3b8476c3449fc1ab30c144",
+      "inheritedCanonicalTextSha256": "deba952721eebfeb49f10cff45c49eb295c655c871b52bac74377e6fa65fb01b",
+      "mobileSha256": "205adf1db25ac86707fbc332dc63076e7a84ce551b3ecd06608b3c72ff025fd7",
+      "mobileBytes": 5726848,
+      "sourceSha256": "dd44cae9748ee6a07cd9db98a20f88ff8a67032b3097756e01d6e51c4a5172b2",
+      "decodedSourceDuration": 1380.888,
+      "decodedMobileDuration": 1380.9066875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.980425,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 345.222,
+          "correlation": 0.977066,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 828.5328,
+          "correlation": 0.988362,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1372.888,
+          "correlation": 0.975469,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-049",
+      "subtitleFileSha256": "1143e6556eb9a1eedd076f342e3ed464f869e14620e1cdb554a985641415f93e",
+      "inheritedCanonicalTextSha256": "41d82b8c3986bf44e11bb83b262dc8b086737504e11b8ee7e339c227f263fd5f",
+      "mobileSha256": "6f640824ac3d2aa0bb0cd97fcaef3bb86bb1569f64599fa3a6c00cce780850f5",
+      "mobileBytes": 2452936,
+      "sourceSha256": "c8b0fb2843acf1ae4c5829bd0e9e1a5aad11d6c3119228fa2e2b38be98082972",
+      "decodedSourceDuration": 591.744,
+      "decodedMobileDuration": 591.744,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.960205,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 147.936,
+          "correlation": 0.97793,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 355.0464,
+          "correlation": 0.97881,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 583.744,
+          "correlation": 0.977032,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-050",
+      "subtitleFileSha256": "9eb649bdfd6189e2e594808aecb14216b4279605808a986e974f3c4e771cd222",
+      "inheritedCanonicalTextSha256": "b9eaf63d6cbb2c98d0013ceea06630b30973c2df4d452cc82949809a4fa5003b",
+      "mobileSha256": "42703bfcb6ee0d33b47ec500a213ab18b2f27b4c0279853c575ad7aa197f73a5",
+      "mobileBytes": 2867026,
+      "sourceSha256": "443814c566afcd8557d6975d6192056257cba0938ffc2bf3ce953dde47f30a47",
+      "decodedSourceDuration": 691.224,
+      "decodedMobileDuration": 691.2426875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.979582,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 172.806,
+          "correlation": 0.98098,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 414.7344,
+          "correlation": 0.960186,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 683.224,
+          "correlation": 0.972704,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-051",
+      "subtitleFileSha256": "91827d651e633496c61dcd9ebd7732e92c0f477955c3ed28ae2975bfb45a89c2",
+      "inheritedCanonicalTextSha256": "acbdd41393876d7e73a0c07c33129d7af1d2245233162bf572c809115e2e97fc",
+      "mobileSha256": "edee4154e1a3b7a668a7ed1b2a52063f703057ba3472a31204eff6fff454906a",
+      "mobileBytes": 1371134,
+      "sourceSha256": "c32b34a102bd928283fb8f72dbdf087ec3bfabe57ebf79b7c9940bf191936569",
+      "decodedSourceDuration": 331.176,
+      "decodedMobileDuration": 331.1786875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.968682,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 82.794,
+          "correlation": 0.960161,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 198.70559999999998,
+          "correlation": 0.980251,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 323.176,
+          "correlation": 0.970523,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-052",
+      "subtitleFileSha256": "c7cd60eac5c9ebc9bd7719ab76263494f844328fbe484b6e5ef9d4e59d77634f",
+      "inheritedCanonicalTextSha256": "24f4e2b233d208a4df970180e9814fd0f6373d5a35faee8faf32f8aeb5245392",
+      "mobileSha256": "876518ea1a83ed63002e889f6ba91649c55e0f631577ea59f2dbbcc852ca6538",
+      "mobileBytes": 3431007,
+      "sourceSha256": "f2562cd0e77835f51b164020fcd5f630949c6ec5f1536cb37a64cbd45b80d04f",
+      "decodedSourceDuration": 828.576,
+      "decodedMobileDuration": 828.5866875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.977248,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 207.144,
+          "correlation": 0.98328,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 497.1456,
+          "correlation": 0.971472,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 820.576,
+          "correlation": 0.983369,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-053",
+      "subtitleFileSha256": "9c184f20cc2d6239f8909a49d7195e0156438956d96944e6dc122bf8f8f62833",
+      "inheritedCanonicalTextSha256": "ade9a6d43e9bcde45f1fae9764da12b48d8a8087c81d3a6b15636babee6acce1",
+      "mobileSha256": "9dfd41b52f242949541b85f9a8d29255264e0539e1893636dc69b52476621b14",
+      "mobileBytes": 2820438,
+      "sourceSha256": "b63454c45ef50588a0d33ea9f77fa3a01881e29d6e7593c791b4068e827a0632",
+      "decodedSourceDuration": 679.656,
+      "decodedMobileDuration": 679.68,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.974695,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 169.914,
+          "correlation": 0.978901,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 407.79359999999997,
+          "correlation": 0.970642,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 671.656,
+          "correlation": 0.982685,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-054",
+      "subtitleFileSha256": "9d1de5eb19c4aa55fb7c6e4d875e36191cf7b0816ad55624b2c2a1f0be5ca81a",
+      "inheritedCanonicalTextSha256": "b34981299c0f075b16ef578058d7d17af3ca0a6d1e7f87fc7ff3fbed9bb1d3d4",
+      "mobileSha256": "605d81149f4352b01ba14d89a9cd2f36aa9500e745d6e1a9e0ad6d6656cdaa1c",
+      "mobileBytes": 1391980,
+      "sourceSha256": "f42363e0361134723d0c022bef28eef21a9b206ac1686533661a825b5e0549f9",
+      "decodedSourceDuration": 335.304,
+      "decodedMobileDuration": 335.317375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.961776,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 83.826,
+          "correlation": 0.971297,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 201.18239999999997,
+          "correlation": 0.976077,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 327.304,
+          "correlation": 0.982515,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-055",
+      "subtitleFileSha256": "6248d1ccbd8d0c16a7cad6c050fc20ce29e649beefa6c0c5cbfd5b3913c97973",
+      "inheritedCanonicalTextSha256": "c795ddd1097320806890f18e1d7bea8dfeffb17669c1093088981713fff1baaf",
+      "mobileSha256": "9e618a43ef475bc86b96e384a059e03c03fc68f19be93adb49890f7c278f6399",
+      "mobileBytes": 2590409,
+      "sourceSha256": "3ab08ee246d5204d96b3176ae66354aa166c9a0cfb70b234ef63d61a3bf842a2",
+      "decodedSourceDuration": 625.056,
+      "decodedMobileDuration": 625.0666875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.977652,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 156.264,
+          "correlation": 0.98652,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 375.03360000000004,
+          "correlation": 0.972175,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 617.056,
+          "correlation": 0.985097,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-056",
+      "subtitleFileSha256": "da15a7ae600fd3d8c9490d7632e30001898eb3d0fd4043a5833490459b7941d4",
+      "inheritedCanonicalTextSha256": "ceb8527154728274c8c0e76c7a5a906e544c9fdfa49d56737edaa266a6b8c27a",
+      "mobileSha256": "a2878f184666a5cc3550136c39e0a73052abb370471f6249c4fc8a68f410b697",
+      "mobileBytes": 1675554,
+      "sourceSha256": "043fb337b9ca11c5f8ba7fda410e9a580367a8b41a47db7ed4ee12d784d24f0b",
+      "decodedSourceDuration": 404.328,
+      "decodedMobileDuration": 404.352,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.977666,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 101.082,
+          "correlation": 0.970835,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 242.59679999999997,
+          "correlation": 0.979203,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 396.328,
+          "correlation": 0.969484,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-057",
+      "subtitleFileSha256": "44cd7641b3911a3df205300db0413ac04c6c3e3058736e6e6c5f982f0de583db",
+      "inheritedCanonicalTextSha256": "c6762f299a84112d401f4812e3712dffced6107e6f5c6b390284909d08a8ac52",
+      "mobileSha256": "50d793a682fef084c3b0540c4a30b045fb89df809bbcf0f648a8ef11c56d2a1b",
+      "mobileBytes": 5383491,
+      "sourceSha256": "8852924faac0d63d9eb0d4a9317a88e346ccb2e6ce31b81a0be628504d157dd6",
+      "decodedSourceDuration": 1298.496,
+      "decodedMobileDuration": 1298.517375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.970252,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 324.624,
+          "correlation": 0.978028,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 779.0976,
+          "correlation": 0.974877,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1290.496,
+          "correlation": 0.978438,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-058",
+      "subtitleFileSha256": "0ea9c2796bbf2957274fb858937cf487ac2fbe83b37de64a601c550b48d38195",
+      "inheritedCanonicalTextSha256": "f6f258aa02ba9dd6fae72113be13f2d75138c0660868d73ae86bc82cd5f7f648",
+      "mobileSha256": "ad8592ea58b38e0467b87229c520bf4bff8333ae8a018b7a36da36ca5251c6fd",
+      "mobileBytes": 10150422,
+      "sourceSha256": "38673f10bb1a2a2985689b037808d15344a46583b70b1edf2ecff9ccc6d187c6",
+      "decodedSourceDuration": 2446.464,
+      "decodedMobileDuration": 2446.464,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.979256,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 611.616,
+          "correlation": 0.984142,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1467.8783999999998,
+          "correlation": 0.977267,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2438.464,
+          "correlation": 0.951947,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-059",
+      "subtitleFileSha256": "cc87c388d763910b85913453221bd64cc9fb7394b0fc4369f4ccda7827be0d86",
+      "inheritedCanonicalTextSha256": "5d95b06fcf0368949a03c54a80f196722aee3d3acae3a8e69d2c55d620ebacfb",
+      "mobileSha256": "863b53c0c7ea49223761f8e550d6253b844a2a6e37085d1f57054be86767d2c8",
+      "mobileBytes": 3426546,
+      "sourceSha256": "dfee4d01e2dae8aab9840a10ae0e0182f410698bb611d3b39d33eb969c0ca541",
+      "decodedSourceDuration": 824.616,
+      "decodedMobileDuration": 824.6186875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.954167,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 206.154,
+          "correlation": 0.987046,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 494.76959999999997,
+          "correlation": 0.97787,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 816.616,
+          "correlation": 0.974466,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-060",
+      "subtitleFileSha256": "14abc9ca544205f7a28c48ebef54040a9e6cc6807061aa8a127a6c6adb73817b",
+      "inheritedCanonicalTextSha256": "c5d253d2304b86a81f0dd1ebf6eb161640f640e1d56d4cb0891472e94f2d8145",
+      "mobileSha256": "3314a0fb698db7e5e032b0332f54297dd13d38d9c0965f67f38566d5114442c3",
+      "mobileBytes": 1907324,
+      "sourceSha256": "122ced7eda92c057bdceb05c020215e01fce0cd55f268aafce339da9da66e877",
+      "decodedSourceDuration": 459.744,
+      "decodedMobileDuration": 459.776,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.963741,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 114.936,
+          "correlation": 0.980874,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 275.8464,
+          "correlation": 0.983208,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 451.744,
+          "correlation": 0.977501,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-061",
+      "subtitleFileSha256": "9181d3438b52cfc472d2cfb32976e84f22d65722dd3f3011b3ebb4afd2af115c",
+      "inheritedCanonicalTextSha256": "112f5e2cd29be34f3b0209f9d85d59b07605e1ba308a6309676f29770329d94c",
+      "mobileSha256": "5f0f14cad8c996dbd54e7dc07394de4a48cc180b6050083accf95389a99d42c2",
+      "mobileBytes": 1025147,
+      "sourceSha256": "fd0e69ceedf86c1b6447f7fc2a90de7cd2f70bab76b0bbc926ed4c8550d15bdf",
+      "decodedSourceDuration": 246.624,
+      "decodedMobileDuration": 246.656,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.966075,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 61.656,
+          "correlation": 0.971088,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 147.9744,
+          "correlation": 0.966234,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 238.624,
+          "correlation": 0.97759,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-062",
+      "subtitleFileSha256": "095270fe23e1d97fce072dd051ad456bcb4cebab86f847c1c436452876203e1a",
+      "inheritedCanonicalTextSha256": "f7eaa73d6eb5b3cf02858e5fab837c255f684a97b74d995611d71336ce53fd70",
+      "mobileSha256": "8eab8951f37bbdccdb55b82807c4d6ba4597f28809219e6ef3d99cc36f41c057",
+      "mobileBytes": 1859735,
+      "sourceSha256": "d74580f40347d74959c93ec96e37bfe9043d5cf2a7787a6c03e1c0260cae5287",
+      "decodedSourceDuration": 448.104,
+      "decodedMobileDuration": 448.128,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.977445,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 112.026,
+          "correlation": 0.975634,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 268.8624,
+          "correlation": 0.980799,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 440.104,
+          "correlation": 0.989099,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-063",
+      "subtitleFileSha256": "d9970b82f5d682c4e30534a78efe4aad27ce1104743a0fb5d689934693f5dd9a",
+      "inheritedCanonicalTextSha256": "f256a71ba333697fe198c0b01d038b245c70f73e6ab54c1e7a25403e2f126840",
+      "mobileSha256": "97d89d15451eda3e5a6472ff7443916283ebc87c11e98b8cf659c2213bcf7782",
+      "mobileBytes": 1136702,
+      "sourceSha256": "032d8f0f974f880b040690ced0092558f830b970a76ca86e64677adfcf59091e",
+      "decodedSourceDuration": 274.344,
+      "decodedMobileDuration": 274.3466875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96847,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 68.586,
+          "correlation": 0.970082,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 164.60639999999998,
+          "correlation": 0.983146,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 266.344,
+          "correlation": 0.986647,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-064",
+      "subtitleFileSha256": "57bad17457054b15bb730ea5b4083b9f2e2768ae2192ce92429daa00b7562899",
+      "inheritedCanonicalTextSha256": "02ba36a19a5edff92c019975f6ab7ceec5e05b2754519ad1a56cdba7c69b3614",
+      "mobileSha256": "78b813b6306c7276df12c5f346012b4c79b4a50d7aeae0525af27e2e6a8e35e2",
+      "mobileBytes": 2793879,
+      "sourceSha256": "e3d9b3940be732e12cc002d0ab3a244a4831d5d1598cb5face026e64dc17622c",
+      "decodedSourceDuration": 673.536,
+      "decodedMobileDuration": 673.536,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.964089,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 168.384,
+          "correlation": 0.971888,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 404.12159999999994,
+          "correlation": 0.981489,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 665.536,
+          "correlation": 0.973645,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-065",
+      "subtitleFileSha256": "68503a5085bef278d65a54e820ec04a52a57d7c81b7df9232c10831a67799838",
+      "inheritedCanonicalTextSha256": "ef739ffd805dd08cfbfea2838598a8ba83ccb03d007207348b769a9c590785a5",
+      "mobileSha256": "a6ee8875e3c708fc25002b191241d08a88cc300471b087d0801a1a6c7f0121c7",
+      "mobileBytes": 9624821,
+      "sourceSha256": "94a506aa165b41e36436f695e8619bc7587d365f7167161201d7c7ad90825fe9",
+      "decodedSourceDuration": 2320.656,
+      "decodedMobileDuration": 2320.6826875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.975433,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 580.164,
+          "correlation": 0.981054,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1392.3935999999999,
+          "correlation": 0.963963,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 2312.656,
+          "correlation": 0.965577,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-066",
+      "subtitleFileSha256": "e62931641b6ab5abaaffa70762bfafc570be34b486952364b0c964f7543c9895",
+      "inheritedCanonicalTextSha256": "b5beb4745bc3265e94f09778d460c0a2ff9e7c682ca35acf0f23f87ec51ecc72",
+      "mobileSha256": "5f71b8bb0d3a33e3c86507025d94fb90e0b23b668386d4055d59894839afa2de",
+      "mobileBytes": 4382490,
+      "sourceSha256": "82768df354869057aa97f7a006a8d4729e6d9a124a9950fbc61b7c9564936ce5",
+      "decodedSourceDuration": 1057.104,
+      "decodedMobileDuration": 1057.109375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.978225,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 264.276,
+          "correlation": 0.989494,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 634.2624,
+          "correlation": 0.971402,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1049.104,
+          "correlation": 0.972406,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-067",
+      "subtitleFileSha256": "596e6d8057e13e979e817f62e188645d9af2f71eb5c89e618c09d6986ddda2aa",
+      "inheritedCanonicalTextSha256": "c2290c0bdeae98916a33d0f022d0ae10f6a074de85526589cb725ab54d07ed9b",
+      "mobileSha256": "6f1d2f6da9940095c94c54965ac01bba4e0dc4abe873fbaea3449f67b94a7c3d",
+      "mobileBytes": 4323066,
+      "sourceSha256": "24bc1c7f3bb579871a3935986f48aa36b2d077ec1421939cfc5152ec77e88e80",
+      "decodedSourceDuration": 1041.456,
+      "decodedMobileDuration": 1041.493375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96351,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 260.364,
+          "correlation": 0.968272,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 624.8735999999999,
+          "correlation": 0.980779,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1033.456,
+          "correlation": 0.979472,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-068",
+      "subtitleFileSha256": "2a6306007de4e89492a957a015adcec9eb6b623306b48d0414e4ad7cf74e8b99",
+      "inheritedCanonicalTextSha256": "31e4fff7f3308fcbbe44e3cf7e2c33ef61f6abcf71f6e20df414f168ec0cfda4",
+      "mobileSha256": "1d9a1109b393d55efeb799b4f328072a6cfe31dbe103b6510e516cefd0a866f5",
+      "mobileBytes": 3638235,
+      "sourceSha256": "4a3be676d3c59dd607497ae46b1fb771f6d7a49c85fbb4ccd00d364edd297cd0",
+      "decodedSourceDuration": 875.688,
+      "decodedMobileDuration": 875.6906875,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.961526,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 218.922,
+          "correlation": 0.968184,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 525.4128,
+          "correlation": 0.970186,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 867.688,
+          "correlation": 0.954683,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-069",
+      "subtitleFileSha256": "83ae1898f8b6fbdaab95cf49036c57f3a0a67f7205848d3cac393ebb40f25e7d",
+      "inheritedCanonicalTextSha256": "9e68736cb54278f64360c0d3690f4c0c165b1770b175f0a7ed2cad277671fdf6",
+      "mobileSha256": "6b614c7790c72fa24eb4248ce1dcc9d1160e0e3714b85ab236ca7b735e5e9479",
+      "mobileBytes": 1883144,
+      "sourceSha256": "e5bf59e03bfff1775563cf7fd75028ee0cfd748d1272280d53af48a1cde20b50",
+      "decodedSourceDuration": 453.816,
+      "decodedMobileDuration": 453.845375,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98281,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 113.454,
+          "correlation": 0.980207,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 272.28959999999995,
+          "correlation": 0.980977,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 445.816,
+          "correlation": 0.951324,
+          "phaseSeconds": 0.0
+        }
+      ]
+    },
+    {
+      "id": "v4-070",
+      "subtitleFileSha256": "ade3d915243d645e9f9dcd8a2864538ea923d7d31a4b2b7a90cf920c6c1bdd8b",
+      "inheritedCanonicalTextSha256": "9f44bfec669656cfeccdcff09d06ea62ba0b5a8963b4bf4364b3bac06ae29913",
+      "mobileSha256": "1768619ae26ddf3d3a972440a410fbac71ac1448801f823dab8f6cddbbf22d82",
+      "mobileBytes": 5556441,
+      "sourceSha256": "6b585006263c8d93d2aedb5d96623d20eee9e3c263085672b1e97fa261b7441f",
+      "decodedSourceDuration": 1339.104,
+      "decodedMobileDuration": 1339.136,
+      "waveformChecks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97208,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 334.776,
+          "correlation": 0.976647,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 803.4624,
+          "correlation": 0.97485,
+          "phaseSeconds": 0.0
+        },
+        {
+          "seconds": 1331.104,
+          "correlation": 0.953891,
+          "phaseSeconds": 0.0
+        }
+      ]
+    }
+  ]
+}

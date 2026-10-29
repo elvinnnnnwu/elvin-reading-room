@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "date": "2026-10-28",
+  "version": "0.4.0",
+  "date": "2026-10-29",
   "name": "听见文字",
   "catalogChapters": 160,
   "volumes": [
@@ -9,13 +9,15 @@
     3,
     4
   ],
-  "canonicalSubtitledChapters": 1,
-  "allSubtitlesComplete": false,
+  "canonicalSubtitledChapters": 160,
+  "allSubtitlesComplete": true,
   "progressStorage": "browser-local",
   "publicAudioSource": "共产党员网",
   "publicBookSource": "理论中国原版电子书",
-  "releaseType": "usable-reading-audio-release-subtitles-in-progress",
-  "mobileOptimizedChapters": 1,
-  "mobileAudioByteReductionPercent": 62.498,
-  "forcedRefresh": false
+  "releaseType": "four-volume-synchronized-reading-audio",
+  "mobileOptimizedChapters": 160,
+  "mobileAudioByteReductionPercent": 74.1,
+  "forcedRefresh": false,
+  "mediaVerification": "cloud-source-sha256-full-pcm-four-waveform-samples",
+  "physicalMobileTested": false
 }

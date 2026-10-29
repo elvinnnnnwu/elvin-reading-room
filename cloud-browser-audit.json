@@ -1,0 +1,27 @@
+{
+  "version": "0.4.0",
+  "build": "production Vite preview",
+  "browser": "Chromium 154.0.8037.57 built on Debian GNU/Linux 13 (trixie)",
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "isMobile": true,
+    "hasTouch": true
+  },
+  "unitAssertionsPassed": 24,
+  "passed": [
+    "real AAC playback and caption click-to-seek",
+    "preview mode does not modify browser progress",
+    "normal-mode saved position restored after reload",
+    "original-reader page and zoom controls",
+    "two official-page glyphs rendered",
+    "two unspoken original sentences retained without seek buttons",
+    "no horizontal overflow or JavaScript exceptions",
+    "caption retry after controlled HTTP 503",
+    "audio retry after controlled network failure",
+    "both source switch directions preserve position with verified original MP3 and cloud AAC, Range supported"
+  ],
+  "officialBookImageFetch": "856x1200 JPEG downloaded successfully with TLS verification",
+  "physicalAndroidWeChatBluetoothLockScreenTested": false,
+  "publicDeploymentVerified": false
+}
