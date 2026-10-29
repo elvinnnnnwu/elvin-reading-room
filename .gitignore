@@ -3,3 +3,5 @@ node_modules/
 source/dist/
 *.log
 .env*
+
+source/public/audio/mobile

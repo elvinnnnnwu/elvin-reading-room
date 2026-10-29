@@ -1,32 +1,5224 @@
 {
-  "originalBytes": 20426919,
-  "mobileBytes": 7660478,
-  "sizeReduction": 0.62498,
-  "originalSha256": "7d98a2e9207960bb859b5459b4eaea30348e60a4e2e48cd58dd033eb832ea064",
-  "mobileSha256": "a3b43dd398ee45a64e20eebd99849f1be6a3b553dc67c9690c39159e13be3a6e",
-  "codec": "MP3 mono 48kbps 44100Hz",
-  "durationDifferenceSeconds": 0.026133,
-  "checks": [
+  "version": "0.4.0",
+  "chapters": [
     {
-      "atSeconds": 22,
-      "waveformCorrelation": 0.988031,
-      "sampleCountsMatch": true
+      "id": "v1-001",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725119304lnpwmw.mp3",
+      "sourceBytes": 20426919,
+      "sourceSha256": "7d98a2e9207960bb859b5459b4eaea30348e60a4e2e48cd58dd033eb832ea064",
+      "mobileBytes": 5265507,
+      "mobileSha256": "f3fbceda9a78372141e8042a65b0eff4770c939b3b94b94325afe1dcda49c099",
+      "sourceDuration": 1276.682438,
+      "mobileDuration": 1276.683,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98044
+        },
+        {
+          "seconds": 319.171,
+          "correlation": 0.97984
+        },
+        {
+          "seconds": 766.009,
+          "correlation": 0.98558
+        },
+        {
+          "seconds": 1268.682,
+          "correlation": 0.96644
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
     },
     {
-      "atSeconds": 60,
-      "waveformCorrelation": 0.994624,
-      "sampleCountsMatch": true
+      "id": "v1-002",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773724326579agsjdg.mp3",
+      "sourceBytes": 90363611,
+      "sourceSha256": "2948dc7157135c49df3a7aeadf4ed9817e1230820e8d23ea1a4ea4d64b379442",
+      "mobileBytes": 23292865,
+      "mobileSha256": "19b335ddf4d3abf576b70c73b101cc025c334aef13d257cb77033cc2b1815f11",
+      "sourceDuration": 5647.72575,
+      "sourceContainerDuration": 5647.725688,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 5647.726,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97677
+        },
+        {
+          "seconds": 1411.931,
+          "correlation": 0.9695
+        },
+        {
+          "seconds": 3388.635,
+          "correlation": 0.97336
+        },
+        {
+          "seconds": 5639.726,
+          "correlation": 0.9903
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
     },
     {
-      "atSeconds": 600,
-      "waveformCorrelation": 0.974876,
-      "sampleCountsMatch": true
+      "id": "v1-003",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773724381530uqeald.mp3",
+      "sourceBytes": 19865654,
+      "sourceSha256": "f460fc3cc99481619abdea53a18e8c1e8be757a1a04f3758335cdf8c940a5901",
+      "mobileBytes": 5121896,
+      "mobileSha256": "2cfc4506a1e277a99b67a4ba96b1e23b209922af4d98382342e4d55c12dccd7a",
+      "sourceDuration": 1241.6,
+      "mobileDuration": 1241.6,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98723
+        },
+        {
+          "seconds": 310.4,
+          "correlation": 0.97153
+        },
+        {
+          "seconds": 744.96,
+          "correlation": 0.98165
+        },
+        {
+          "seconds": 1233.6,
+          "correlation": 0.97056
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
     },
     {
-      "atSeconds": 1200,
-      "waveformCorrelation": 0.991856,
-      "sampleCountsMatch": true
+      "id": "v1-004",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725314080flmmhr.mp3",
+      "sourceBytes": 81566406,
+      "sourceSha256": "90bb9a07e766c704acf6e15cb0e111740070ab55103b778ce3b96dc3ceda2077",
+      "mobileBytes": 21023702,
+      "mobileSha256": "092a2ff727ea69141fb68e1e7cabf1ed4a8311b6b9c78811b8513776e98a3176",
+      "sourceDuration": 5097.9004375,
+      "sourceContainerDuration": 5097.900375,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 5097.901,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98081
+        },
+        {
+          "seconds": 1274.475,
+          "correlation": 0.96915
+        },
+        {
+          "seconds": 3058.74,
+          "correlation": 0.95823
+        },
+        {
+          "seconds": 5089.9,
+          "correlation": 0.97109
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-005",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725619431rvxnee.mp3",
+      "sourceBytes": 22915519,
+      "sourceSha256": "c71a0b3317c939bf924216aae2419cf1eb3bc0cf36d2a701c8dbd9ddf97f1e0a",
+      "mobileBytes": 5908900,
+      "mobileSha256": "18886633c69d430a330013b1f4a17b4e4af44b2dc1a5480837bfa968db358b15",
+      "sourceDuration": 1432.2155,
+      "mobileDuration": 1432.216,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9865
+        },
+        {
+          "seconds": 358.054,
+          "correlation": 0.98187
+        },
+        {
+          "seconds": 859.329,
+          "correlation": 0.96992
+        },
+        {
+          "seconds": 1424.216,
+          "correlation": 0.97122
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-006",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725360728ittsli.mp3",
+      "sourceBytes": 32661942,
+      "sourceSha256": "e2b3e95f10edf5ced82df072f20807690730ef4e83930820405561e8bb5ea24b",
+      "mobileBytes": 8439434,
+      "mobileSha256": "6d187340caa2017738f7e10dbd2859fbef1d6c3401b44e499abd546c923623a9",
+      "sourceDuration": 2046.0669375,
+      "sourceContainerDuration": 2041.371375,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2046.067,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98591
+        },
+        {
+          "seconds": 511.517,
+          "correlation": 0.97348
+        },
+        {
+          "seconds": 1227.64,
+          "correlation": 0.88299
+        },
+        {
+          "seconds": 2038.067,
+          "correlation": 0.88284
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-007",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725393760zpwjwj.mp3",
+      "sourceBytes": 21778830,
+      "sourceSha256": "e721fa81f7f2b7cb83555c29e7b51187bf67eb5c89a3f12ca2c1003034610633",
+      "mobileBytes": 5614979,
+      "mobileSha256": "189a61f5c5961432594df9ff35caf73beb828b9d83964940cd13392b4fdc2972",
+      "sourceDuration": 1361.175313,
+      "mobileDuration": 1361.163,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96414
+        },
+        {
+          "seconds": 340.294,
+          "correlation": 0.96546
+        },
+        {
+          "seconds": 816.705,
+          "correlation": 0.98713
+        },
+        {
+          "seconds": 1353.175,
+          "correlation": 0.95749
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-008",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725406152eahpum.mp3",
+      "sourceBytes": 19857957,
+      "sourceSha256": "74b3984658c6f75abb78cde3f7e043231c622a1bfe077f5126df3c918ed8e7f0",
+      "mobileBytes": 5132332,
+      "mobileSha256": "4fdbb0b46597f2a9369801b13e7ecafec1642f00191944644a1d2b0b5c90a92a",
+      "sourceDuration": 1243.977125,
+      "sourceContainerDuration": 1241.122313,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 1243.978,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98715
+        },
+        {
+          "seconds": 310.994,
+          "correlation": 0.9426
+        },
+        {
+          "seconds": 746.386,
+          "correlation": 0.94834
+        },
+        {
+          "seconds": 1235.977,
+          "correlation": 0.97507
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-009",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725712071iqiizp.mp3",
+      "sourceBytes": 5166029,
+      "sourceSha256": "96ebc7ed6a1dfbde121893702e54fff1309e71f33a2f844e7ac9da39bf6ac60a",
+      "mobileBytes": 1332187,
+      "mobileSha256": "f3de3b705db32f164b386fd0b32e299b804dbd55ef4018fbd926f8d2c2afb1a9",
+      "sourceDuration": 322.8735,
+      "sourceContainerDuration": 322.873438,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 322.874,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98506
+        },
+        {
+          "seconds": 80.718,
+          "correlation": 0.91144
+        },
+        {
+          "seconds": 193.724,
+          "correlation": 0.98433
+        },
+        {
+          "seconds": 314.873,
+          "correlation": 0.95915
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-010",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725431511nrwoqy.mp3",
+      "sourceBytes": 12196416,
+      "sourceSha256": "3eb8fd59bb2c17b917ffeedfa0aee97b0eee384963aca07b9e9dca03adddfdc6",
+      "mobileBytes": 3162881,
+      "mobileSha256": "221819a77ab352edb15aefd500eba22ff36f5bc5158d352aad6dd634d660312b",
+      "sourceDuration": 764.029375,
+      "sourceContainerDuration": 762.276,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 764.03,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98835
+        },
+        {
+          "seconds": 191.007,
+          "correlation": 0.93302
+        },
+        {
+          "seconds": 458.418,
+          "correlation": 0.97868
+        },
+        {
+          "seconds": 756.029,
+          "correlation": 0.98026
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-011",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725443271txcgdz.mp3",
+      "sourceBytes": 13348780,
+      "sourceSha256": "cbab3d363aeaf81a04093b2653310b144666bf895b508b2cc380719523ab7536",
+      "mobileBytes": 3444502,
+      "mobileSha256": "a6a32f48f635ec64ec73d7888a5b9808dff285dfe9475c2f2f6affaf5ac8cf8c",
+      "sourceDuration": 834.2988125,
+      "sourceContainerDuration": 834.29875,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 834.299,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99022
+        },
+        {
+          "seconds": 208.575,
+          "correlation": 0.98374
+        },
+        {
+          "seconds": 500.579,
+          "correlation": 0.97792
+        },
+        {
+          "seconds": 826.299,
+          "correlation": 0.9306
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-012",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725455048asdweg.mp3",
+      "sourceBytes": 52175516,
+      "sourceSha256": "dc666b421e4de5226447b65d1e7916750cad824ab0339dda1b6d94501063cef0",
+      "mobileBytes": 13452692,
+      "mobileSha256": "255472832434b42d96f5f2f8c1cead89a7d6c67e9f24556690a34071cc16ea51",
+      "sourceDuration": 3260.9698125,
+      "sourceContainerDuration": 3260.96975,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 3260.97,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9902
+        },
+        {
+          "seconds": 815.242,
+          "correlation": 0.96416
+        },
+        {
+          "seconds": 1956.582,
+          "correlation": 0.97213
+        },
+        {
+          "seconds": 3252.97,
+          "correlation": 0.96353
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-013",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725474359qzefnq.mp3",
+      "sourceBytes": 177201808,
+      "sourceSha256": "014a2a7bc947f8384ed7c6b6b74807f5452c7f934d1cf83c6f97cab891ec1a54",
+      "mobileBytes": 45680729,
+      "mobileSha256": "366cf6dbf3280edb43ec0b8b1fffd5b2105330c69dd880db46865df359ab8567",
+      "sourceDuration": 11075.1085625,
+      "sourceContainerDuration": 11075.108563,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 11075.109,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98692
+        },
+        {
+          "seconds": 2768.777,
+          "correlation": 0.98165
+        },
+        {
+          "seconds": 6645.065,
+          "correlation": 0.953
+        },
+        {
+          "seconds": 11067.109,
+          "correlation": 0.96912
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-014",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725511695ivjimc.mp3",
+      "sourceBytes": 7682979,
+      "sourceSha256": "650ddbe8740bafbcfa60edc898f531b65646bb2017b63fa7b9c02a9dd7f139fb",
+      "mobileBytes": 1981123,
+      "mobileSha256": "e3c36bd3de93d079bf2d396e48e28c147730ead492bcb7b4046052879196d7f6",
+      "sourceDuration": 480.182875,
+      "sourceContainerDuration": 480.182813,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 480.183,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97573
+        },
+        {
+          "seconds": 120.046,
+          "correlation": 0.97538
+        },
+        {
+          "seconds": 288.11,
+          "correlation": 0.97317
+        },
+        {
+          "seconds": 472.183,
+          "correlation": 0.96293
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-015",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725524359nkuohd.mp3",
+      "sourceBytes": 32035735,
+      "sourceSha256": "ebb278edfda5ffba4b62f87ccbf051191128b69051332b168baf56b1b9c2fd09",
+      "mobileBytes": 8259909,
+      "mobileSha256": "b5a452c8081fcc58c994315efef30ec719a5d82d0577e477b94f5f9a9361093b",
+      "sourceDuration": 2002.2335,
+      "sourceContainerDuration": 2002.233438,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2002.234,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97405
+        },
+        {
+          "seconds": 500.558,
+          "correlation": 0.97382
+        },
+        {
+          "seconds": 1201.34,
+          "correlation": 0.96321
+        },
+        {
+          "seconds": 1994.234,
+          "correlation": 0.97092
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-016",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725539063jviezr.mp3",
+      "sourceBytes": 19288051,
+      "sourceSha256": "553315c017866c9ca84d9819f08e55cf9539212f30d10d6ce99940d3630992f7",
+      "mobileBytes": 4977012,
+      "mobileSha256": "9161065e096a35b14dfc75e76e57e7a82f5b9a0d87615b8016779f3afd99ff38",
+      "sourceDuration": 1205.49875,
+      "mobileDuration": 1205.499,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96419
+        },
+        {
+          "seconds": 301.375,
+          "correlation": 0.94804
+        },
+        {
+          "seconds": 723.299,
+          "correlation": 0.96564
+        },
+        {
+          "seconds": 1197.499,
+          "correlation": 0.96399
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-017",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725552576mcssai.mp3",
+      "sourceBytes": 47388630,
+      "sourceSha256": "40bbabdfd6191b36de4dde10bc0b9d9815886ffa2f2caa2962f72483360244b9",
+      "mobileBytes": 12216364,
+      "mobileSha256": "bfe1e7e7ba05e2a2b8f9440f80431e8968aa1030848621ab367a4affffd90abd",
+      "sourceDuration": 2961.789375,
+      "sourceContainerDuration": 2961.789375,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2961.79,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9721
+        },
+        {
+          "seconds": 740.447,
+          "correlation": 0.97741
+        },
+        {
+          "seconds": 1777.074,
+          "correlation": 0.97677
+        },
+        {
+          "seconds": 2953.789,
+          "correlation": 0.97698
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v1-018",
+      "officialAudio": "https://download.12371.cn/wenjian/2026/3/17/1773725567751hoxkpr.mp3",
+      "sourceBytes": 116813322,
+      "sourceSha256": "eafecec098504318042428bd59c52fd85e35a03381c690906f5e58da58cbcc56",
+      "mobileBytes": 30111044,
+      "mobileSha256": "5775bb9373a4711a4df6d21620500a9019b0727738d6a1d04abb162686f2a5f2",
+      "sourceDuration": 7300.8326875,
+      "sourceContainerDuration": 7300.832625,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 7300.833,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98708
+        },
+        {
+          "seconds": 1825.208,
+          "correlation": 0.99136
+        },
+        {
+          "seconds": 4380.5,
+          "correlation": 0.96755
+        },
+        {
+          "seconds": 7292.833,
+          "correlation": 0.98251
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-001",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/e114209d74f44574b09fc1e817eefbaf_850_h264_818_aac_128.mp3",
+      "sourceBytes": 17392896,
+      "sourceSha256": "f722346874f44cfb3e5674e4149e281ace182f2ec8b5d198da7bbcf2cf5e81ad",
+      "mobileBytes": 4486224,
+      "mobileSha256": "b54f317b2266cc2a98553b89b7dd5b0bc6666d12eda059b65fda9f05337f9b0c",
+      "sourceDuration": 1087.056,
+      "mobileDuration": 1087.056,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98987
+        },
+        {
+          "seconds": 271.764,
+          "correlation": 0.99071
+        },
+        {
+          "seconds": 652.234,
+          "correlation": 0.98619
+        },
+        {
+          "seconds": 1079.056,
+          "correlation": 0.98687
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-002",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/d5c6a692adca4d9ba055233e20b31e41_850_h264_818_aac_128.mp3",
+      "sourceBytes": 12271104,
+      "sourceSha256": "b09882920c96c54d590181803755448e01dd4944732fcfa27ebd98f7e057cd3c",
+      "mobileBytes": 3166662,
+      "mobileSha256": "00b1ad760abe5965f72267b673b4eff1e91e642f6a74bc5f1294317348c896c1",
+      "sourceDuration": 766.944,
+      "sourceContainerDuration": 766.944,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 766.944,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98442
+        },
+        {
+          "seconds": 191.736,
+          "correlation": 0.99365
+        },
+        {
+          "seconds": 460.166,
+          "correlation": 0.98576
+        },
+        {
+          "seconds": 758.944,
+          "correlation": 0.99666
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-003",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/532556b72a42410388be77fece0f4be8_850_h264_818_aac_128.mp3",
+      "sourceBytes": 6089856,
+      "sourceSha256": "3362de9ce2e63f6085597b42ebd8c06231a79b87e13b48386acbbe2e6c7775d1",
+      "mobileBytes": 1571441,
+      "mobileSha256": "a4c75731c64a8bc27e4c662c976865facc3851f7d7e8cd0f64615d1c6c28416d",
+      "sourceDuration": 380.616,
+      "sourceContainerDuration": 380.616,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 380.616,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98995
+        },
+        {
+          "seconds": 95.154,
+          "correlation": 0.99312
+        },
+        {
+          "seconds": 228.37,
+          "correlation": 0.97439
+        },
+        {
+          "seconds": 372.616,
+          "correlation": 0.9894
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-004",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/053344c1269040c380a46b81a11b6a59_850_h264_818_aac_128.mp3",
+      "sourceBytes": 26560128,
+      "sourceSha256": "9dd041418eaf75eac8d45a800f7314377bade62e0a2cb3bf5b8e956fc9cddc9f",
+      "mobileBytes": 6848628,
+      "mobileSha256": "f392ab5b2dfc6749c16559fded7555d650a6e01749a7ac71757bb938ecb52778",
+      "sourceDuration": 1660.008,
+      "sourceContainerDuration": 1660.008,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 1660.008,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98056
+        },
+        {
+          "seconds": 415.002,
+          "correlation": 0.99211
+        },
+        {
+          "seconds": 996.005,
+          "correlation": 0.99669
+        },
+        {
+          "seconds": 1652.008,
+          "correlation": 0.99008
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-005",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/be257b047bc544dd94b9c69ed99f68e6_850_h264_818_aac_128.mp3",
+      "sourceBytes": 32976384,
+      "sourceSha256": "04f4e8bc41225b83b7b02264f3afb03f1b51a6dea325b02f31ea0225d6ca2a31",
+      "mobileBytes": 8501912,
+      "mobileSha256": "3e3e936405b7e87335752f77745919d29a5c1a5891a6cc694788ef38dd516aa0",
+      "sourceDuration": 2061.024,
+      "sourceContainerDuration": 2061.024,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2061.024,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99416
+        },
+        {
+          "seconds": 515.256,
+          "correlation": 0.97969
+        },
+        {
+          "seconds": 1236.614,
+          "correlation": 0.99062
+        },
+        {
+          "seconds": 2053.024,
+          "correlation": 0.99495
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-006",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/6aa28d4fd7654e42908805eb005643f9_850_h264_818_aac_128.mp3",
+      "sourceBytes": 22816128,
+      "sourceSha256": "08f7b45c2ec647a01dd88745caed40a8270369e44cafa4bbb2596ed76d7e88c5",
+      "mobileBytes": 5883515,
+      "mobileSha256": "88c270f2a666f8f66a4468d4eab049ef13037fd2a51a798a6ae825cdfe04c32c",
+      "sourceDuration": 1426.008,
+      "mobileDuration": 1426.008,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99454
+        },
+        {
+          "seconds": 356.502,
+          "correlation": 0.98796
+        },
+        {
+          "seconds": 855.605,
+          "correlation": 0.99218
+        },
+        {
+          "seconds": 1418.008,
+          "correlation": 0.96966
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-007",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/d147e72afece40ba9ccae4d46a110678_850_h264_818_aac_128.mp3",
+      "sourceBytes": 4809984,
+      "sourceSha256": "644ac2f2dbd0f24033d572aaa50e50d198647f6fa1485aa52e8cce8a19184bbf",
+      "mobileBytes": 1241945,
+      "mobileSha256": "19d8e284ac9b2285b8b5982f10876d03c88aacceec19cac6cc83514f60fd3856",
+      "sourceDuration": 300.624,
+      "sourceContainerDuration": 300.624,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 300.624,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98885
+        },
+        {
+          "seconds": 75.156,
+          "correlation": 0.99224
+        },
+        {
+          "seconds": 180.374,
+          "correlation": 0.9577
+        },
+        {
+          "seconds": 292.624,
+          "correlation": 0.9794
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-008",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/c8ed53a859274f4b9d4c2c06e9f984db_850_h264_818_aac_128.mp3",
+      "sourceBytes": 84747264,
+      "sourceSha256": "2cd16794d92fec3fb74c788e9682fab10a054ed5593fe729fe746244236c561d",
+      "mobileBytes": 21846421,
+      "mobileSha256": "a540c5bd88aebcbe1f053cbb9f312e992e6c2870044ad50ded700a7cbbc30515",
+      "sourceDuration": 5296.704,
+      "sourceContainerDuration": 5296.704,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 5296.704,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99281
+        },
+        {
+          "seconds": 1324.176,
+          "correlation": 0.96875
+        },
+        {
+          "seconds": 3178.022,
+          "correlation": 0.97788
+        },
+        {
+          "seconds": 5288.704,
+          "correlation": 0.98776
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-009",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/60a4a710bd96444a9b63f8f0c8b543a6_850_h264_818_aac_128.mp3",
+      "sourceBytes": 209931264,
+      "sourceSha256": "4c9384b5e99c2a0c405c5e9a25d69b36422e89bca0ca540125dc98a4d0b5fad2",
+      "mobileBytes": 54115845,
+      "mobileSha256": "5a78a4543fd218474f2af54bc47178a0208bc8a2d2ece62bcdbec6815c03633a",
+      "sourceDuration": 13120.704,
+      "sourceContainerDuration": 13120.704,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 13120.704,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98593
+        },
+        {
+          "seconds": 3280.176,
+          "correlation": 0.9825
+        },
+        {
+          "seconds": 7872.422,
+          "correlation": 0.98494
+        },
+        {
+          "seconds": 13112.704,
+          "correlation": 0.99349
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-010",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/ccb64f77003f4daaa0bc8f371cb7d4a3_850_h264_818_aac_128.mp3",
+      "sourceBytes": 38937984,
+      "sourceSha256": "3bfe94356aee3ef412c099d3cb6726caffa7d292a103186ae0bc9dfb648c789f",
+      "mobileBytes": 10037911,
+      "mobileSha256": "0b2f668508e308dc6eadc7e484088747e7bceaf1e674790e7b2ac04176f3d402",
+      "sourceDuration": 2433.624,
+      "sourceContainerDuration": 2433.624,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2433.624,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98443
+        },
+        {
+          "seconds": 608.406,
+          "correlation": 0.99288
+        },
+        {
+          "seconds": 1460.174,
+          "correlation": 0.98675
+        },
+        {
+          "seconds": 2425.624,
+          "correlation": 0.97166
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-011",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/9755bbf24df94f7aa0251fa6965f26b6_850_h264_818_aac_128.mp3",
+      "sourceBytes": 7008768,
+      "sourceSha256": "ae99a6c329be1ee280ac9948b37ae53f5d328143ae0f8fa6fe7ecef84a61fafd",
+      "mobileBytes": 1807963,
+      "mobileSha256": "470c66bd822fedbfb25119e16c06caafe7c2d3ec14404a8d7c7d167661080db6",
+      "sourceDuration": 438.048,
+      "sourceContainerDuration": 438.048,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 438.048,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97985
+        },
+        {
+          "seconds": 109.512,
+          "correlation": 0.99129
+        },
+        {
+          "seconds": 262.829,
+          "correlation": 0.99215
+        },
+        {
+          "seconds": 430.048,
+          "correlation": 0.99501
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-012",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/eebd53c938fe481fa0e14ccdf85e863c_850_h264_818_aac_128.mp3",
+      "sourceBytes": 33734784,
+      "sourceSha256": "13787b83139a05fad5c6ce4eb6e00b46a22db7e80f30cc97df9a23553dcaf381",
+      "mobileBytes": 8698894,
+      "mobileSha256": "0333bcba60902e099a3b9a856ebf75751afde60fde366f799fa89dd59e6d4e9e",
+      "sourceDuration": 2108.424,
+      "sourceContainerDuration": 2108.424,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2108.424,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99681
+        },
+        {
+          "seconds": 527.106,
+          "correlation": 0.99601
+        },
+        {
+          "seconds": 1265.054,
+          "correlation": 0.98502
+        },
+        {
+          "seconds": 2100.424,
+          "correlation": 0.99591
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-013",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/20/02c16232e01542d1bac91b7fb22127c6_128_mp3_128.mp3",
+      "sourceBytes": 5234688,
+      "sourceSha256": "2f14f95570d3a9dce81ff6e0d9b979e5fc9195d73df0100beb1e1373aa346b10",
+      "mobileBytes": 1350526,
+      "mobileSha256": "e76c33117ac7cb5b34cad458943a8d9fa7ed7c74c31c1b686ba49b1868e30f91",
+      "sourceDuration": 327.168,
+      "sourceContainerDuration": 327.168,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 327.168,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98979
+        },
+        {
+          "seconds": 81.792,
+          "correlation": 0.99205
+        },
+        {
+          "seconds": 196.301,
+          "correlation": 0.99357
+        },
+        {
+          "seconds": 319.168,
+          "correlation": 0.99377
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-014",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/ff52f15e6a5b4ac7aff7bcd7404a9a2b_850_h264_818_aac_128.mp3",
+      "sourceBytes": 22484736,
+      "sourceSha256": "a80bee325e15282ffd88a29043b4b297f5a41cbde504ab2427225223956998f5",
+      "mobileBytes": 5797564,
+      "mobileSha256": "673a5d3f7fd78dfda7d93e526d27eb416dc5bf8f52b93c69afdb918adfd7de93",
+      "sourceDuration": 1405.296,
+      "mobileDuration": 1405.296,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98746
+        },
+        {
+          "seconds": 351.324,
+          "correlation": 0.98588
+        },
+        {
+          "seconds": 843.178,
+          "correlation": 0.97424
+        },
+        {
+          "seconds": 1397.296,
+          "correlation": 0.98739
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-015",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/20/e42eb90ceb474bcface11d2da47c3847_128_mp3_128.mp3",
+      "sourceBytes": 9371904,
+      "sourceSha256": "b8565934ec02bbd9a11dd3146a391f8f9a2e5c4be573de44052ec49466897780",
+      "mobileBytes": 2417486,
+      "mobileSha256": "7c7764ccf2f459e405b840a1a245475dd4be25cff84f46f485a2903605a57fe9",
+      "sourceDuration": 585.744,
+      "sourceContainerDuration": 585.744,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 585.744,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99346
+        },
+        {
+          "seconds": 146.436,
+          "correlation": 0.98842
+        },
+        {
+          "seconds": 351.446,
+          "correlation": 0.98429
+        },
+        {
+          "seconds": 577.744,
+          "correlation": 0.99055
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-016",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/0608ce33bfa9447a809f9b09767ed0ae_850_h264_818_aac_128.mp3",
+      "sourceBytes": 8420736,
+      "sourceSha256": "8c47878dcded6fe3a221125b7352891cf1cc393ca357f5451a965302860f6947",
+      "mobileBytes": 2172262,
+      "mobileSha256": "621ec7faf5e56887ff2889320b66238ca37788ad34dfac44c26c09a6523ffb7e",
+      "sourceDuration": 526.296,
+      "sourceContainerDuration": 526.296,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 526.296,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99333
+        },
+        {
+          "seconds": 131.574,
+          "correlation": 0.99151
+        },
+        {
+          "seconds": 315.778,
+          "correlation": 0.98844
+        },
+        {
+          "seconds": 518.296,
+          "correlation": 0.98837
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-017",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/20/7f3cbe5c5dc54bb6a8679807d9068d57_128_mp3_128.mp3",
+      "sourceBytes": 14119296,
+      "sourceSha256": "fac9c37c0ab0de2a85bbc31a387ffd74e90ae0ba1cb795e6a805807bf6560589",
+      "mobileBytes": 3640571,
+      "mobileSha256": "2d38295c78cba3d3a93215a525f659a7b9b9bc51a3ed0a491094f1ffaeaa802a",
+      "sourceDuration": 882.456,
+      "sourceContainerDuration": 882.456,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 882.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99231
+        },
+        {
+          "seconds": 220.614,
+          "correlation": 0.99548
+        },
+        {
+          "seconds": 529.474,
+          "correlation": 0.97882
+        },
+        {
+          "seconds": 874.456,
+          "correlation": 0.99029
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-018",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/64a3d669a3d0426fbf0cb76949f9b506_850_h264_818_aac_128.mp3",
+      "sourceBytes": 12826368,
+      "sourceSha256": "19b04f0b0191e60c3a995db40b2912ddecb55b367ab622cb580f65e2c457e405",
+      "mobileBytes": 3308330,
+      "mobileSha256": "8b200aeb9aa091b26ba4534a268d0f5cd46af000dcfd15837230debea7f918dd",
+      "sourceDuration": 801.648,
+      "sourceContainerDuration": 801.648,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 801.648,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99678
+        },
+        {
+          "seconds": 200.412,
+          "correlation": 0.99537
+        },
+        {
+          "seconds": 480.989,
+          "correlation": 0.99219
+        },
+        {
+          "seconds": 793.648,
+          "correlation": 0.99631
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-019",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/26c6e8e30b5242a6b50924009d545030_850_h264_818_aac_128.mp3",
+      "sourceBytes": 21175296,
+      "sourceSha256": "efaeb4e94cc8742f781c83050d22b3346133cebbb14bc16ec015545cb8caaede",
+      "mobileBytes": 5459001,
+      "mobileSha256": "fe56e617e751a35fddb0a1d1b1af96c388ca91c3a56bcad2945583aa4e14a127",
+      "sourceDuration": 1323.456,
+      "mobileDuration": 1323.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98294
+        },
+        {
+          "seconds": 330.864,
+          "correlation": 0.98716
+        },
+        {
+          "seconds": 794.074,
+          "correlation": 0.98293
+        },
+        {
+          "seconds": 1315.456,
+          "correlation": 0.98995
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-020",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/e851ff430e92460292e1328d6947e19a_850_h264_818_aac_128.mp3",
+      "sourceBytes": 33083904,
+      "sourceSha256": "783d12cc78c61d263103603fa1716a8e5e667fd84f959ac54ad8398e0b624436",
+      "mobileBytes": 8530113,
+      "mobileSha256": "eb9ff9dca116cfabde4e91b5eb31451a2961fcfdebc457e2a09cbc6463c5278b",
+      "sourceDuration": 2067.744,
+      "sourceContainerDuration": 2067.744,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2067.744,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99321
+        },
+        {
+          "seconds": 516.936,
+          "correlation": 0.98939
+        },
+        {
+          "seconds": 1240.646,
+          "correlation": 0.975
+        },
+        {
+          "seconds": 2059.744,
+          "correlation": 0.98918
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-021",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/cef68aa80f8c48abb91931337d6cc0ac_850_h264_818_aac_128.mp3",
+      "sourceBytes": 5613696,
+      "sourceSha256": "c087bcc99861802d657250729c03403372f2ace6aa7a00fb9289eb927d5c66bd",
+      "mobileBytes": 1448077,
+      "mobileSha256": "bc03cd1d8b106b062aa05aab46ca9e5e1460c0f81a78eee55880769bde654cd6",
+      "sourceDuration": 350.856,
+      "sourceContainerDuration": 350.856,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 350.856,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9938
+        },
+        {
+          "seconds": 87.714,
+          "correlation": 0.99484
+        },
+        {
+          "seconds": 210.514,
+          "correlation": 0.95645
+        },
+        {
+          "seconds": 342.856,
+          "correlation": 0.98551
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-022",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/9c9c9002d9a74d568f7f4f66405bb3f4_850_h264_818_aac_128.mp3",
+      "sourceBytes": 5577216,
+      "sourceSha256": "a6f6ac5e698f212a15bab8a5cb00d53bb036d1729fbdbec2d97f64a9b3221318",
+      "mobileBytes": 1439859,
+      "mobileSha256": "7cf5143d543e9169414d18bac24ad85702187a7785f3d6700743d322f4a24ff9",
+      "sourceDuration": 348.576,
+      "sourceContainerDuration": 348.576,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 348.576,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98992
+        },
+        {
+          "seconds": 87.144,
+          "correlation": 0.99307
+        },
+        {
+          "seconds": 209.146,
+          "correlation": 0.98573
+        },
+        {
+          "seconds": 340.576,
+          "correlation": 0.98098
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-023",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/5250b872d78945e2b279c7d5bd7adb6c_850_h264_818_aac_128.mp3",
+      "sourceBytes": 75799296,
+      "sourceSha256": "a9c6a058c78b4f9eadd50a01e88dfeedd271c0b8780444537cccc102526d41ab",
+      "mobileBytes": 19540828,
+      "mobileSha256": "06befb4f00686e5d780f8158c8520879bfa442409ac323a80a9299a19365a2d1",
+      "sourceDuration": 4737.456,
+      "sourceContainerDuration": 4737.456,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 4737.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98099
+        },
+        {
+          "seconds": 1184.364,
+          "correlation": 0.99214
+        },
+        {
+          "seconds": 2842.474,
+          "correlation": 0.99048
+        },
+        {
+          "seconds": 4729.456,
+          "correlation": 0.99328
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-024",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/f038f169b3a2402082e4db54ce2c4dd2_850_h264_818_aac_128.mp3",
+      "sourceBytes": 3370368,
+      "sourceSha256": "3159317922e67de5c268ba0bc630a1196730eade3acd926ee8a59661e443ebba",
+      "mobileBytes": 871141,
+      "mobileSha256": "7526ada859eeed385667a93d2bbaeca90dabf9150b95717456d91a7cda915b9e",
+      "sourceDuration": 210.648,
+      "sourceContainerDuration": 210.648,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 210.648,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99344
+        },
+        {
+          "seconds": 52.662,
+          "correlation": 0.98488
+        },
+        {
+          "seconds": 126.389,
+          "correlation": 0.98509
+        },
+        {
+          "seconds": 202.648,
+          "correlation": 0.98294
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-025",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/1270609f520940ddbd37e63fc59c077f_850_h264_818_aac_128.mp3",
+      "sourceBytes": 4425984,
+      "sourceSha256": "971117d0ddf89b135a53212d8285b170f5a472d2a08dbf8395038a3679017242",
+      "mobileBytes": 1142775,
+      "mobileSha256": "22b62399b77fe58973db34a479ff98e8665a68a31e70057c249d9a14c25f24d2",
+      "sourceDuration": 276.624,
+      "sourceContainerDuration": 276.624,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 276.624,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99047
+        },
+        {
+          "seconds": 69.156,
+          "correlation": 0.98853
+        },
+        {
+          "seconds": 165.974,
+          "correlation": 0.98951
+        },
+        {
+          "seconds": 268.624,
+          "correlation": 0.98956
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-026",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/20/3ab4e04b0ce24e77b343c2d7ebcc006b_128_mp3_128.mp3",
+      "sourceBytes": 121870848,
+      "sourceSha256": "76c0c27b348c1c29a90f2975ed10eb819065414aba49c60478e71b9576a1db7a",
+      "mobileBytes": 31414886,
+      "mobileSha256": "d99740155eecc8eb5dae039568cef16add1a3ebe41327254c5479e9007472366",
+      "sourceDuration": 7616.928,
+      "sourceContainerDuration": 7616.928,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 7616.928,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99228
+        },
+        {
+          "seconds": 1904.232,
+          "correlation": 0.98926
+        },
+        {
+          "seconds": 4570.157,
+          "correlation": 0.98839
+        },
+        {
+          "seconds": 7608.928,
+          "correlation": 0.98906
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-027",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/f063c8d4ef4b445c91a8c180415f377a_850_h264_818_aac_128.mp3",
+      "sourceBytes": 6774144,
+      "sourceSha256": "7915f56b783900eaa14990273e437c9c5a7675733c0d65669e8f9f04172d5683",
+      "mobileBytes": 1747221,
+      "mobileSha256": "8796433be8948127b347f057c72a6cbedb0faa15f6d9a4064eac39d6472b89f5",
+      "sourceDuration": 423.384,
+      "sourceContainerDuration": 423.384,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 423.384,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99685
+        },
+        {
+          "seconds": 105.846,
+          "correlation": 0.99375
+        },
+        {
+          "seconds": 254.03,
+          "correlation": 0.99018
+        },
+        {
+          "seconds": 415.384,
+          "correlation": 0.99291
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-028",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/2cfffe7f7f9d4e7aba662174f841c3a8_850_h264_818_aac_128.mp3",
+      "sourceBytes": 11836416,
+      "sourceSha256": "f8c747cedfba2eec704a5ae1acab7af9c2d78a199a406a3ddb13f828c65a3a24",
+      "mobileBytes": 3052515,
+      "mobileSha256": "25d8d77683698f6ae31a8aa26be78c31587f150b273c4caa07fd4bebaf0770ea",
+      "sourceDuration": 739.776,
+      "sourceContainerDuration": 739.776,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 739.776,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98633
+        },
+        {
+          "seconds": 184.944,
+          "correlation": 0.98068
+        },
+        {
+          "seconds": 443.866,
+          "correlation": 0.98952
+        },
+        {
+          "seconds": 731.776,
+          "correlation": 0.98495
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-029",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/badc5e6377df4b13b977bc4a1cb38dc7_850_h264_818_aac_128.mp3",
+      "sourceBytes": 13460736,
+      "sourceSha256": "62db374a3dd9ab3c3f4e928b9fe76eef7141104b82143252baf3e69fb77dd3e7",
+      "mobileBytes": 3471756,
+      "mobileSha256": "bfc7171f179a6e0aa1e843c1f193c9538836b0db6c4bcf13c1db85b0a2cd518e",
+      "sourceDuration": 841.296,
+      "sourceContainerDuration": 841.296,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 841.296,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98576
+        },
+        {
+          "seconds": 210.324,
+          "correlation": 0.9838
+        },
+        {
+          "seconds": 504.778,
+          "correlation": 0.99012
+        },
+        {
+          "seconds": 833.296,
+          "correlation": 0.97932
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-030",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/b392f055413741f8abe009c0d4d80ba6_850_h264_818_aac_128.mp3",
+      "sourceBytes": 3471744,
+      "sourceSha256": "351155e9eda77dd8e8f8509538018bc2214c2eee5475b2a3f13c8aace5642628",
+      "mobileBytes": 897024,
+      "mobileSha256": "f7232374999d9602fc7782018f9c931b25dd833e6d620844bebe86fffe9531e0",
+      "sourceDuration": 216.984,
+      "sourceContainerDuration": 216.984,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 216.984,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99383
+        },
+        {
+          "seconds": 54.246,
+          "correlation": 0.98839
+        },
+        {
+          "seconds": 130.19,
+          "correlation": 0.99186
+        },
+        {
+          "seconds": 208.984,
+          "correlation": 0.98034
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-031",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/a7fd59403b8842a696a1264393cf7c41_850_h264_818_aac_128.mp3",
+      "sourceBytes": 2665728,
+      "sourceSha256": "99ac9f49beb922161ad4b80d69e6a48705cc08e8018b9b979fda846cfa564101",
+      "mobileBytes": 688224,
+      "mobileSha256": "7088d68da6a907f6a15bb3c2e4438b4defcc2895f41f56010fcd7d96c64d1e09",
+      "sourceDuration": 166.608,
+      "sourceContainerDuration": 166.608,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 166.608,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 20.826,
+          "correlation": 0.99446
+        },
+        {
+          "seconds": 41.652,
+          "correlation": 0.9926
+        },
+        {
+          "seconds": 99.965,
+          "correlation": 0.968
+        },
+        {
+          "seconds": 158.608,
+          "correlation": 0.98001
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-032",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/f2431e6d27094818933ee9347c9f7e11_850_h264_818_aac_128.mp3",
+      "sourceBytes": 22763904,
+      "sourceSha256": "6d8ab5e5a8bfe8082e5db8fd3aeb9439982a3139a1ce8852aed8b4f7d4e4492c",
+      "mobileBytes": 5869523,
+      "mobileSha256": "46e6cbf0454a2937d6cbdf12a466a968132c5320bc70551c7c0de441942834c3",
+      "sourceDuration": 1422.744,
+      "mobileDuration": 1422.744,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99545
+        },
+        {
+          "seconds": 355.686,
+          "correlation": 0.99488
+        },
+        {
+          "seconds": 853.646,
+          "correlation": 0.96754
+        },
+        {
+          "seconds": 1414.744,
+          "correlation": 0.989
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-033",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/9752b7be50b94d1abd9c738ef513b166_850_h264_818_aac_128.mp3",
+      "sourceBytes": 7005696,
+      "sourceSha256": "1882d4448f63c13cb7621a17aec4c0cdfa0280ba321752bdc645a1c25eb85ce4",
+      "mobileBytes": 1806995,
+      "mobileSha256": "1b98acc489124fd0d8d537c59b49e77bd9d9930e29a0a473f1a45175372cf79c",
+      "sourceDuration": 437.856,
+      "sourceContainerDuration": 437.856,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 437.856,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98566
+        },
+        {
+          "seconds": 109.464,
+          "correlation": 0.98605
+        },
+        {
+          "seconds": 262.714,
+          "correlation": 0.9773
+        },
+        {
+          "seconds": 429.856,
+          "correlation": 0.99215
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-034",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/e1a1de4756d64e10bd89d921d6160263_850_h264_818_aac_128.mp3",
+      "sourceBytes": 23505408,
+      "sourceSha256": "3f631a5d07b2257c33e9a756ad846cc1c0dece7f0e32a6318b3c24e3431677a0",
+      "mobileBytes": 6060155,
+      "mobileSha256": "77bd58afd9c7d93a022c7fdc56d590c42cb1a7076fe892bac39145cef215ce90",
+      "sourceDuration": 1469.088,
+      "sourceContainerDuration": 1469.088,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 1469.088,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99399
+        },
+        {
+          "seconds": 367.272,
+          "correlation": 0.96728
+        },
+        {
+          "seconds": 881.453,
+          "correlation": 0.99306
+        },
+        {
+          "seconds": 1461.088,
+          "correlation": 0.99291
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-035",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/18/a4c0907d1ace40998952712e9f46a1b3_128_mp3_128.mp3",
+      "sourceBytes": 11607936,
+      "sourceSha256": "d5734bbaac0534b8590b33cf46729d2924956ba19899757180a74121654b2b9f",
+      "mobileBytes": 2993983,
+      "mobileSha256": "1cab5e7b3101ab095273de0188dc47ff22c13faba9d0c18995c009c9ff09aa52",
+      "sourceDuration": 725.496,
+      "sourceContainerDuration": 725.496,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 725.496,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99324
+        },
+        {
+          "seconds": 181.374,
+          "correlation": 0.99453
+        },
+        {
+          "seconds": 435.298,
+          "correlation": 0.98468
+        },
+        {
+          "seconds": 717.496,
+          "correlation": 0.99015
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-036",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/20/bb0265fb57ef440dbeef41194d169d1d_128_mp3_128.mp3",
+      "sourceBytes": 7230336,
+      "sourceSha256": "038f6601324f8dde28e94ff6b37a0bb4ee3364d14ad4d0fce922bf3099919480",
+      "mobileBytes": 1864936,
+      "mobileSha256": "67da08df60c99f4643ec60b23aeaa251b656c86d262e87a5f73b43b40ac46521",
+      "sourceDuration": 451.896,
+      "sourceContainerDuration": 451.896,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 451.896,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98925
+        },
+        {
+          "seconds": 112.974,
+          "correlation": 0.9901
+        },
+        {
+          "seconds": 271.138,
+          "correlation": 0.98653
+        },
+        {
+          "seconds": 443.896,
+          "correlation": 0.98967
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-037",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/766c20fc7ef0466a9a7c3975815c05c5_850_h264_818_aac_128.mp3",
+      "sourceBytes": 20864256,
+      "sourceSha256": "41fc13c1a9bb9de224aba0cba1389397fb79080c4081237bb0aea910bc8ba361",
+      "mobileBytes": 5379372,
+      "mobileSha256": "6adf2b910b01121d795beb41273729f0bf2a540668a55b517b03cd90d2ad9a43",
+      "sourceDuration": 1304.016,
+      "mobileDuration": 1304.016,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99136
+        },
+        {
+          "seconds": 326.004,
+          "correlation": 0.99059
+        },
+        {
+          "seconds": 782.41,
+          "correlation": 0.98419
+        },
+        {
+          "seconds": 1296.016,
+          "correlation": 0.99431
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-038",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/14/7adcd22a77dd4052a8c14c4cc8f52d7a_850_h264_818_aac_128.mp3",
+      "sourceBytes": 14876544,
+      "sourceSha256": "bb22ada2d2c5b82ac4f99a87fc368de9a3eff133698bd114a154a614fe14c105",
+      "mobileBytes": 3835566,
+      "mobileSha256": "1acdef0496f2444946a78510e4c5d751ce6ebf124d4a388f8b4d7cc27a94c2eb",
+      "sourceDuration": 929.784,
+      "sourceContainerDuration": 929.784,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 929.784,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99235
+        },
+        {
+          "seconds": 232.446,
+          "correlation": 0.99301
+        },
+        {
+          "seconds": 557.87,
+          "correlation": 0.99291
+        },
+        {
+          "seconds": 921.784,
+          "correlation": 0.9771
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-039",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/18/7f3bab0489244087ab55b1a55982cc0c_128_mp3_128.mp3",
+      "sourceBytes": 4422144,
+      "sourceSha256": "132e996cc6178ad50a668a24d2601af3decc5365dde8b1161f3633dc15db5154",
+      "mobileBytes": 1141635,
+      "mobileSha256": "3e2ffe42ccf5e1c5d3cf83f74186a3ec6da3ae7a1e7b612f613231e1f7273ab8",
+      "sourceDuration": 276.384,
+      "sourceContainerDuration": 276.384,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 276.384,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98609
+        },
+        {
+          "seconds": 69.096,
+          "correlation": 0.99373
+        },
+        {
+          "seconds": 165.83,
+          "correlation": 0.98122
+        },
+        {
+          "seconds": 268.384,
+          "correlation": 0.99627
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v2-040",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/20/d07a0c588a3e487ab00f5dabc3aee0d7_128_mp3_128.mp3",
+      "sourceBytes": 12211584,
+      "sourceSha256": "f8d3c72c6ee222cfd632aa09759f7b71df4a73eda1d7ad1f2ee9739257b42d9f",
+      "mobileBytes": 3149020,
+      "mobileSha256": "722ef1edc74c5b246eb6e0830974fb5faa892650250ccc67a86a3ed79bd753db",
+      "sourceDuration": 763.224,
+      "sourceContainerDuration": 763.224,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 763.224,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99605
+        },
+        {
+          "seconds": 190.806,
+          "correlation": 0.99211
+        },
+        {
+          "seconds": 457.934,
+          "correlation": 0.9883
+        },
+        {
+          "seconds": 755.224,
+          "correlation": 0.98728
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-001",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/cb713084f10b4393b41d9fab566ffa84_128_mp3_128.mp3",
+      "sourceBytes": 12695424,
+      "sourceSha256": "5ca21bf220a02e2f2b7294bb597822aaab820aba0b6a92a73f838428c2366675",
+      "mobileBytes": 3274266,
+      "mobileSha256": "d5ced06f39e9115f8b9240a3129fe23dcfe465325ad42a406656e925c28e762d",
+      "sourceDuration": 793.464,
+      "sourceContainerDuration": 793.464,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 793.464,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97662
+        },
+        {
+          "seconds": 198.366,
+          "correlation": 0.97771
+        },
+        {
+          "seconds": 476.078,
+          "correlation": 0.94968
+        },
+        {
+          "seconds": 785.464,
+          "correlation": 0.96561
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-002",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/5e600f9997b64ab4bdb69790af74cfc0_128_mp3_128.mp3",
+      "sourceBytes": 19171584,
+      "sourceSha256": "ddca7524b9d5b2a53136a866bc9c92d81f593a9dce952139a9eacf2eb121f345",
+      "mobileBytes": 4942948,
+      "mobileSha256": "b474bb734d230372788d706875c6b7ff30c9f685b45b00678a0ee2ceda5b842e",
+      "sourceDuration": 1198.224,
+      "mobileDuration": 1198.224,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98671
+        },
+        {
+          "seconds": 299.556,
+          "correlation": 0.98499
+        },
+        {
+          "seconds": 718.934,
+          "correlation": 0.93429
+        },
+        {
+          "seconds": 1190.224,
+          "correlation": 0.9666
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-003",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/4a67fd74b3114c9eb8394fd36136fbc5_128_mp3_128.mp3",
+      "sourceBytes": 2174976,
+      "sourceSha256": "02d43f5d7eca1e4315481d4032a7160394fb8323533367ae84cd83b637e4d553",
+      "mobileBytes": 562445,
+      "mobileSha256": "4fe032f75a42d7193cdd0f4df100ceaa10259593853ff354483d0a27e7c93ae3",
+      "sourceDuration": 135.936,
+      "sourceContainerDuration": 135.936,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 135.936,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 16.992,
+          "correlation": 0.98799
+        },
+        {
+          "seconds": 33.984,
+          "correlation": 0.96398
+        },
+        {
+          "seconds": 81.562,
+          "correlation": 0.95102
+        },
+        {
+          "seconds": 127.936,
+          "correlation": 0.97748
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-004",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/061e1141587247e5933edd94fcd3420d_128_mp3_128.mp3",
+      "sourceBytes": 1707264,
+      "sourceSha256": "e3fe0fa66526e07a487fcb3a1a7f67c1313f60da2cdf54a7bf9d9e1f17bdade8",
+      "mobileBytes": 441155,
+      "mobileSha256": "aa894211075cfaad510e208016e3d2b872d0eba8bd2e72717ee6e1c411584554",
+      "sourceDuration": 106.704,
+      "sourceContainerDuration": 106.704,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 106.704,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 13.338,
+          "correlation": 0.99245
+        },
+        {
+          "seconds": 26.676,
+          "correlation": 0.97978
+        },
+        {
+          "seconds": 64.022,
+          "correlation": 0.94683
+        },
+        {
+          "seconds": 98.704,
+          "correlation": 0.98251
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-005",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/40d8dc02cdf6445d87da62c3b5532b17_128_mp3_128.mp3",
+      "sourceBytes": 9289344,
+      "sourceSha256": "297934db1f5f076b3adeccd74ff6106439ad70d7d147e57926924d775f6c6988",
+      "mobileBytes": 2394993,
+      "mobileSha256": "97da36e68042fab3d110cc9557a08d1dddb74706f8ba0c4ef33e164a2d2d412d",
+      "sourceDuration": 580.584,
+      "sourceContainerDuration": 580.584,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 580.584,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97412
+        },
+        {
+          "seconds": 145.146,
+          "correlation": 0.98028
+        },
+        {
+          "seconds": 348.35,
+          "correlation": 0.96264
+        },
+        {
+          "seconds": 572.584,
+          "correlation": 0.97521
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-006",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/40193189a81040038a77166e37ca5f83_128_mp3_128.mp3",
+      "sourceBytes": 44658816,
+      "sourceSha256": "53c42dae94edca1f736ea0d2aaf9fa49c84dc9b6bec7770d65a92cbbb2481085",
+      "mobileBytes": 11512709,
+      "mobileSha256": "9a5e9df3b880d8432210cab490ee793f8ff1b6c05c26a2d3cf382b2fc139aeb8",
+      "sourceDuration": 2791.176,
+      "sourceContainerDuration": 2791.176,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2791.176,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97386
+        },
+        {
+          "seconds": 697.794,
+          "correlation": 0.98005
+        },
+        {
+          "seconds": 1674.706,
+          "correlation": 0.96607
+        },
+        {
+          "seconds": 2783.176,
+          "correlation": 0.96399
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-007",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/bbb15ad0a368479a92460698fec82525_128_mp3_128.mp3",
+      "sourceBytes": 41647104,
+      "sourceSha256": "d26027520a3c42af36fe671343617363da5463b9757f5ceae90a6f31daa7ad43",
+      "mobileBytes": 10736350,
+      "mobileSha256": "fc3efc436020e4a3daa1e5ef94167888dff8b3a7c46031a8ffaad8ce785757ae",
+      "sourceDuration": 2602.944,
+      "sourceContainerDuration": 2602.944,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2602.944,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9748
+        },
+        {
+          "seconds": 650.736,
+          "correlation": 0.97957
+        },
+        {
+          "seconds": 1561.766,
+          "correlation": 0.97725
+        },
+        {
+          "seconds": 2594.944,
+          "correlation": 0.97961
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-008",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/2a934ce535af4441ad0549810693faba_128_mp3_128.mp3",
+      "sourceBytes": 99218304,
+      "sourceSha256": "60af525851b015bb2eaf052b63928b5fca6235e071615d93f9da4b25db792337",
+      "mobileBytes": 25575232,
+      "mobileSha256": "7ac98a915ad900dc93689f10bccfdab147512d314e2e3cd933631e9ce8dc50a8",
+      "sourceDuration": 6201.144,
+      "sourceContainerDuration": 6201.144,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 6201.144,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97748
+        },
+        {
+          "seconds": 1550.286,
+          "correlation": 0.9856
+        },
+        {
+          "seconds": 3720.686,
+          "correlation": 0.98523
+        },
+        {
+          "seconds": 6193.144,
+          "correlation": 0.97874
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-009",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/4a8328dd5def423e924ac241a4b4fa02_128_mp3_128.mp3",
+      "sourceBytes": 8078976,
+      "sourceSha256": "aca342c171d5d8b9f3622e7d9128c2faeebcbcad489aab9f97296d43fd0d5b05",
+      "mobileBytes": 2103180,
+      "mobileSha256": "70fd5815350dd9ae1b903dae9fddc414585d749d2173f16311c661ea927be304",
+      "sourceDuration": 504.936,
+      "sourceContainerDuration": 504.936,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 504.936,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99562
+        },
+        {
+          "seconds": 126.234,
+          "correlation": 0.99894
+        },
+        {
+          "seconds": 302.962,
+          "correlation": 0.97659
+        },
+        {
+          "seconds": 496.936,
+          "correlation": 0.97734
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-010",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/61c8102299914a96ae344196a7a8bb92_128_mp3_128.mp3",
+      "sourceBytes": 12888576,
+      "sourceSha256": "6ef1020889703182dfdb60cc553c3e7f1328cf6b7262ef6cac6bae77b4706256",
+      "mobileBytes": 3323434,
+      "mobileSha256": "8538037f3ec24ae92dd6803545651b0d2146ee20567cde99c094226ead2c3c0c",
+      "sourceDuration": 805.536,
+      "sourceContainerDuration": 805.536,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 805.536,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9722
+        },
+        {
+          "seconds": 201.384,
+          "correlation": 0.966
+        },
+        {
+          "seconds": 483.322,
+          "correlation": 0.96434
+        },
+        {
+          "seconds": 797.536,
+          "correlation": 0.96841
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-011",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/29e9eece3ec346e89bb77b44c69afb4f_128_mp3_128.mp3",
+      "sourceBytes": 1737984,
+      "sourceSha256": "12746d6df4e27d48dd2b553ca9d509799add34e648cf86770862e043759a7e94",
+      "mobileBytes": 449734,
+      "mobileSha256": "f3b7ede34566ebf915d8ce0f4b01cbd6d1a969da4a8289fb0a9e19e2055d7125",
+      "sourceDuration": 108.624,
+      "sourceContainerDuration": 108.624,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 108.624,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 13.578,
+          "correlation": 0.97893
+        },
+        {
+          "seconds": 27.156,
+          "correlation": 0.97238
+        },
+        {
+          "seconds": 65.174,
+          "correlation": 0.97136
+        },
+        {
+          "seconds": 100.624,
+          "correlation": 0.98162
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-012",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/a3f5da8de1944fd7931a95f9f9417fd8_128_mp3_128.mp3",
+      "sourceBytes": 12158208,
+      "sourceSha256": "8a105847a069369f1bf1ef9189877eb2ebbe19accc319515563c31664615092b",
+      "mobileBytes": 3134921,
+      "mobileSha256": "b1fe52ecfcff1b6bbacbbd4517e2944a6220b0aea2b0d7e9e3f026b38ecde191",
+      "sourceDuration": 759.888,
+      "sourceContainerDuration": 759.888,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 759.888,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98794
+        },
+        {
+          "seconds": 189.972,
+          "correlation": 0.96746
+        },
+        {
+          "seconds": 455.933,
+          "correlation": 0.98165
+        },
+        {
+          "seconds": 751.888,
+          "correlation": 0.97386
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-013",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/027aaf40e3a14482b2e7a6ece85217cc_128_mp3_128.mp3",
+      "sourceBytes": 14385024,
+      "sourceSha256": "d9367fc63118b7c684975655c4d5b3896fd9ee5ae2d89333c369cbc7877e9516",
+      "mobileBytes": 3708872,
+      "mobileSha256": "8aedc73236ff468cfad5a6e2d2dab44cc2d3262f8ac7c96cbfccc29035ab2054",
+      "sourceDuration": 899.064,
+      "mobileDuration": 899.064,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98472
+        },
+        {
+          "seconds": 224.766,
+          "correlation": 0.98318
+        },
+        {
+          "seconds": 539.438,
+          "correlation": 0.96861
+        },
+        {
+          "seconds": 891.064,
+          "correlation": 0.98071
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-014",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/0e226854482b41f889b0e2bc923c4d23_128_mp3_128.mp3",
+      "sourceBytes": 17215488,
+      "sourceSha256": "77f0b10ae5745a0a5761b346d82893679e1d51cfd80addfd2fe31360f01ba428",
+      "mobileBytes": 4438122,
+      "mobileSha256": "d2593587a32606242f2490fd2d388204e0c9804aa3251190b65dfdc7e7e4933a",
+      "sourceDuration": 1075.968,
+      "sourceContainerDuration": 1075.968,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 1075.968,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97271
+        },
+        {
+          "seconds": 268.992,
+          "correlation": 0.98155
+        },
+        {
+          "seconds": 645.581,
+          "correlation": 0.98195
+        },
+        {
+          "seconds": 1067.968,
+          "correlation": 0.98251
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-015",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/7391d509c54a4af496fdac06720bfe29_128_mp3_128.mp3",
+      "sourceBytes": 9643776,
+      "sourceSha256": "1f3c7f4290a964339f72c1e09ba42ce8ffe0939e69ce1c63e0c2ee4e07375dd9",
+      "mobileBytes": 2487503,
+      "mobileSha256": "47f157d887bdcecb851d7ffeda81e730c067c334462579cf9cfa0f0977daada6",
+      "sourceDuration": 602.736,
+      "sourceContainerDuration": 602.736,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 602.736,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98332
+        },
+        {
+          "seconds": 150.684,
+          "correlation": 0.96651
+        },
+        {
+          "seconds": 361.642,
+          "correlation": 0.97087
+        },
+        {
+          "seconds": 594.736,
+          "correlation": 0.9876
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-016",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/ed1a69da08014120b9e769148625925f_128_mp3_128.mp3",
+      "sourceBytes": 34794624,
+      "sourceSha256": "abe742db2a82d1644420fd343f667453aa147c5caed0a036ac2745a05fcbfdb8",
+      "mobileBytes": 8970450,
+      "mobileSha256": "90ec5710935b686b8c65d03fa793fa4416b0e3ff547762736302a0f4b6c7b2e5",
+      "sourceDuration": 2174.664,
+      "sourceContainerDuration": 2174.664,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2174.664,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97924
+        },
+        {
+          "seconds": 543.666,
+          "correlation": 0.98165
+        },
+        {
+          "seconds": 1304.798,
+          "correlation": 0.96734
+        },
+        {
+          "seconds": 2166.664,
+          "correlation": 0.96599
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-017",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/a7779c587cde4ee793f76e810c2f169c_128_mp3_128.mp3",
+      "sourceBytes": 20168064,
+      "sourceSha256": "8e5cdc97bc4c9e7f52f9bca1aea1cc4af0401e5db8238916b7aaeb5e82e82d36",
+      "mobileBytes": 5199516,
+      "mobileSha256": "0961a6c26915c39eb573e2aebc462bc19a87a90d75231ad117c1e28bf30c4c1b",
+      "sourceDuration": 1260.504,
+      "mobileDuration": 1260.504,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9745
+        },
+        {
+          "seconds": 315.126,
+          "correlation": 0.98989
+        },
+        {
+          "seconds": 756.302,
+          "correlation": 0.96387
+        },
+        {
+          "seconds": 1252.504,
+          "correlation": 0.9733
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-018",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/ec4006914dc841cf9342bf01c2790f6a_128_mp3_128.mp3",
+      "sourceBytes": 29274624,
+      "sourceSha256": "705e6ba71ae9514ac2eab1605f96a056ba9671e4e33cc951129052db8c29fc63",
+      "mobileBytes": 7546421,
+      "mobileSha256": "2a42d7d3c30e1b21d5e6c7a6a8f096e28d5cf0cdece2a0f4dda509266ef371d7",
+      "sourceDuration": 1829.664,
+      "mobileDuration": 1829.664,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98185
+        },
+        {
+          "seconds": 457.416,
+          "correlation": 0.95949
+        },
+        {
+          "seconds": 1097.798,
+          "correlation": 0.96553
+        },
+        {
+          "seconds": 1821.664,
+          "correlation": 0.96886
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-019",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/3c61bd01a8f340b5b9f46bc580414d4a_128_mp3_128.mp3",
+      "sourceBytes": 114887424,
+      "sourceSha256": "06794649d16e3f7cee75c166c8509d3cd2a5db9eb171d743d2436e17d5de39b7",
+      "mobileBytes": 29612486,
+      "mobileSha256": "386075271d5e5bd9fe829f1851e42e03f730b3478e16af3f0bcd0f007748aa4a",
+      "sourceDuration": 7180.464,
+      "sourceContainerDuration": 7180.464,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 7180.464,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97806
+        },
+        {
+          "seconds": 1795.116,
+          "correlation": 0.9884
+        },
+        {
+          "seconds": 4308.278,
+          "correlation": 0.97311
+        },
+        {
+          "seconds": 7172.464,
+          "correlation": 0.96599
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-020",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/9b179e241ad44c4693f390b4239951f1_128_mp3_128.mp3",
+      "sourceBytes": 4510464,
+      "sourceSha256": "1a1d703acc0e75f1d864bcac54d94856af80518b0918deea986ce762818387d9",
+      "mobileBytes": 1164248,
+      "mobileSha256": "ec0a8973406a7c7289f0413c52e1b8413fed82614d4fcb6d743072ad19d82d5d",
+      "sourceDuration": 281.904,
+      "sourceContainerDuration": 281.904,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 281.904,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98071
+        },
+        {
+          "seconds": 70.476,
+          "correlation": 0.98841
+        },
+        {
+          "seconds": 169.142,
+          "correlation": 0.96196
+        },
+        {
+          "seconds": 273.904,
+          "correlation": 0.99028
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-021",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/b8686b6c4e33447eae25e15cd7091640_128_mp3_128.mp3",
+      "sourceBytes": 9038976,
+      "sourceSha256": "284bd8c50f40dd4f8877f686a61847e2b8e8d65a18860a801b860996f3bc7762",
+      "mobileBytes": 2330445,
+      "mobileSha256": "c27ea593778deadf0e80d70083d786a4ce1c0aac5e5f101788ea024b71892d94",
+      "sourceDuration": 564.936,
+      "sourceContainerDuration": 564.936,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 564.936,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97989
+        },
+        {
+          "seconds": 141.234,
+          "correlation": 0.99108
+        },
+        {
+          "seconds": 338.962,
+          "correlation": 0.9582
+        },
+        {
+          "seconds": 556.936,
+          "correlation": 0.96249
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-022",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/7004e368aa8042d48ed76e990afadf74_128_mp3_128.mp3",
+      "sourceBytes": 5030784,
+      "sourceSha256": "083221534788eb512fecc79c7b955db0dedd91d6dc725e1855e80d439b649da5",
+      "mobileBytes": 1297780,
+      "mobileSha256": "697e023594e830671f06c4008482426c3f57dd5c6abe12d607734dccf2c82eab",
+      "sourceDuration": 314.424,
+      "sourceContainerDuration": 314.424,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 314.424,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9887
+        },
+        {
+          "seconds": 78.606,
+          "correlation": 0.98466
+        },
+        {
+          "seconds": 188.654,
+          "correlation": 0.96112
+        },
+        {
+          "seconds": 306.424,
+          "correlation": 0.98705
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-023",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/280c5d53fdc744f388da21cf34aba0ad_128_mp3_128.mp3",
+      "sourceBytes": 16238208,
+      "sourceSha256": "e81f0e4ad946a0cd1d1e08c99210c5cecb7fcb74e77a47bf8d07895aede6daf9",
+      "mobileBytes": 4186780,
+      "mobileSha256": "31b1b528b52accd1851a87dcaf22ecb94caac80924d32f66a9e1fe65f7ddd627",
+      "sourceDuration": 1014.888,
+      "sourceContainerDuration": 1014.888,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 1014.888,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98405
+        },
+        {
+          "seconds": 253.722,
+          "correlation": 0.98935
+        },
+        {
+          "seconds": 608.933,
+          "correlation": 0.98348
+        },
+        {
+          "seconds": 1006.888,
+          "correlation": 0.9752
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-024",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/6bf70d7447b548f5ae98890c14c2ac62_128_mp3_128.mp3",
+      "sourceBytes": 7607808,
+      "sourceSha256": "7bb6e782ce1a2df78c91ca08c203d6e29f776f8efea4da3281412c088a5e14e9",
+      "mobileBytes": 1962309,
+      "mobileSha256": "c5dbdb73786cc56bee3b2139071040c556d9fe921a542d77635d74c1f9fb80e3",
+      "sourceDuration": 475.488,
+      "sourceContainerDuration": 475.488,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 475.488,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98277
+        },
+        {
+          "seconds": 118.872,
+          "correlation": 0.98203
+        },
+        {
+          "seconds": 285.293,
+          "correlation": 0.97893
+        },
+        {
+          "seconds": 467.488,
+          "correlation": 0.97308
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-025",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/779997cf6b4341deb2194cd6170f12c7_128_mp3_128.mp3",
+      "sourceBytes": 7048704,
+      "sourceSha256": "d0decbbb2905324b6fdaf77f326a13774443c87a7427f7dba313580bc9dfd2f6",
+      "mobileBytes": 1818124,
+      "mobileSha256": "b9b34d30f34b20aed8f8f447e5d3615c5ddad06939150e8f4f44479e374f1e87",
+      "sourceDuration": 440.544,
+      "sourceContainerDuration": 440.544,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 440.544,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98315
+        },
+        {
+          "seconds": 110.136,
+          "correlation": 0.97968
+        },
+        {
+          "seconds": 264.326,
+          "correlation": 0.96873
+        },
+        {
+          "seconds": 432.544,
+          "correlation": 0.98142
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-026",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/de437127bbb64e469fd963d932678535_128_mp3_128.mp3",
+      "sourceBytes": 173731584,
+      "sourceSha256": "ed97d489d2f98c72e4dc8a9f2b6f69c8f655daae977423edddc80b93aed3bcfc",
+      "mobileBytes": 44778040,
+      "mobileSha256": "12f225d22c51712ac94d47316fcbff045c1bd72705c653a4282d6185fad0fab8",
+      "sourceDuration": 10858.224,
+      "sourceContainerDuration": 10858.224,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 10858.224,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97225
+        },
+        {
+          "seconds": 2714.556,
+          "correlation": 0.97569
+        },
+        {
+          "seconds": 6514.934,
+          "correlation": 0.96679
+        },
+        {
+          "seconds": 10850.224,
+          "correlation": 0.97399
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-027",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/7a39579b894641259f38f68c0e9f68f9_128_mp3_128.mp3",
+      "sourceBytes": 8698368,
+      "sourceSha256": "5c5e32795a53c8ea2256d27d29c15fa5dcef78e110091359001568d141bd16b9",
+      "mobileBytes": 2243623,
+      "mobileSha256": "32c1b6143ae804e02d8a06ba66c49ed55ee0b38dfdab63dca308391e49c33301",
+      "sourceDuration": 543.648,
+      "sourceContainerDuration": 543.648,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 543.648,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98978
+        },
+        {
+          "seconds": 135.912,
+          "correlation": 0.97684
+        },
+        {
+          "seconds": 326.189,
+          "correlation": 0.9768
+        },
+        {
+          "seconds": 535.648,
+          "correlation": 0.97693
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-028",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/4f394e302d5942609f4f21e1959b326b_128_mp3_128.mp3",
+      "sourceBytes": 10763136,
+      "sourceSha256": "df54544feec81a07fcb6fac29f4d91d7a870b8fd14b46de023cd7aad5ba6f338",
+      "mobileBytes": 2775855,
+      "mobileSha256": "f3c17f0224b0199ed2c09196d1abde51f137169a4207efd6a99b82d5a21c280f",
+      "sourceDuration": 672.696,
+      "sourceContainerDuration": 672.696,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 672.696,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97833
+        },
+        {
+          "seconds": 168.174,
+          "correlation": 0.97354
+        },
+        {
+          "seconds": 403.618,
+          "correlation": 0.97047
+        },
+        {
+          "seconds": 664.696,
+          "correlation": 0.97851
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-029",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/5633aa030efe46499054100d3f9cc143_128_mp3_128.mp3",
+      "sourceBytes": 8322816,
+      "sourceSha256": "a5bb37d56785d467494e1ac67fb8abd8dbbc343f0ae65a8cf8d274c1f7a0ad5e",
+      "mobileBytes": 2146511,
+      "mobileSha256": "89d22262b818ed6ce3433af993399b0733f977f658831d048f2c3fea38de4b04",
+      "sourceDuration": 520.176,
+      "sourceContainerDuration": 520.176,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 520.176,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98285
+        },
+        {
+          "seconds": 130.044,
+          "correlation": 0.96094
+        },
+        {
+          "seconds": 312.106,
+          "correlation": 0.95968
+        },
+        {
+          "seconds": 512.176,
+          "correlation": 0.95235
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-030",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/20c4b602038f464792cdecbee96683af_128_mp3_128.mp3",
+      "sourceBytes": 4298496,
+      "sourceSha256": "f5892db20668ab3d79816110b1db00b584d48ad7be8d45bbc183fe52282375ef",
+      "mobileBytes": 1109690,
+      "mobileSha256": "ae396485118ded8cbee12c824ec24e571b0a8124b0a0dda13b120090427b1c7c",
+      "sourceDuration": 268.656,
+      "sourceContainerDuration": 268.656,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 268.656,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97398
+        },
+        {
+          "seconds": 67.164,
+          "correlation": 0.98289
+        },
+        {
+          "seconds": 161.194,
+          "correlation": 0.96504
+        },
+        {
+          "seconds": 260.656,
+          "correlation": 0.97785
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-031",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/5201812925a143088d53652033383496_128_mp3_128.mp3",
+      "sourceBytes": 1527936,
+      "sourceSha256": "7c44b69192bcbd9f6a6ed4f913ef2db3cc0ee41da340b8517182b43e05d3f807",
+      "mobileBytes": 395170,
+      "mobileSha256": "844a36cacd06bd479639cebcebe5bffec6523c5ecad0d5cb09bdf3bb333f5d9c",
+      "sourceDuration": 95.496,
+      "sourceContainerDuration": 95.496,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 95.496,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 11.937,
+          "correlation": 0.97497
+        },
+        {
+          "seconds": 23.874,
+          "correlation": 0.98349
+        },
+        {
+          "seconds": 57.298,
+          "correlation": 0.93963
+        },
+        {
+          "seconds": 87.496,
+          "correlation": 0.97169
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v3-032",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/21/533b90028ee34a18a901dfc7f87404d6_128_mp3_128.mp3",
+      "sourceBytes": 2249088,
+      "sourceSha256": "a3abeab128cd10ab61f6a948d988839e38c398a735158add201da84e15613944",
+      "mobileBytes": 581332,
+      "mobileSha256": "63f4c94929e2d8458a439e8e7d4bbc516b1009a4d37b188868c7c54a7ea688b0",
+      "sourceDuration": 140.568,
+      "sourceContainerDuration": 140.568,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 140.568,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 17.571,
+          "correlation": 0.96592
+        },
+        {
+          "seconds": 35.142,
+          "correlation": 0.98402
+        },
+        {
+          "seconds": 84.341,
+          "correlation": 0.97616
+        },
+        {
+          "seconds": 132.568,
+          "correlation": 0.97642
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-001",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/f5c85595628e46b78e284d8403947d41_128_mp3_128.mp3",
+      "sourceBytes": 38375424,
+      "sourceSha256": "574e0baba86d195cc869dd189f0e2b4b5efa2ff8f59a304acb512e6b2d63ad5b",
+      "mobileBytes": 9893521,
+      "mobileSha256": "d95d6b19e2b5908b5695f137207aaf16efebff95a84df7a8755019745be257ed",
+      "sourceDuration": 2398.464,
+      "sourceContainerDuration": 2398.464,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2398.464,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98825
+        },
+        {
+          "seconds": 599.616,
+          "correlation": 0.98061
+        },
+        {
+          "seconds": 1439.078,
+          "correlation": 0.97223
+        },
+        {
+          "seconds": 2390.464,
+          "correlation": 0.97979
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-002",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/093f84296d454aac8ca1e2c1315bb6da_128_mp3_128.mp3",
+      "sourceBytes": 7245696,
+      "sourceSha256": "0963b1153040ce468c61098435dc4168afe7219ac22e4e7f8900842edebd2c4c",
+      "mobileBytes": 1868967,
+      "mobileSha256": "6cb35bcd46681d376b86409f3284765a7982ac8ea8e3a799b75a98bf25a4da67",
+      "sourceDuration": 452.856,
+      "sourceContainerDuration": 452.856,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 452.856,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9859
+        },
+        {
+          "seconds": 113.214,
+          "correlation": 0.98388
+        },
+        {
+          "seconds": 271.714,
+          "correlation": 0.95433
+        },
+        {
+          "seconds": 444.856,
+          "correlation": 0.99006
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-003",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/677568c567a7416b92a81ad5f462cf1b_128_mp3_128.mp3",
+      "sourceBytes": 15319296,
+      "sourceSha256": "190ecb2b5f332babb0ee318e3a3fe03e884f5df358c73f593ec18c686e6097eb",
+      "mobileBytes": 3950021,
+      "mobileSha256": "b2c3503f2a6d0e576d4fe8c8439cd6ad7dc80e54c9b2df04833a115577f09d50",
+      "sourceDuration": 957.456,
+      "mobileDuration": 957.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98207
+        },
+        {
+          "seconds": 239.364,
+          "correlation": 0.96417
+        },
+        {
+          "seconds": 574.474,
+          "correlation": 0.95625
+        },
+        {
+          "seconds": 949.456,
+          "correlation": 0.97232
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-004",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/02/02/ea1063bd528e4d2cb43fe6a5d13f3add_128_mp3_128.mp3",
+      "sourceBytes": 11291136,
+      "sourceSha256": "cf58ae2054f6e72f7252b509e812d60ab3cab11bb2baa9fc2c804dc39cc1a2f6",
+      "mobileBytes": 2911561,
+      "mobileSha256": "3a0837296bf83d53764b3bac1cc44ad490de34f87537b87b0fac565dfa6a5b11",
+      "sourceDuration": 705.696,
+      "sourceContainerDuration": 705.696,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 705.696,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99292
+        },
+        {
+          "seconds": 176.424,
+          "correlation": 0.98944
+        },
+        {
+          "seconds": 423.418,
+          "correlation": 0.97251
+        },
+        {
+          "seconds": 697.696,
+          "correlation": 0.97586
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-005",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/ff86645192be4eb3b4ae373caccf0bf0_128_mp3_128.mp3",
+      "sourceBytes": 7337856,
+      "sourceSha256": "f7c69ea2022a7bab28ef937aff3c9e5ca2e0c9270dec3a53902e17e6bd9984d3",
+      "mobileBytes": 1892761,
+      "mobileSha256": "f0f52ae61c27e7b3f8733eb1c1f5a99b5569282b9ea72b2f60a3189aa4c1bef7",
+      "sourceDuration": 458.616,
+      "sourceContainerDuration": 458.616,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 458.616,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9905
+        },
+        {
+          "seconds": 114.654,
+          "correlation": 0.98798
+        },
+        {
+          "seconds": 275.17,
+          "correlation": 0.97354
+        },
+        {
+          "seconds": 450.616,
+          "correlation": 0.98252
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-006",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/32eda6e2043643b8a3d56efc49e97186_128_mp3_128.mp3",
+      "sourceBytes": 23313024,
+      "sourceSha256": "2461995f1786377200364f121173a2d45a3b5b2f2f38a9811c201f92a8b24a27",
+      "mobileBytes": 6010465,
+      "mobileSha256": "f2146069eeb7007dece325dd7ede9a95b49974ee71b07d8dfb10db9198e2bf14",
+      "sourceDuration": 1457.064,
+      "mobileDuration": 1457.064,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99014
+        },
+        {
+          "seconds": 364.266,
+          "correlation": 0.97912
+        },
+        {
+          "seconds": 874.238,
+          "correlation": 0.97159
+        },
+        {
+          "seconds": 1449.064,
+          "correlation": 0.97831
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-007",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/c27afab9576345e8a1e774ab39b5cd87_128_mp3_128.mp3",
+      "sourceBytes": 8802816,
+      "sourceSha256": "f66514e7d9da55a27035309f66ed40dfed7e041e94d88e5f9021a8063fe6aa84",
+      "mobileBytes": 2270572,
+      "mobileSha256": "3da3d514d51a2b239e0dfd662df004fed8c9ebdc97e36a45b3625f98cb08e95e",
+      "sourceDuration": 550.176,
+      "sourceContainerDuration": 550.176,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 550.176,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98661
+        },
+        {
+          "seconds": 137.544,
+          "correlation": 0.99168
+        },
+        {
+          "seconds": 330.106,
+          "correlation": 0.96775
+        },
+        {
+          "seconds": 542.176,
+          "correlation": 0.9855
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-008",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/9a86852941104284b44625ef06c8005a_128_mp3_128.mp3",
+      "sourceBytes": 5556864,
+      "sourceSha256": "712979114c7804eb01d58514fd2f49424669254dea3ceeb45e89274fba04178e",
+      "mobileBytes": 1434000,
+      "mobileSha256": "894a44fbcc026a98fb6fd749b2056441777be18486936d392afb69af748414d3",
+      "sourceDuration": 347.304,
+      "sourceContainerDuration": 347.304,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 347.304,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98742
+        },
+        {
+          "seconds": 86.826,
+          "correlation": 0.96863
+        },
+        {
+          "seconds": 208.382,
+          "correlation": 0.97823
+        },
+        {
+          "seconds": 339.304,
+          "correlation": 0.98553
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-009",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/ab037b862cfc4683bb34ee055d61140b_128_mp3_128.mp3",
+      "sourceBytes": 11066496,
+      "sourceSha256": "cdf5bddc81c4c25e5fa94a6b53fe04a957d831411efc9106564d7a5fdb160076",
+      "mobileBytes": 2853559,
+      "mobileSha256": "502e8a4dce9d4fc16c274ece2479013eab331404dfe83e98f3646f5cdb5babbf",
+      "sourceDuration": 691.656,
+      "sourceContainerDuration": 691.656,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 691.656,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97737
+        },
+        {
+          "seconds": 172.914,
+          "correlation": 0.97183
+        },
+        {
+          "seconds": 414.994,
+          "correlation": 0.9647
+        },
+        {
+          "seconds": 683.656,
+          "correlation": 0.98968
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-010",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/314400cbff854a32bebc084ddb28036b_128_mp3_128.mp3",
+      "sourceBytes": 9811968,
+      "sourceSha256": "28b6a83881b5d5d827f0f857bc445b1a1871614665cd400619dd33e04c6a27eb",
+      "mobileBytes": 2530655,
+      "mobileSha256": "aaf48689fa79b0eeb8fef0cf08b4d481c6994af2ecf0b3b62073361316e45d24",
+      "sourceDuration": 613.248,
+      "sourceContainerDuration": 613.248,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 613.248,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98491
+        },
+        {
+          "seconds": 153.312,
+          "correlation": 0.98491
+        },
+        {
+          "seconds": 367.949,
+          "correlation": 0.98331
+        },
+        {
+          "seconds": 605.248,
+          "correlation": 0.98004
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-011",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/0df7abe624194fe2b03c520494ac0f04_128_mp3_128.mp3",
+      "sourceBytes": 2543616,
+      "sourceSha256": "4fd8670c46e8de610908d8ee3b1642057bd78dc551a8482882714e7f4660337f",
+      "mobileBytes": 658313,
+      "mobileSha256": "8d3a7570b21ffde3acd0a73b2109c4dcef63709bffe0a9ce1ba9440730e8d7c9",
+      "sourceDuration": 158.976,
+      "sourceContainerDuration": 158.976,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 158.976,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 19.872,
+          "correlation": 0.97512
+        },
+        {
+          "seconds": 39.744,
+          "correlation": 0.97803
+        },
+        {
+          "seconds": 95.386,
+          "correlation": 0.97176
+        },
+        {
+          "seconds": 150.976,
+          "correlation": 0.98465
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-012",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/a813820bedad4beb95aedf3e925b6751_128_mp3_128.mp3",
+      "sourceBytes": 5431296,
+      "sourceSha256": "0049b0229188e6cc8680cd4009308eac1f8f2e660dc27bae10b943719955b13d",
+      "mobileBytes": 1401321,
+      "mobileSha256": "ae41fd161aa54c9cea398f78e6ea7d06a23906da9ec11b213e98b443b18c055d",
+      "sourceDuration": 339.456,
+      "sourceContainerDuration": 339.456,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 339.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98865
+        },
+        {
+          "seconds": 84.864,
+          "correlation": 0.98001
+        },
+        {
+          "seconds": 203.674,
+          "correlation": 0.97393
+        },
+        {
+          "seconds": 331.456,
+          "correlation": 0.98909
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-013",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/0dafe9426b6e49428dcd1557d95b59ab_128_mp3_128.mp3",
+      "sourceBytes": 10835328,
+      "sourceSha256": "3b223a2d920b143ceb8372108bf91f5104c8ece6904e8c5f2e35ca638fa98840",
+      "mobileBytes": 2794842,
+      "mobileSha256": "5c9032df1bde9137fef1f311306ea2d5b0f22c7310ff0fc9a0ec97b332b14404",
+      "sourceDuration": 677.208,
+      "sourceContainerDuration": 677.208,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 677.208,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97032
+        },
+        {
+          "seconds": 169.302,
+          "correlation": 0.979
+        },
+        {
+          "seconds": 406.325,
+          "correlation": 0.97303
+        },
+        {
+          "seconds": 669.208,
+          "correlation": 0.97841
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-014",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/1ad0c88ae6f74e5a9de0260251a18aa7_128_mp3_128.mp3",
+      "sourceBytes": 9177216,
+      "sourceSha256": "f48bf068e6b9dac58601877c375bf5ded0ccb52b349cd588f545681714e631fb",
+      "mobileBytes": 2366886,
+      "mobileSha256": "dcd0ac2c59a2194ff2fb3699134c22e139747aea317005ef06ba8ad10b73cdb9",
+      "sourceDuration": 573.576,
+      "sourceContainerDuration": 573.576,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 573.576,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96011
+        },
+        {
+          "seconds": 143.394,
+          "correlation": 0.97619
+        },
+        {
+          "seconds": 344.146,
+          "correlation": 0.96256
+        },
+        {
+          "seconds": 565.576,
+          "correlation": 0.98194
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-015",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/7ace3991b4bd45e888a46ac4be9e3445_128_mp3_128.mp3",
+      "sourceBytes": 3372288,
+      "sourceSha256": "e3588ff32a355b1e49bbc75493cc572f1920dc3e7ecfa7f53f3f064458b27775",
+      "mobileBytes": 870695,
+      "mobileSha256": "9dad370f56d9998195c67d88a9b3b49bfb9f5239b748816fe9f88d3d08d4319e",
+      "sourceDuration": 210.768,
+      "sourceContainerDuration": 210.768,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 210.768,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98509
+        },
+        {
+          "seconds": 52.692,
+          "correlation": 0.98523
+        },
+        {
+          "seconds": 126.461,
+          "correlation": 0.99051
+        },
+        {
+          "seconds": 202.768,
+          "correlation": 0.97717
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-016",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/5224ccdae4054bb39de22bc3a73d3eac_128_mp3_128.mp3",
+      "sourceBytes": 14531328,
+      "sourceSha256": "fdd7e5b5b5151127ea05d61226aa6c51589286b4d29910740f26c3c41b92b994",
+      "mobileBytes": 3747374,
+      "mobileSha256": "395463270ac98f56edb19180135b0fd7a12c7cd1fdf4845c2b2ad5bd370a531f",
+      "sourceDuration": 908.208,
+      "mobileDuration": 908.208,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97938
+        },
+        {
+          "seconds": 227.052,
+          "correlation": 0.98988
+        },
+        {
+          "seconds": 544.925,
+          "correlation": 0.99177
+        },
+        {
+          "seconds": 900.208,
+          "correlation": 0.97973
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-017",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/7a773e0947d140dcb1b1fe55e7eadcf3_128_mp3_128.mp3",
+      "sourceBytes": 18423936,
+      "sourceSha256": "e9ce1feee910ce22cb3c63c79e1c1a15050678f7e56f3d5269885b256b22e8c0",
+      "mobileBytes": 4750753,
+      "mobileSha256": "aa3aa9b8be9946976dbea3230a4a61bc973b82fbf7293fd90ff66d140bea8b27",
+      "sourceDuration": 1151.496,
+      "mobileDuration": 1151.496,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97316
+        },
+        {
+          "seconds": 287.874,
+          "correlation": 0.98742
+        },
+        {
+          "seconds": 690.898,
+          "correlation": 0.97668
+        },
+        {
+          "seconds": 1143.496,
+          "correlation": 0.98774
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-018",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/be4fbd1f1f6f4c3081f83d5bdc3eae5a_128_mp3_128.mp3",
+      "sourceBytes": 4117248,
+      "sourceSha256": "eca91d4690e3726d382fd3f6f16c63cdb008a4873c4afe556fce1b30ca20df63",
+      "mobileBytes": 1063212,
+      "mobileSha256": "7a3fc50c198e4ef2a4344d75d840aaac0090951dedec6a1d941411c7a9cf02c4",
+      "sourceDuration": 257.328,
+      "sourceContainerDuration": 257.328,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 257.328,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98722
+        },
+        {
+          "seconds": 64.332,
+          "correlation": 0.97762
+        },
+        {
+          "seconds": 154.397,
+          "correlation": 0.98715
+        },
+        {
+          "seconds": 249.328,
+          "correlation": 0.971
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-019",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/dcc827faf1154ccd9372da2106735c9f_128_mp3_128.mp3",
+      "sourceBytes": 3270144,
+      "sourceSha256": "aaf699e6db5e9e1f29d5fe4dad20d1a5e369a4119a956e0e3b04a1586e7d57a2",
+      "mobileBytes": 844321,
+      "mobileSha256": "113aa31c2d92cc9e82d7bce4bad1c8dc9ec768847c30b5ad28b7fcd654140386",
+      "sourceDuration": 204.384,
+      "sourceContainerDuration": 204.384,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 204.384,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97692
+        },
+        {
+          "seconds": 51.096,
+          "correlation": 0.97689
+        },
+        {
+          "seconds": 122.63,
+          "correlation": 0.97238
+        },
+        {
+          "seconds": 196.384,
+          "correlation": 0.97388
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-020",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/3823dbdb266048889277564658b50553_128_mp3_128.mp3",
+      "sourceBytes": 10381056,
+      "sourceSha256": "c3b0b5b0dd1e0da40fbfce6021709521b7d125930014151962bf578ed70f92f5",
+      "mobileBytes": 2676974,
+      "mobileSha256": "bf701c6a4d71e817ad8508f94c800d9100ca323026b00add48653c8b6a6ca473",
+      "sourceDuration": 648.816,
+      "sourceContainerDuration": 648.816,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 648.816,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97961
+        },
+        {
+          "seconds": 162.204,
+          "correlation": 0.97408
+        },
+        {
+          "seconds": 389.29,
+          "correlation": 0.97051
+        },
+        {
+          "seconds": 640.816,
+          "correlation": 0.98941
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-021",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/ab169aad84d746aaa52509c08812c107_128_mp3_128.mp3",
+      "sourceBytes": 12862464,
+      "sourceSha256": "131ff3802537a7966dd0b5ec28f52311e720451c7bba372dad70d8e190146622",
+      "mobileBytes": 3316608,
+      "mobileSha256": "ec0130af81c767cbcccac5de5b176621a201db614d40c5e0fc3d9caf0d7beb26",
+      "sourceDuration": 803.904,
+      "mobileDuration": 803.904,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98277
+        },
+        {
+          "seconds": 200.976,
+          "correlation": 0.9741
+        },
+        {
+          "seconds": 482.342,
+          "correlation": 0.97075
+        },
+        {
+          "seconds": 795.904,
+          "correlation": 0.98019
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-022",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/dee00d082a9f4b2d924e698c8a921d86_128_mp3_128.mp3",
+      "sourceBytes": 13746048,
+      "sourceSha256": "5129e31733a083c46e3d499263e34efbe736a28d807ec3ef20a6a3b16f9bc9a1",
+      "mobileBytes": 3544662,
+      "mobileSha256": "f859e0efec540416e67eabfcc8787c924f33c39585c8392115030cc0fd85de30",
+      "sourceDuration": 859.128,
+      "mobileDuration": 859.128,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98472
+        },
+        {
+          "seconds": 214.782,
+          "correlation": 0.97065
+        },
+        {
+          "seconds": 515.477,
+          "correlation": 0.97012
+        },
+        {
+          "seconds": 851.128,
+          "correlation": 0.96892
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-023",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/172b39f5968a4c70b79b70c69b6368ed_128_mp3_128.mp3",
+      "sourceBytes": 1506816,
+      "sourceSha256": "233c53e3d7522d87fd2483454052b98dd54cd0227d75e8439437a5f61607b226",
+      "mobileBytes": 390225,
+      "mobileSha256": "ab8457221376698c8e953558e02a20ea97199316a2ac19e81694c48319a6d6df",
+      "sourceDuration": 94.176,
+      "sourceContainerDuration": 94.176,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 94.176,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 11.772,
+          "correlation": 0.98376
+        },
+        {
+          "seconds": 23.544,
+          "correlation": 0.97774
+        },
+        {
+          "seconds": 56.506,
+          "correlation": 0.97282
+        },
+        {
+          "seconds": 86.176,
+          "correlation": 0.98557
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-024",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/f4e38772ada54eb2a12eafe5813cec8c_128_mp3_128.mp3",
+      "sourceBytes": 47082624,
+      "sourceSha256": "760f3c2532b68769a13a37c858cce5e2e8c126f50bab46361bfeefeecd6e9ed9",
+      "mobileBytes": 12137541,
+      "mobileSha256": "2ad140ef929322324656d6e8707e930a85cd84adea860e526ce054b04e980e1d",
+      "sourceDuration": 2942.664,
+      "sourceContainerDuration": 2942.664,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2942.664,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98517
+        },
+        {
+          "seconds": 735.666,
+          "correlation": 0.98096
+        },
+        {
+          "seconds": 1765.598,
+          "correlation": 0.96204
+        },
+        {
+          "seconds": 2934.664,
+          "correlation": 0.97789
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-025",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/3f34a3b797c94f9485eb0a0e33a6b653_128_mp3_128.mp3",
+      "sourceBytes": 5930496,
+      "sourceSha256": "07f7f6c335a37fc991f7969c24fc34128521b439c05eee53d929c930d044f22c",
+      "mobileBytes": 1530764,
+      "mobileSha256": "e5203622320a61491570945ff11ac5550f970969d9cd63e95c26c83eaf096d47",
+      "sourceDuration": 370.656,
+      "sourceContainerDuration": 370.656,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 370.656,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98058
+        },
+        {
+          "seconds": 92.664,
+          "correlation": 0.9736
+        },
+        {
+          "seconds": 222.394,
+          "correlation": 0.97044
+        },
+        {
+          "seconds": 362.656,
+          "correlation": 0.98746
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-026",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/e31e1dae22d04227b8608ef96c5409b9_128_mp3_128.mp3",
+      "sourceBytes": 18951168,
+      "sourceSha256": "2b26548f74535951bbaabf94c06ff32d677508a507dfd46c2cf1a1a973893378",
+      "mobileBytes": 4886316,
+      "mobileSha256": "386755186de0045db95620f3e195e80d281a229b02671f8791879a6b1daa3981",
+      "sourceDuration": 1184.448,
+      "mobileDuration": 1184.448,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99349
+        },
+        {
+          "seconds": 296.112,
+          "correlation": 0.9762
+        },
+        {
+          "seconds": 710.669,
+          "correlation": 0.9781
+        },
+        {
+          "seconds": 1176.448,
+          "correlation": 0.99002
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-027",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/8a444695d35f4a8191e10c81f0d70c31_128_mp3_128.mp3",
+      "sourceBytes": 2311296,
+      "sourceSha256": "13290fa1f35b15b455b5dde6fbfe95c6d5ae7b0d08f4899e5a3f1929d9f8c279",
+      "mobileBytes": 597178,
+      "mobileSha256": "175d6294b37c5484fb4181a7b7f62d81064c1c9caf5c76ee6392697fbdab24ff",
+      "sourceDuration": 144.456,
+      "sourceContainerDuration": 144.456,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 144.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 18.057,
+          "correlation": 0.99118
+        },
+        {
+          "seconds": 36.114,
+          "correlation": 0.99092
+        },
+        {
+          "seconds": 86.674,
+          "correlation": 0.97167
+        },
+        {
+          "seconds": 136.456,
+          "correlation": 0.98998
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-028",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/4ee45f9cde384138b0ba7217a668d733_128_mp3_128.mp3",
+      "sourceBytes": 4555008,
+      "sourceSha256": "e6ff9793740f94a024aa7c700e1941ffd18a40e4f78a7f13e98a20d696fc2f4b",
+      "mobileBytes": 1176382,
+      "mobileSha256": "984b07d23d880b1223a516ea93f4566fa170f70f7b05e2d753ebf1fcf2950a9f",
+      "sourceDuration": 284.688,
+      "sourceContainerDuration": 284.688,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 284.688,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97733
+        },
+        {
+          "seconds": 71.172,
+          "correlation": 0.99339
+        },
+        {
+          "seconds": 170.813,
+          "correlation": 0.98913
+        },
+        {
+          "seconds": 276.688,
+          "correlation": 0.97799
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-029",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/f6c0dd0a80dd49e6abddfce5d0836baa_128_mp3_128.mp3",
+      "sourceBytes": 4905216,
+      "sourceSha256": "e609f5e3c14fa817b7f244d38c06d2eff7d1fd9386a46577e005b05c696f80bc",
+      "mobileBytes": 1266903,
+      "mobileSha256": "d8503ac78162da26f76219481f290ca90b180d9323d0f37b7e276f34be88c266",
+      "sourceDuration": 306.576,
+      "sourceContainerDuration": 306.576,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 306.576,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.95474
+        },
+        {
+          "seconds": 76.644,
+          "correlation": 0.98798
+        },
+        {
+          "seconds": 183.946,
+          "correlation": 0.96847
+        },
+        {
+          "seconds": 298.576,
+          "correlation": 0.98107
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-030",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/fd98652c8eef4e9fa6e118b8cf2a750f_128_mp3_128.mp3",
+      "sourceBytes": 4327296,
+      "sourceSha256": "74b1decdfc57c4cf9cedbe5137ddedd31d8188f74c5c36e6acaf8072bffaa389",
+      "mobileBytes": 1116976,
+      "mobileSha256": "93e0244914ba3cde2d97d75a3238ee364021c81fc3294bee6d479aba9ab2abf0",
+      "sourceDuration": 270.456,
+      "sourceContainerDuration": 270.456,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 270.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97667
+        },
+        {
+          "seconds": 67.614,
+          "correlation": 0.97929
+        },
+        {
+          "seconds": 162.274,
+          "correlation": 0.97677
+        },
+        {
+          "seconds": 262.456,
+          "correlation": 0.9763
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-031",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/fadf8d9476c14242a0d216c65512a6f7_128_mp3_128.mp3",
+      "sourceBytes": 5166336,
+      "sourceSha256": "e47b7bd13e7d19d27540388650b6e5c42d6f913f5b3d1a8b4dec0437c6778be8",
+      "mobileBytes": 1332812,
+      "mobileSha256": "3fac4457016656d632230936330a289cd5cc39aa3e37c0f7b3ee000e1c20f5b6",
+      "sourceDuration": 322.896,
+      "sourceContainerDuration": 322.896,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 322.896,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96791
+        },
+        {
+          "seconds": 80.724,
+          "correlation": 0.9783
+        },
+        {
+          "seconds": 193.738,
+          "correlation": 0.96476
+        },
+        {
+          "seconds": 314.896,
+          "correlation": 0.98499
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-032",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/5ff01e91a39e4fc9a2c8922d8be24bb6_128_mp3_128.mp3",
+      "sourceBytes": 9361536,
+      "sourceSha256": "70d6824bd6a29bd899318d799cfbfad3ab9ae0a0e5f3a7d89ef2b1aa57ff28d8",
+      "mobileBytes": 2414773,
+      "mobileSha256": "645dd21853488102b783ac8d2c0e14bd91894b47556df656557662db3005c86c",
+      "sourceDuration": 585.096,
+      "sourceContainerDuration": 585.096,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 585.096,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97736
+        },
+        {
+          "seconds": 146.274,
+          "correlation": 0.98671
+        },
+        {
+          "seconds": 351.058,
+          "correlation": 0.96901
+        },
+        {
+          "seconds": 577.096,
+          "correlation": 0.97951
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-033",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/aab8d335e0eb4dcd9b2003e812085bb9_128_mp3_128.mp3",
+      "sourceBytes": 11048064,
+      "sourceSha256": "68e4a5d51613f2e9616a6aca88e138ac49dc2cd094389c4cc270c7ba880186ac",
+      "mobileBytes": 2849350,
+      "mobileSha256": "f62713cbd6548ae41d1775d654adb828d2367f5cb8a911b044469d582cb1a663",
+      "sourceDuration": 690.504,
+      "sourceContainerDuration": 690.504,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 690.504,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98491
+        },
+        {
+          "seconds": 172.626,
+          "correlation": 0.99038
+        },
+        {
+          "seconds": 414.302,
+          "correlation": 0.96769
+        },
+        {
+          "seconds": 682.504,
+          "correlation": 0.98407
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-034",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/eb6fd9fc6f884bb2a165d575d525c529_128_mp3_128.mp3",
+      "sourceBytes": 18780288,
+      "sourceSha256": "da881535dc511d12d81bca8fae8d26dca7a37ba9a088820c441eb9d8a8913f61",
+      "mobileBytes": 4842690,
+      "mobileSha256": "9d7b8e3be41d978e7ef8ac358c215bd56f8a584260f7d71e18f7f06e8afe0153",
+      "sourceDuration": 1173.768,
+      "mobileDuration": 1173.768,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98662
+        },
+        {
+          "seconds": 293.442,
+          "correlation": 0.98919
+        },
+        {
+          "seconds": 704.261,
+          "correlation": 0.99288
+        },
+        {
+          "seconds": 1165.768,
+          "correlation": 0.99296
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-035",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/59a72454dcf641a6abf3cd01747a81ab_128_mp3_128.mp3",
+      "sourceBytes": 32817024,
+      "sourceSha256": "b7751d7fd139d1b1e4d5a4414b4100e1fe541acfea7924923670104f888cdbe3",
+      "mobileBytes": 8461317,
+      "mobileSha256": "b17a36bbb0843a5ae7885c11fb69e803a6f02e63d34c9f6d5762435993538b2f",
+      "sourceDuration": 2051.064,
+      "sourceContainerDuration": 2051.064,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2051.064,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98753
+        },
+        {
+          "seconds": 512.766,
+          "correlation": 0.9775
+        },
+        {
+          "seconds": 1230.638,
+          "correlation": 0.96711
+        },
+        {
+          "seconds": 2043.064,
+          "correlation": 0.98371
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-036",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/9dcb46447aa644dc8302be7f5023da9b_128_mp3_128.mp3",
+      "sourceBytes": 12295296,
+      "sourceSha256": "f94d599511ea4e7ee32a75e08718e993459b713c2108394de3bb736dd5ea1cc9",
+      "mobileBytes": 3170656,
+      "mobileSha256": "2caf7cdbd5557bed536639dae790d7c8a75edc7efaa81541342a5d2ab2236262",
+      "sourceDuration": 768.456,
+      "sourceContainerDuration": 768.456,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 768.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98502
+        },
+        {
+          "seconds": 192.114,
+          "correlation": 0.98415
+        },
+        {
+          "seconds": 461.074,
+          "correlation": 0.98109
+        },
+        {
+          "seconds": 760.456,
+          "correlation": 0.99143
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-037",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/97ffc35520164d38b1eab9ce93d1c993_128_mp3_128.mp3",
+      "sourceBytes": 4871424,
+      "sourceSha256": "8b90931f5e4ee8fb8c0d1a96e9e287fa40012dd9a2b6f6fd6ea174d973f7d4da",
+      "mobileBytes": 1257701,
+      "mobileSha256": "5a3bd74ffaee5c3ac8d67ac37b191d04c9dc03ab2c7fb5e9651e17f62e6047f4",
+      "sourceDuration": 304.464,
+      "sourceContainerDuration": 304.464,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 304.464,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99038
+        },
+        {
+          "seconds": 76.116,
+          "correlation": 0.96846
+        },
+        {
+          "seconds": 182.678,
+          "correlation": 0.96668
+        },
+        {
+          "seconds": 296.464,
+          "correlation": 0.98178
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-038",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/0cc17e3a36b5415f86e8c1120b2c9e83_128_mp3_128.mp3",
+      "sourceBytes": 2535168,
+      "sourceSha256": "ce2bf3ba4ad1f6221257ca4615b093a0649bbae180680323db1a1441c010304a",
+      "mobileBytes": 654872,
+      "mobileSha256": "5faed62c1b53287fdb38e6ab01cbebc404d71a6d4ed05afe008e9c973d04d472",
+      "sourceDuration": 158.448,
+      "sourceContainerDuration": 158.448,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 158.448,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 19.806,
+          "correlation": 0.97885
+        },
+        {
+          "seconds": 39.612,
+          "correlation": 0.98008
+        },
+        {
+          "seconds": 95.069,
+          "correlation": 0.9792
+        },
+        {
+          "seconds": 150.448,
+          "correlation": 0.97951
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-039",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/02/02/d65694c278e648adb930787b205f94fa_128_mp3_128.mp3",
+      "sourceBytes": 14999808,
+      "sourceSha256": "2856a623f30c86be73bdc72c2aec9b7f5431687d444ceb3e1b5ffa307d3cb520",
+      "mobileBytes": 3868243,
+      "mobileSha256": "45231db06d4ec118d1fc7b1455e52bc5fb9cad6cec4930220ffe817960991874",
+      "sourceDuration": 937.488,
+      "mobileDuration": 937.488,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98111
+        },
+        {
+          "seconds": 234.372,
+          "correlation": 0.98628
+        },
+        {
+          "seconds": 562.493,
+          "correlation": 0.98427
+        },
+        {
+          "seconds": 929.488,
+          "correlation": 0.97268
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-040",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/5fabf8dbc066462a9f9332960d0b5f99_128_mp3_128.mp3",
+      "sourceBytes": 8983296,
+      "sourceSha256": "e6394141c42888923c608c9506a8b01c61e725f3de9a82c7345428f0b080ad36",
+      "mobileBytes": 2317457,
+      "mobileSha256": "6ce2d2dbd4d66de7cf38251bd17793ca7491898a9330585cc31eb063ce5b3c5c",
+      "sourceDuration": 561.456,
+      "sourceContainerDuration": 561.456,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 561.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97569
+        },
+        {
+          "seconds": 140.364,
+          "correlation": 0.97127
+        },
+        {
+          "seconds": 336.874,
+          "correlation": 0.95959
+        },
+        {
+          "seconds": 553.456,
+          "correlation": 0.9776
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-041",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/cde130d9fb314d16859f00119839f389_128_mp3_128.mp3",
+      "sourceBytes": 3017856,
+      "sourceSha256": "6e8a286f3261efa4467060a05def74ad8cb212027d7b0a328e5c3a584844f6cb",
+      "mobileBytes": 779836,
+      "mobileSha256": "ea5e530e2c55f8e60b439e69a3293845aa184c06f2ae0681fbb5e91ed9cf1fa8",
+      "sourceDuration": 188.616,
+      "sourceContainerDuration": 188.616,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 188.616,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98595
+        },
+        {
+          "seconds": 47.154,
+          "correlation": 0.98089
+        },
+        {
+          "seconds": 113.17,
+          "correlation": 0.98912
+        },
+        {
+          "seconds": 180.616,
+          "correlation": 0.98384
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-042",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/d82ffba8259d4f308771eed8c2872951_128_mp3_128.mp3",
+      "sourceBytes": 20469504,
+      "sourceSha256": "6d1f05d1f5faa982405bfe96e2a33468c1ab8a0f081880b02efcff897a3af4fa",
+      "mobileBytes": 5277963,
+      "mobileSha256": "c13fd17c3d6453bbe7541ecb4b3d523b62d3a1741d5ae9fc14a7ea84fc64babe",
+      "sourceDuration": 1279.344,
+      "mobileDuration": 1279.344,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98655
+        },
+        {
+          "seconds": 319.836,
+          "correlation": 0.99125
+        },
+        {
+          "seconds": 767.606,
+          "correlation": 0.97953
+        },
+        {
+          "seconds": 1271.344,
+          "correlation": 0.98516
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-043",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/32da491d923a40d0a1f5cb4556c10078_128_mp3_128.mp3",
+      "sourceBytes": 4215168,
+      "sourceSha256": "ad8256d6545543d80d97c57cb46cb50001f16a268bf1d5fc917cc4a551d10ac0",
+      "mobileBytes": 1088651,
+      "mobileSha256": "b410b23e1742af7217e1355e7d049bd063431d7cfbe346300e35a5dd313dc7fa",
+      "sourceDuration": 263.448,
+      "sourceContainerDuration": 263.448,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 263.448,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98499
+        },
+        {
+          "seconds": 65.862,
+          "correlation": 0.99151
+        },
+        {
+          "seconds": 158.069,
+          "correlation": 0.97485
+        },
+        {
+          "seconds": 255.448,
+          "correlation": 0.99278
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-044",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/ff8c4baf6fae49a98126e239c8b50fb7_128_mp3_128.mp3",
+      "sourceBytes": 9723648,
+      "sourceSha256": "64629f9dbc62465064c8c490b750bdcb801367d20d78e77087afed496621f4c2",
+      "mobileBytes": 2508138,
+      "mobileSha256": "09f0c0afa74c0608f11f49af86c6dd14aabadc5927d782f5ad05b248650afbd5",
+      "sourceDuration": 607.728,
+      "sourceContainerDuration": 607.728,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 607.728,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98992
+        },
+        {
+          "seconds": 151.932,
+          "correlation": 0.98786
+        },
+        {
+          "seconds": 364.637,
+          "correlation": 0.98498
+        },
+        {
+          "seconds": 599.728,
+          "correlation": 0.98434
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-045",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/1885437ea24c48d9af7daeacdc006463_128_mp3_128.mp3",
+      "sourceBytes": 4321536,
+      "sourceSha256": "0a05c6375d5658dfe742fd5cad62b8b6f196ae03ea398a4a23436f4ebe9e2ddc",
+      "mobileBytes": 1115788,
+      "mobileSha256": "ae6bef738afc6b3d51bf3efb8904e63d1393e572cc4022484863819a215e494a",
+      "sourceDuration": 270.096,
+      "sourceContainerDuration": 270.096,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 270.096,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97669
+        },
+        {
+          "seconds": 67.524,
+          "correlation": 0.95994
+        },
+        {
+          "seconds": 162.058,
+          "correlation": 0.97721
+        },
+        {
+          "seconds": 262.096,
+          "correlation": 0.98722
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-046",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/692c2d71c3b64a438a06755f133b6066_128_mp3_128.mp3",
+      "sourceBytes": 9569664,
+      "sourceSha256": "03e7778fb470470aea5723c2bd83a2ae4ab7cfa9827a2350c4bf9444b0412105",
+      "mobileBytes": 2469333,
+      "mobileSha256": "e972374238def46aacb30984248249f5934238cb5d684c1126327fd90a520c76",
+      "sourceDuration": 598.104,
+      "sourceContainerDuration": 598.104,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 598.104,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98793
+        },
+        {
+          "seconds": 149.526,
+          "correlation": 0.97517
+        },
+        {
+          "seconds": 358.862,
+          "correlation": 0.97212
+        },
+        {
+          "seconds": 590.104,
+          "correlation": 0.98652
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-047",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/5b06968e7590406faaeeffc7a0990b5e_128_mp3_128.mp3",
+      "sourceBytes": 4449024,
+      "sourceSha256": "a297bba46a7877f2fe756ee2a28a67c51b8e59e63037af7a9ae88aa953b6af94",
+      "mobileBytes": 1148429,
+      "mobileSha256": "6179aefada8e0d02403ed8e1ee92a6fdc0a041b78f717216eee0b94c4fcc8bc8",
+      "sourceDuration": 278.064,
+      "sourceContainerDuration": 278.064,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 278.064,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97882
+        },
+        {
+          "seconds": 69.516,
+          "correlation": 0.97745
+        },
+        {
+          "seconds": 166.838,
+          "correlation": 0.97201
+        },
+        {
+          "seconds": 270.064,
+          "correlation": 0.99127
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-048",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/2dd79c93c61b400fb510e23b62af3a24_128_mp3_128.mp3",
+      "sourceBytes": 22094208,
+      "sourceSha256": "dd44cae9748ee6a07cd9db98a20f88ff8a67032b3097756e01d6e51c4a5172b2",
+      "mobileBytes": 5696382,
+      "mobileSha256": "bcac8ec9743902419d6dd6fc5bd24fa87fa1ff82ca9f5a752142df6210b3656e",
+      "sourceDuration": 1380.888,
+      "mobileDuration": 1380.888,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.987
+        },
+        {
+          "seconds": 345.222,
+          "correlation": 0.9848
+        },
+        {
+          "seconds": 828.533,
+          "correlation": 0.99358
+        },
+        {
+          "seconds": 1372.888,
+          "correlation": 0.98856
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-049",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/f2d4d2859cde40dc84e096b29a6b5b29_128_mp3_128.mp3",
+      "sourceBytes": 9467904,
+      "sourceSha256": "c8b0fb2843acf1ae4c5829bd0e9e1a5aad11d6c3119228fa2e2b38be98082972",
+      "mobileBytes": 2441390,
+      "mobileSha256": "0892de680fa827a97c4812c8e7a2adb5c73121a65a40b5b11022e426e6a792ed",
+      "sourceDuration": 591.744,
+      "sourceContainerDuration": 591.744,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 591.744,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98032
+        },
+        {
+          "seconds": 147.936,
+          "correlation": 0.97005
+        },
+        {
+          "seconds": 355.046,
+          "correlation": 0.96688
+        },
+        {
+          "seconds": 583.744,
+          "correlation": 0.98772
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-050",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/4215eab547fa4d91b1a60ef59444dbe3_128_mp3_128.mp3",
+      "sourceBytes": 11059584,
+      "sourceSha256": "443814c566afcd8557d6975d6192056257cba0938ffc2bf3ce953dde47f30a47",
+      "mobileBytes": 2851979,
+      "mobileSha256": "7ed20ac83e57852e822031c59d670bc24d48946800c0c4f25cfbecc5370ef360",
+      "sourceDuration": 691.224,
+      "sourceContainerDuration": 691.224,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 691.224,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98734
+        },
+        {
+          "seconds": 172.806,
+          "correlation": 0.98687
+        },
+        {
+          "seconds": 414.734,
+          "correlation": 0.95656
+        },
+        {
+          "seconds": 683.224,
+          "correlation": 0.98034
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-051",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/02/02/add9ce52e6f845cf84afe7631c4d5788_128_mp3_128.mp3",
+      "sourceBytes": 5298816,
+      "sourceSha256": "c32b34a102bd928283fb8f72dbdf087ec3bfabe57ebf79b7c9940bf191936569",
+      "mobileBytes": 1367436,
+      "mobileSha256": "cbf085e777089b3e5634601bf598a3c0ce390a7ebb62152f2983a216e9b49c68",
+      "sourceDuration": 331.176,
+      "sourceContainerDuration": 331.176,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 331.176,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97604
+        },
+        {
+          "seconds": 82.794,
+          "correlation": 0.97207
+        },
+        {
+          "seconds": 198.706,
+          "correlation": 0.97598
+        },
+        {
+          "seconds": 323.176,
+          "correlation": 0.98392
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-052",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/6cc2d06e9dec40d5b4d5bbc25c972360_128_mp3_128.mp3",
+      "sourceBytes": 13257216,
+      "sourceSha256": "f2562cd0e77835f51b164020fcd5f630949c6ec5f1536cb37a64cbd45b80d04f",
+      "mobileBytes": 3419172,
+      "mobileSha256": "1d16803ea78cc83e527d1ed4d974dba76472e2d4e5fcdcc04fddc7797070cc16",
+      "sourceDuration": 828.576,
+      "mobileDuration": 828.576,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98608
+        },
+        {
+          "seconds": 207.144,
+          "correlation": 0.98304
+        },
+        {
+          "seconds": 497.146,
+          "correlation": 0.96805
+        },
+        {
+          "seconds": 820.576,
+          "correlation": 0.99081
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-053",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/59b4e9ad57fb4bd7a7b90335bb55cf55_128_mp3_128.mp3",
+      "sourceBytes": 10874496,
+      "sourceSha256": "b63454c45ef50588a0d33ea9f77fa3a01881e29d6e7593c791b4068e827a0632",
+      "mobileBytes": 2804219,
+      "mobileSha256": "9057d1528fd6392c26db2f7272329408165555abb0b182b516da00901fd560ce",
+      "sourceDuration": 679.656,
+      "sourceContainerDuration": 679.656,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 679.656,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9876
+        },
+        {
+          "seconds": 169.914,
+          "correlation": 0.98268
+        },
+        {
+          "seconds": 407.794,
+          "correlation": 0.96518
+        },
+        {
+          "seconds": 671.656,
+          "correlation": 0.98546
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-054",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/02/02/632f3109e4384c7f8bf2f0d9c5e829be_128_mp3_128.mp3",
+      "sourceBytes": 5364864,
+      "sourceSha256": "f42363e0361134723d0c022bef28eef21a9b206ac1686533661a825b5e0549f9",
+      "mobileBytes": 1384824,
+      "mobileSha256": "7ae7128091b3407b810cf0fc4ba7925962fb6fac4019a20a3d375196b40c7ba2",
+      "sourceDuration": 335.304,
+      "sourceContainerDuration": 335.304,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 335.304,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98048
+        },
+        {
+          "seconds": 83.826,
+          "correlation": 0.98175
+        },
+        {
+          "seconds": 201.182,
+          "correlation": 0.9522
+        },
+        {
+          "seconds": 327.304,
+          "correlation": 0.99042
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-055",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/eaa3ac7423d44ca591dda9adeda1157b_128_mp3_128.mp3",
+      "sourceBytes": 10000896,
+      "sourceSha256": "3ab08ee246d5204d96b3176ae66354aa166c9a0cfb70b234ef63d61a3bf842a2",
+      "mobileBytes": 2579055,
+      "mobileSha256": "c6a9eb8fc40056458fe41f175aab35e6cc9a25ec2916e5c8df522a4102f6fa64",
+      "sourceDuration": 625.056,
+      "sourceContainerDuration": 625.056,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 625.056,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.99078
+        },
+        {
+          "seconds": 156.264,
+          "correlation": 0.99391
+        },
+        {
+          "seconds": 375.034,
+          "correlation": 0.97346
+        },
+        {
+          "seconds": 617.056,
+          "correlation": 0.99001
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-056",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/0bed9bfa83fd44bba46a6f8cef973c49_128_mp3_128.mp3",
+      "sourceBytes": 6469248,
+      "sourceSha256": "043fb337b9ca11c5f8ba7fda410e9a580367a8b41a47db7ed4ee12d784d24f0b",
+      "mobileBytes": 1669316,
+      "mobileSha256": "567c01adc5c5ae401e48ed2aed53bbd8cbd756ff4ea3eaafccdebfe1e1d78aef",
+      "sourceDuration": 404.328,
+      "sourceContainerDuration": 404.328,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 404.328,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98086
+        },
+        {
+          "seconds": 101.082,
+          "correlation": 0.98162
+        },
+        {
+          "seconds": 242.597,
+          "correlation": 0.97769
+        },
+        {
+          "seconds": 396.328,
+          "correlation": 0.9828
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-057",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/918403e0f0364d57afebaff54e571ca0_128_mp3_128.mp3",
+      "sourceBytes": 20775936,
+      "sourceSha256": "8852924faac0d63d9eb0d4a9317a88e346ccb2e6ce31b81a0be628504d157dd6",
+      "mobileBytes": 5356789,
+      "mobileSha256": "2cd3b75a0b85f1a266afe775ab19efd4c570e875be31978d67f8c71a1a1bda9c",
+      "sourceDuration": 1298.496,
+      "mobileDuration": 1298.496,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98862
+        },
+        {
+          "seconds": 324.624,
+          "correlation": 0.97149
+        },
+        {
+          "seconds": 779.098,
+          "correlation": 0.97248
+        },
+        {
+          "seconds": 1290.496,
+          "correlation": 0.98629
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-058",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/02/02/e089e3563e2e401fba10f9e2b04ba022_128_mp3_128.mp3",
+      "sourceBytes": 39143424,
+      "sourceSha256": "38673f10bb1a2a2985689b037808d15344a46583b70b1edf2ecff9ccc6d187c6",
+      "mobileBytes": 10092982,
+      "mobileSha256": "18b47faf925bee2368ca95027b2e09ea35384b72e24827b0908a913dd90cc47a",
+      "sourceDuration": 2446.464,
+      "sourceContainerDuration": 2446.464,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2446.464,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98657
+        },
+        {
+          "seconds": 611.616,
+          "correlation": 0.97248
+        },
+        {
+          "seconds": 1467.878,
+          "correlation": 0.97902
+        },
+        {
+          "seconds": 2438.464,
+          "correlation": 0.9743
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-059",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/a9826a6371c1410cb986cb867e4d8346_128_mp3_128.mp3",
+      "sourceBytes": 13193856,
+      "sourceSha256": "dfee4d01e2dae8aab9840a10ae0e0182f410698bb611d3b39d33eb969c0ca541",
+      "mobileBytes": 3402779,
+      "mobileSha256": "f740e0c8290c4c1ddb45400efd0de913520e02a9fa41fab39a1519f88b90fa31",
+      "sourceDuration": 824.616,
+      "sourceContainerDuration": 824.616,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 824.616,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.96996
+        },
+        {
+          "seconds": 206.154,
+          "correlation": 0.98759
+        },
+        {
+          "seconds": 494.77,
+          "correlation": 0.97852
+        },
+        {
+          "seconds": 816.616,
+          "correlation": 0.98138
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-060",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/c7658d19f31d4f5fa914709e7ff4a158_128_mp3_128.mp3",
+      "sourceBytes": 7355904,
+      "sourceSha256": "122ced7eda92c057bdceb05c020215e01fce0cd55f268aafce339da9da66e877",
+      "mobileBytes": 1897840,
+      "mobileSha256": "6259f1dbedf8b35cf3fad8e597bb9d5d8b0865395f80c95cd7281b3f9d24b34b",
+      "sourceDuration": 459.744,
+      "sourceContainerDuration": 459.744,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 459.744,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98126
+        },
+        {
+          "seconds": 114.936,
+          "correlation": 0.97792
+        },
+        {
+          "seconds": 275.846,
+          "correlation": 0.97559
+        },
+        {
+          "seconds": 451.744,
+          "correlation": 0.98605
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-061",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/02/02/26fd3abb20d74cbe9033fa63f7f444dd_128_mp3_128.mp3",
+      "sourceBytes": 3945984,
+      "sourceSha256": "fd0e69ceedf86c1b6447f7fc2a90de7cd2f70bab76b0bbc926ed4c8550d15bdf",
+      "mobileBytes": 1018103,
+      "mobileSha256": "8d42f857313a83e78c52e4328fb7f703342251f0d90632da4663d3839e51863e",
+      "sourceDuration": 246.624,
+      "sourceContainerDuration": 246.624,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 246.624,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97081
+        },
+        {
+          "seconds": 61.656,
+          "correlation": 0.97706
+        },
+        {
+          "seconds": 147.974,
+          "correlation": 0.96317
+        },
+        {
+          "seconds": 238.624,
+          "correlation": 0.98933
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-062",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/49a7febc23bb4bbeb39116fe63f2da4c_128_mp3_128.mp3",
+      "sourceBytes": 7169664,
+      "sourceSha256": "d74580f40347d74959c93ec96e37bfe9043d5cf2a7787a6c03e1c0260cae5287",
+      "mobileBytes": 1849635,
+      "mobileSha256": "2c4150175150ec8d0c5d28fbd3fae4277397270239b0a8ed59444813b4dbe81a",
+      "sourceDuration": 448.104,
+      "sourceContainerDuration": 448.104,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 448.104,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98814
+        },
+        {
+          "seconds": 112.026,
+          "correlation": 0.98499
+        },
+        {
+          "seconds": 268.862,
+          "correlation": 0.97835
+        },
+        {
+          "seconds": 440.104,
+          "correlation": 0.99297
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-063",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/335eb381e4b141afb84ac958e142d448_128_mp3_128.mp3",
+      "sourceBytes": 4389504,
+      "sourceSha256": "032d8f0f974f880b040690ced0092558f830b970a76ca86e64677adfcf59091e",
+      "mobileBytes": 1132737,
+      "mobileSha256": "c0714891bff138d6f3be7e394d796b57fab9c50ae79ef64f9ad95d637fe1dcfb",
+      "sourceDuration": 274.344,
+      "sourceContainerDuration": 274.344,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 274.344,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98629
+        },
+        {
+          "seconds": 68.586,
+          "correlation": 0.9848
+        },
+        {
+          "seconds": 164.606,
+          "correlation": 0.9673
+        },
+        {
+          "seconds": 266.344,
+          "correlation": 0.98618
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-064",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/78486041f92c45f5acd190747f1f0986_128_mp3_128.mp3",
+      "sourceBytes": 10776576,
+      "sourceSha256": "e3d9b3940be732e12cc002d0ab3a244a4831d5d1598cb5face026e64dc17622c",
+      "mobileBytes": 2779695,
+      "mobileSha256": "243f635a8a314499c908d3990d20bab01b8b9d19cad7ca62523f187eb1f76478",
+      "sourceDuration": 673.536,
+      "sourceContainerDuration": 673.536,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 673.536,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98278
+        },
+        {
+          "seconds": 168.384,
+          "correlation": 0.986
+        },
+        {
+          "seconds": 404.122,
+          "correlation": 0.9836
+        },
+        {
+          "seconds": 665.536,
+          "correlation": 0.98227
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-065",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/a8757d34a90f4f9e8828f7bc8f890fca_128_mp3_128.mp3",
+      "sourceBytes": 37130496,
+      "sourceSha256": "94a506aa165b41e36436f695e8619bc7587d365f7167161201d7c7ad90825fe9",
+      "mobileBytes": 9572877,
+      "mobileSha256": "8efbac1f078a4671145f1ea4f6279080b12962d4a8b5d1eae36dc5d0f7b2f3af",
+      "sourceDuration": 2320.656,
+      "sourceContainerDuration": 2320.656,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 2320.656,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97561
+        },
+        {
+          "seconds": 580.164,
+          "correlation": 0.98957
+        },
+        {
+          "seconds": 1392.394,
+          "correlation": 0.96455
+        },
+        {
+          "seconds": 2312.656,
+          "correlation": 0.97915
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-066",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/cfe77e5c02b645a5bb8f5d97a22128c4_128_mp3_128.mp3",
+      "sourceBytes": 16913664,
+      "sourceSha256": "82768df354869057aa97f7a006a8d4729e6d9a124a9950fbc61b7c9564936ce5",
+      "mobileBytes": 4361486,
+      "mobileSha256": "90782636b52d3cc12ad1e8365cd57a69839bebf82a89ba87e4e99744615a29b9",
+      "sourceDuration": 1057.104,
+      "mobileDuration": 1057.104,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.98529
+        },
+        {
+          "seconds": 264.276,
+          "correlation": 0.98846
+        },
+        {
+          "seconds": 634.262,
+          "correlation": 0.96484
+        },
+        {
+          "seconds": 1049.104,
+          "correlation": 0.98164
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-067",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/02/02/ab5922afe1a44dc790852a79162922c6_128_mp3_128.mp3",
+      "sourceBytes": 16663296,
+      "sourceSha256": "24bc1c7f3bb579871a3935986f48aa36b2d077ec1421939cfc5152ec77e88e80",
+      "mobileBytes": 4297691,
+      "mobileSha256": "d0de8789ecab90deeb50e0cf2dd04e6f493649abb67d93d4ab286cc21fc557c4",
+      "sourceDuration": 1041.456,
+      "mobileDuration": 1041.456,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.9721
+        },
+        {
+          "seconds": 260.364,
+          "correlation": 0.9797
+        },
+        {
+          "seconds": 624.874,
+          "correlation": 0.97956
+        },
+        {
+          "seconds": 1033.456,
+          "correlation": 0.97493
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-068",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/e475d752668444c4a142cf02dbbc5841_128_mp3_128.mp3",
+      "sourceBytes": 14011008,
+      "sourceSha256": "4a3be676d3c59dd607497ae46b1fb771f6d7a49c85fbb4ccd00d364edd297cd0",
+      "mobileBytes": 3613046,
+      "mobileSha256": "6f7a1bfb18131d67069885823132b14945aed9cadd2b95bec6bc4488847b65d6",
+      "sourceDuration": 875.688,
+      "sourceContainerDuration": 875.688,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 875.688,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97467
+        },
+        {
+          "seconds": 218.922,
+          "correlation": 0.9705
+        },
+        {
+          "seconds": 525.413,
+          "correlation": 0.97852
+        },
+        {
+          "seconds": 867.688,
+          "correlation": 0.9817
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-069",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/02/02/626547f1ebc74d1bae2ccb01ec0eb88c_128_mp3_128.mp3",
+      "sourceBytes": 7261056,
+      "sourceSha256": "e5bf59e03bfff1775563cf7fd75028ee0cfd748d1272280d53af48a1cde20b50",
+      "mobileBytes": 1873943,
+      "mobileSha256": "958e00e267be7e71a69db0b939a5f1f9b5456421395ee9072755eb56c8bd138c",
+      "sourceDuration": 453.816,
+      "sourceContainerDuration": 453.816,
+      "durationMethod": "complete decoded PCM sample count",
+      "mobileDuration": 453.816,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97375
+        },
+        {
+          "seconds": 113.454,
+          "correlation": 0.98904
+        },
+        {
+          "seconds": 272.29,
+          "correlation": 0.97293
+        },
+        {
+          "seconds": 445.816,
+          "correlation": 0.97048
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
+    },
+    {
+      "id": "v4-070",
+      "officialAudio": "https://vod.cntv.lxdns.com/flash/mp4video63/TMS/2021/01/27/f28c3a8e3636456086cd749903100665_128_mp3_128.mp3",
+      "sourceBytes": 21425664,
+      "sourceSha256": "6b585006263c8d93d2aedb5d96623d20eee9e3c263085672b1e97fa261b7441f",
+      "mobileBytes": 5525024,
+      "mobileSha256": "c5abe73271bcb0d45fb22f30ca39a36425d3a584579001477f22565487358a0b",
+      "sourceDuration": 1339.104,
+      "mobileDuration": 1339.104,
+      "codec": "AAC mono 32kbps 24000Hz faststart",
+      "checks": [
+        {
+          "seconds": 22,
+          "correlation": 0.97858
+        },
+        {
+          "seconds": 334.776,
+          "correlation": 0.98793
+        },
+        {
+          "seconds": 803.462,
+          "correlation": 0.98103
+        },
+        {
+          "seconds": 1331.104,
+          "correlation": 0.97381
+        }
+      ],
+      "validated": true,
+      "verification": "Official recording encoded without edits or speed changes; full download length checked; duration and four waveform samples checked. Not a claim of manual full audition."
     }
   ],
-  "note": "原始官方录音重新编码，无剪辑、变速或合成；旧文件保留。波形比对验证采样点对应，不等于逐字人工复听。"
+  "note": "Official recordings encoded without cuts or speed changes; source lengths, durations, hashes and waveform samples validated; not a claim of manual full audition."
 }

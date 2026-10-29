@@ -1,7 +1,7 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'..'),ts=require(path.join(root,'node_modules/typescript'));
-let storage=new Map();const local={getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)};
-const modules={};function load(name){if(name.endsWith('.json'))return JSON.parse(fs.readFileSync(path.resolve(root,'src',name),'utf8'));if(modules[name])return modules[name];const file=path.join(root,'src',name+'.ts'),module={exports:{}};let js=ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2023,esModuleInterop:true}}).outputText;new Function('require','module','exports','localStorage',js)(load,module,module.exports,local);return modules[name]=module.exports;}
+let storage=new Map(),testLocation;const local={getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)};
+const modules={};function load(name){if(name.endsWith('.json'))return JSON.parse(fs.readFileSync(path.resolve(root,'src',name),'utf8'));if(modules[name])return modules[name];const file=path.join(root,'src',name+'.ts'),module={exports:{}};let js=ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2023,esModuleInterop:true}}).outputText;new Function('require','module','exports','localStorage','location',js)(load,module,module.exports,local,testLocation);return modules[name]=module.exports;}
 const s=load('./store'),p=load('./progress'),lib=load('./library');let checks=0;const ok=(condition)=>{assert(condition);checks++;};
 const base=s.emptyStore();ok(base.schema===2&&base.selectedId==='v1-001');
 base.listening['v1-001']={position:79.44,duration:1276.68,rate:1.25,bookmarks:[25],updatedAt:'today'};
@@ -12,4 +12,7 @@ bad=structuredClone(base);bad.reading['1']=999;ok(!s.validateStore(bad).reading[
 storage.set(p.STORAGE_KEY,JSON.stringify({schema:1,mediaId:p.MEDIA_ID,position:11.5,duration:22.4,rate:1.25,bookmarks:[10],updatedAt:'today'}));const migrated=s.loadStore();ok(migrated.listening['v1-001'].position===33.95);ok(migrated.listening['v1-001'].bookmarks[0]===32.45);ok(migrated.preferences.rate===1.25);
 storage.set(s.STORE_KEY,'bad json');ok(s.loadStore().selectedId==='v1-001');
 const first=JSON.parse(fs.readFileSync(path.join(root,'public/subtitles/v1-001.json')));ok(lib.validateSubtitles(first,'v1-001')!==null);ok(lib.validateSubtitles(first,'v4-023')===null);const unreviewed=structuredClone(first);delete unreviewed.textStatus;ok(lib.validateSubtitles(unreviewed,'v1-001')===null);const invalid=structuredClone(first);invalid.cues[0].start=-10;ok(lib.validateSubtitles(invalid,'v1-001')===null);
-console.log(JSON.stringify({passed:checks,scope:'chapter separation, migration offset, page/rate restoration, corrupt records, canonical subtitle gate'}));
+s.saveStore(base);ok(JSON.parse(storage.get(s.STORE_KEY)).selectedId==='v4-023');
+testLocation={search:'?preview=1'};delete modules['./store'];let previewReads=0,previewWrites=0;local.getItem=()=>{previewReads++;throw Error('Preview must not read personal progress');};local.setItem=()=>{previewWrites++;throw Error('Preview must not write personal progress');};
+const preview=load('./store');ok(preview.PREVIEW_MODE);ok(Object.keys(preview.loadStore().listening).length===0);assert.doesNotThrow(()=>preview.saveStore(base));checks++;ok(storage.get(s.STORE_KEY)===JSON.stringify(base));ok(previewReads===0&&previewWrites===0);
+console.log(JSON.stringify({passed:checks,scope:'chapter separation, migration offset, page/rate restoration, corrupt records, canonical subtitle gate, preview read/write isolation'}));

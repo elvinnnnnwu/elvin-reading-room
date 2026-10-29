@@ -2071,11 +2071,11 @@
       "startPage": 19,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=19",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 27,
       "durationEstimate": 1277,
-      "mobileAudioUrl": "./audio/v1-001-mobile-v1.mp3"
+      "mobileAudioUrl": "./audio/mobile/v1-001-mobile-v1.m4a"
     },
     {
       "id": "v1-002",
@@ -2087,10 +2087,11 @@
       "startPage": 28,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=28",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 62,
-      "durationEstimate": 5648
+      "durationEstimate": 5648,
+      "mobileAudioUrl": "./audio/mobile/v1-002-mobile-v1.m4a"
     },
     {
       "id": "v1-003",
@@ -2102,10 +2103,11 @@
       "startPage": 63,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=63",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 72,
-      "durationEstimate": 1242
+      "durationEstimate": 1242,
+      "mobileAudioUrl": "./audio/mobile/v1-003-mobile-v1.m4a"
     },
     {
       "id": "v1-004",
@@ -2117,10 +2119,11 @@
       "startPage": 73,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=73",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 100,
-      "durationEstimate": 5098
+      "durationEstimate": 5098,
+      "mobileAudioUrl": "./audio/mobile/v1-004-mobile-v1.m4a"
     },
     {
       "id": "v1-005",
@@ -2132,10 +2135,11 @@
       "startPage": 101,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=101",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 112,
-      "durationEstimate": 1432
+      "durationEstimate": 1432,
+      "mobileAudioUrl": "./audio/mobile/v1-005-mobile-v1.m4a"
     },
     {
       "id": "v1-006",
@@ -2147,10 +2151,11 @@
       "startPage": 113,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=113",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 124,
-      "durationEstimate": 2041
+      "durationEstimate": 2046,
+      "mobileAudioUrl": "./audio/mobile/v1-006-mobile-v1.m4a"
     },
     {
       "id": "v1-007",
@@ -2162,10 +2167,11 @@
       "startPage": 125,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=125",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 134,
-      "durationEstimate": 1361
+      "durationEstimate": 1361,
+      "mobileAudioUrl": "./audio/mobile/v1-007-mobile-v1.m4a"
     },
     {
       "id": "v1-008",
@@ -2177,10 +2183,11 @@
       "startPage": 135,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=135",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 142,
-      "durationEstimate": 1241
+      "durationEstimate": 1244,
+      "mobileAudioUrl": "./audio/mobile/v1-008-mobile-v1.m4a"
     },
     {
       "id": "v1-009",
@@ -2192,10 +2199,11 @@
       "startPage": 143,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=143",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 145,
-      "durationEstimate": 323
+      "durationEstimate": 323,
+      "mobileAudioUrl": "./audio/mobile/v1-009-mobile-v1.m4a"
     },
     {
       "id": "v1-010",
@@ -2207,10 +2215,11 @@
       "startPage": 146,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=146",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 151,
-      "durationEstimate": 762
+      "durationEstimate": 764,
+      "mobileAudioUrl": "./audio/mobile/v1-010-mobile-v1.m4a"
     },
     {
       "id": "v1-011",
@@ -2222,10 +2231,11 @@
       "startPage": 152,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=152",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 157,
-      "durationEstimate": 834
+      "durationEstimate": 834,
+      "mobileAudioUrl": "./audio/mobile/v1-011-mobile-v1.m4a"
     },
     {
       "id": "v1-012",
@@ -2237,10 +2247,11 @@
       "startPage": 158,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=158",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 185,
-      "durationEstimate": 3261
+      "durationEstimate": 3261,
+      "mobileAudioUrl": "./audio/mobile/v1-012-mobile-v1.m4a"
     },
     {
       "id": "v1-013",
@@ -2252,10 +2263,11 @@
       "startPage": 186,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=186",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 260,
-      "durationEstimate": 11075
+      "durationEstimate": 11075,
+      "mobileAudioUrl": "./audio/mobile/v1-013-mobile-v1.m4a"
     },
     {
       "id": "v1-014",
@@ -2267,10 +2279,11 @@
       "startPage": 261,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=261",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 267,
-      "durationEstimate": 480
+      "durationEstimate": 480,
+      "mobileAudioUrl": "./audio/mobile/v1-014-mobile-v1.m4a"
     },
     {
       "id": "v1-015",
@@ -2282,10 +2295,11 @@
       "startPage": 268,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=268",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 286,
-      "durationEstimate": 2002
+      "durationEstimate": 2002,
+      "mobileAudioUrl": "./audio/mobile/v1-015-mobile-v1.m4a"
     },
     {
       "id": "v1-016",
@@ -2297,10 +2311,11 @@
       "startPage": 287,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=287",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 297,
-      "durationEstimate": 1206
+      "durationEstimate": 1205,
+      "mobileAudioUrl": "./audio/mobile/v1-016-mobile-v1.m4a"
     },
     {
       "id": "v1-017",
@@ -2312,10 +2327,11 @@
       "startPage": 298,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=298",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 314,
-      "durationEstimate": 2962
+      "durationEstimate": 2962,
+      "mobileAudioUrl": "./audio/mobile/v1-017-mobile-v1.m4a"
     },
     {
       "id": "v1-018",
@@ -2327,10 +2343,11 @@
       "startPage": 315,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/a997a10380dffb8e19c75716cb048b8e28653/mobile/index.html#p=315",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 359,
-      "durationEstimate": 7301
+      "durationEstimate": 7301,
+      "mobileAudioUrl": "./audio/mobile/v1-018-mobile-v1.m4a"
     },
     {
       "id": "v2-001",
@@ -2342,10 +2359,11 @@
       "startPage": 15,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=15",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 23,
-      "durationEstimate": 1087
+      "durationEstimate": 1087,
+      "mobileAudioUrl": "./audio/mobile/v2-001-mobile-v1.m4a"
     },
     {
       "id": "v2-002",
@@ -2357,10 +2375,11 @@
       "startPage": 24,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=24",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 30,
-      "durationEstimate": 767
+      "durationEstimate": 767,
+      "mobileAudioUrl": "./audio/mobile/v2-002-mobile-v1.m4a"
     },
     {
       "id": "v2-003",
@@ -2372,10 +2391,11 @@
       "startPage": 31,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=31",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 33,
-      "durationEstimate": 381
+      "durationEstimate": 381,
+      "mobileAudioUrl": "./audio/mobile/v2-003-mobile-v1.m4a"
     },
     {
       "id": "v2-004",
@@ -2387,10 +2407,11 @@
       "startPage": 34,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=34",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 44,
-      "durationEstimate": 1660
+      "durationEstimate": 1660,
+      "mobileAudioUrl": "./audio/mobile/v2-004-mobile-v1.m4a"
     },
     {
       "id": "v2-005",
@@ -2402,10 +2423,11 @@
       "startPage": 45,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=45",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 58,
-      "durationEstimate": 2061
+      "durationEstimate": 2061,
+      "mobileAudioUrl": "./audio/mobile/v2-005-mobile-v1.m4a"
     },
     {
       "id": "v2-006",
@@ -2417,10 +2439,11 @@
       "startPage": 59,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=59",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 72,
-      "durationEstimate": 1426
+      "durationEstimate": 1426,
+      "mobileAudioUrl": "./audio/mobile/v2-006-mobile-v1.m4a"
     },
     {
       "id": "v2-007",
@@ -2432,10 +2455,11 @@
       "startPage": 73,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=73",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 75,
-      "durationEstimate": 301
+      "durationEstimate": 301,
+      "mobileAudioUrl": "./audio/mobile/v2-007-mobile-v1.m4a"
     },
     {
       "id": "v2-008",
@@ -2447,10 +2471,11 @@
       "startPage": 76,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=76",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 110,
-      "durationEstimate": 5297
+      "durationEstimate": 5297,
+      "mobileAudioUrl": "./audio/mobile/v2-008-mobile-v1.m4a"
     },
     {
       "id": "v2-009",
@@ -2462,10 +2487,11 @@
       "startPage": 111,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=111",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 190,
-      "durationEstimate": 13121
+      "durationEstimate": 13121,
+      "mobileAudioUrl": "./audio/mobile/v2-009-mobile-v1.m4a"
     },
     {
       "id": "v2-010",
@@ -2477,10 +2503,11 @@
       "startPage": 191,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=191",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 208,
-      "durationEstimate": 2434
+      "durationEstimate": 2434,
+      "mobileAudioUrl": "./audio/mobile/v2-010-mobile-v1.m4a"
     },
     {
       "id": "v2-011",
@@ -2492,10 +2519,11 @@
       "startPage": 209,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=209",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 212,
-      "durationEstimate": 438
+      "durationEstimate": 438,
+      "mobileAudioUrl": "./audio/mobile/v2-011-mobile-v1.m4a"
     },
     {
       "id": "v2-012",
@@ -2507,10 +2535,11 @@
       "startPage": 213,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=213",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 229,
-      "durationEstimate": 2108
+      "durationEstimate": 2108,
+      "mobileAudioUrl": "./audio/mobile/v2-012-mobile-v1.m4a"
     },
     {
       "id": "v2-013",
@@ -2522,10 +2551,11 @@
       "startPage": 230,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=230",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 232,
-      "durationEstimate": 327
+      "durationEstimate": 327,
+      "mobileAudioUrl": "./audio/mobile/v2-013-mobile-v1.m4a"
     },
     {
       "id": "v2-014",
@@ -2537,10 +2567,11 @@
       "startPage": 233,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=233",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 241,
-      "durationEstimate": 1405
+      "durationEstimate": 1405,
+      "mobileAudioUrl": "./audio/mobile/v2-014-mobile-v1.m4a"
     },
     {
       "id": "v2-015",
@@ -2552,10 +2583,11 @@
       "startPage": 242,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=242",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 246,
-      "durationEstimate": 586
+      "durationEstimate": 586,
+      "mobileAudioUrl": "./audio/mobile/v2-015-mobile-v1.m4a"
     },
     {
       "id": "v2-016",
@@ -2567,10 +2599,11 @@
       "startPage": 247,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=247",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 251,
-      "durationEstimate": 526
+      "durationEstimate": 526,
+      "mobileAudioUrl": "./audio/mobile/v2-016-mobile-v1.m4a"
     },
     {
       "id": "v2-017",
@@ -2582,10 +2615,11 @@
       "startPage": 252,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=252",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 258,
-      "durationEstimate": 882
+      "durationEstimate": 882,
+      "mobileAudioUrl": "./audio/mobile/v2-017-mobile-v1.m4a"
     },
     {
       "id": "v2-018",
@@ -2597,10 +2631,11 @@
       "startPage": 259,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=259",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 264,
-      "durationEstimate": 802
+      "durationEstimate": 802,
+      "mobileAudioUrl": "./audio/mobile/v2-018-mobile-v1.m4a"
     },
     {
       "id": "v2-019",
@@ -2612,10 +2647,11 @@
       "startPage": 265,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=265",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 273,
-      "durationEstimate": 1323
+      "durationEstimate": 1323,
+      "mobileAudioUrl": "./audio/mobile/v2-019-mobile-v1.m4a"
     },
     {
       "id": "v2-020",
@@ -2627,10 +2663,11 @@
       "startPage": 274,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=274",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 286,
-      "durationEstimate": 2068
+      "durationEstimate": 2068,
+      "mobileAudioUrl": "./audio/mobile/v2-020-mobile-v1.m4a"
     },
     {
       "id": "v2-021",
@@ -2642,10 +2679,11 @@
       "startPage": 287,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=287",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 289,
-      "durationEstimate": 351
+      "durationEstimate": 351,
+      "mobileAudioUrl": "./audio/mobile/v2-021-mobile-v1.m4a"
     },
     {
       "id": "v2-022",
@@ -2657,10 +2695,11 @@
       "startPage": 290,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=290",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 292,
-      "durationEstimate": 349
+      "durationEstimate": 349,
+      "mobileAudioUrl": "./audio/mobile/v2-022-mobile-v1.m4a"
     },
     {
       "id": "v2-023",
@@ -2672,10 +2711,11 @@
       "startPage": 293,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=293",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 328,
-      "durationEstimate": 4737
+      "durationEstimate": 4737,
+      "mobileAudioUrl": "./audio/mobile/v2-023-mobile-v1.m4a"
     },
     {
       "id": "v2-024",
@@ -2687,10 +2727,11 @@
       "startPage": 329,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=329",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 330,
-      "durationEstimate": 211
+      "durationEstimate": 211,
+      "mobileAudioUrl": "./audio/mobile/v2-024-mobile-v1.m4a"
     },
     {
       "id": "v2-025",
@@ -2702,10 +2743,11 @@
       "startPage": 331,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=331",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 333,
-      "durationEstimate": 277
+      "durationEstimate": 277,
+      "mobileAudioUrl": "./audio/mobile/v2-025-mobile-v1.m4a"
     },
     {
       "id": "v2-026",
@@ -2717,10 +2759,11 @@
       "startPage": 334,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=334",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 383,
-      "durationEstimate": 7617
+      "durationEstimate": 7617,
+      "mobileAudioUrl": "./audio/mobile/v2-026-mobile-v1.m4a"
     },
     {
       "id": "v2-027",
@@ -2732,10 +2775,11 @@
       "startPage": 384,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=384",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 386,
-      "durationEstimate": 423
+      "durationEstimate": 423,
+      "mobileAudioUrl": "./audio/mobile/v2-027-mobile-v1.m4a"
     },
     {
       "id": "v2-028",
@@ -2747,10 +2791,11 @@
       "startPage": 387,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=387",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 392,
-      "durationEstimate": 740
+      "durationEstimate": 740,
+      "mobileAudioUrl": "./audio/mobile/v2-028-mobile-v1.m4a"
     },
     {
       "id": "v2-029",
@@ -2762,10 +2807,11 @@
       "startPage": 393,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=393",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 398,
-      "durationEstimate": 841
+      "durationEstimate": 841,
+      "mobileAudioUrl": "./audio/mobile/v2-029-mobile-v1.m4a"
     },
     {
       "id": "v2-030",
@@ -2777,10 +2823,11 @@
       "startPage": 399,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=399",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 400,
-      "durationEstimate": 217
+      "durationEstimate": 217,
+      "mobileAudioUrl": "./audio/mobile/v2-030-mobile-v1.m4a"
     },
     {
       "id": "v2-031",
@@ -2792,10 +2839,11 @@
       "startPage": 401,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=401",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 402,
-      "durationEstimate": 167
+      "durationEstimate": 167,
+      "mobileAudioUrl": "./audio/mobile/v2-031-mobile-v1.m4a"
     },
     {
       "id": "v2-032",
@@ -2807,10 +2855,11 @@
       "startPage": 403,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=403",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 412,
-      "durationEstimate": 1423
+      "durationEstimate": 1423,
+      "mobileAudioUrl": "./audio/mobile/v2-032-mobile-v1.m4a"
     },
     {
       "id": "v2-033",
@@ -2822,10 +2871,11 @@
       "startPage": 413,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=413",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 415,
-      "durationEstimate": 438
+      "durationEstimate": 438,
+      "mobileAudioUrl": "./audio/mobile/v2-033-mobile-v1.m4a"
     },
     {
       "id": "v2-034",
@@ -2837,10 +2887,11 @@
       "startPage": 416,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=416",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 424,
-      "durationEstimate": 1469
+      "durationEstimate": 1469,
+      "mobileAudioUrl": "./audio/mobile/v2-034-mobile-v1.m4a"
     },
     {
       "id": "v2-035",
@@ -2852,10 +2903,11 @@
       "startPage": 425,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=425",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 430,
-      "durationEstimate": 725
+      "durationEstimate": 725,
+      "mobileAudioUrl": "./audio/mobile/v2-035-mobile-v1.m4a"
     },
     {
       "id": "v2-036",
@@ -2867,10 +2919,11 @@
       "startPage": 431,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=431",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 433,
-      "durationEstimate": 452
+      "durationEstimate": 452,
+      "mobileAudioUrl": "./audio/mobile/v2-036-mobile-v1.m4a"
     },
     {
       "id": "v2-037",
@@ -2882,10 +2935,11 @@
       "startPage": 434,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=434",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 442,
-      "durationEstimate": 1304
+      "durationEstimate": 1304,
+      "mobileAudioUrl": "./audio/mobile/v2-037-mobile-v1.m4a"
     },
     {
       "id": "v2-038",
@@ -2897,10 +2951,11 @@
       "startPage": 443,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=443",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 449,
-      "durationEstimate": 930
+      "durationEstimate": 930,
+      "mobileAudioUrl": "./audio/mobile/v2-038-mobile-v1.m4a"
     },
     {
       "id": "v2-039",
@@ -2912,10 +2967,11 @@
       "startPage": 450,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=450",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 452,
-      "durationEstimate": 276
+      "durationEstimate": 276,
+      "mobileAudioUrl": "./audio/mobile/v2-039-mobile-v1.m4a"
     },
     {
       "id": "v2-040",
@@ -2927,10 +2983,11 @@
       "startPage": 453,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/ce338174299cae528b65e87a9ba78a5164510/mobile/index.html#p=453",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 460,
-      "durationEstimate": 763
+      "durationEstimate": 763,
+      "mobileAudioUrl": "./audio/mobile/v2-040-mobile-v1.m4a"
     },
     {
       "id": "v3-001",
@@ -2942,10 +2999,11 @@
       "startPage": 11,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=11",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 16,
-      "durationEstimate": 793
+      "durationEstimate": 793,
+      "mobileAudioUrl": "./audio/mobile/v3-001-mobile-v1.m4a"
     },
     {
       "id": "v3-002",
@@ -2957,10 +3015,11 @@
       "startPage": 17,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=17",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 25,
-      "durationEstimate": 1198
+      "durationEstimate": 1198,
+      "mobileAudioUrl": "./audio/mobile/v3-002-mobile-v1.m4a"
     },
     {
       "id": "v3-003",
@@ -2972,10 +3031,11 @@
       "startPage": 26,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=26",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 27,
-      "durationEstimate": 136
+      "durationEstimate": 136,
+      "mobileAudioUrl": "./audio/mobile/v3-003-mobile-v1.m4a"
     },
     {
       "id": "v3-004",
@@ -2987,10 +3047,11 @@
       "startPage": 28,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=28",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 28,
-      "durationEstimate": 107
+      "durationEstimate": 107,
+      "mobileAudioUrl": "./audio/mobile/v3-004-mobile-v1.m4a"
     },
     {
       "id": "v3-005",
@@ -3002,10 +3063,11 @@
       "startPage": 29,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=29",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 32,
-      "durationEstimate": 581
+      "durationEstimate": 581,
+      "mobileAudioUrl": "./audio/mobile/v3-005-mobile-v1.m4a"
     },
     {
       "id": "v3-006",
@@ -3017,10 +3079,11 @@
       "startPage": 33,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=33",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 51,
-      "durationEstimate": 2791
+      "durationEstimate": 2791,
+      "mobileAudioUrl": "./audio/mobile/v3-006-mobile-v1.m4a"
     },
     {
       "id": "v3-007",
@@ -3032,10 +3095,11 @@
       "startPage": 52,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=52",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 68,
-      "durationEstimate": 2603
+      "durationEstimate": 2603,
+      "mobileAudioUrl": "./audio/mobile/v3-007-mobile-v1.m4a"
     },
     {
       "id": "v3-008",
@@ -3047,10 +3111,11 @@
       "startPage": 69,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=69",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 101,
-      "durationEstimate": 6201
+      "durationEstimate": 6201,
+      "mobileAudioUrl": "./audio/mobile/v3-008-mobile-v1.m4a"
     },
     {
       "id": "v3-009",
@@ -3062,10 +3127,11 @@
       "startPage": 102,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=102",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 105,
-      "durationEstimate": 505
+      "durationEstimate": 505,
+      "mobileAudioUrl": "./audio/mobile/v3-009-mobile-v1.m4a"
     },
     {
       "id": "v3-010",
@@ -3077,10 +3143,11 @@
       "startPage": 106,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=106",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 111,
-      "durationEstimate": 806
+      "durationEstimate": 806,
+      "mobileAudioUrl": "./audio/mobile/v3-010-mobile-v1.m4a"
     },
     {
       "id": "v3-011",
@@ -3092,10 +3159,11 @@
       "startPage": 112,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=112",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 112,
-      "durationEstimate": 109
+      "durationEstimate": 109,
+      "mobileAudioUrl": "./audio/mobile/v3-011-mobile-v1.m4a"
     },
     {
       "id": "v3-012",
@@ -3107,10 +3175,11 @@
       "startPage": 113,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=113",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 118,
-      "durationEstimate": 760
+      "durationEstimate": 760,
+      "mobileAudioUrl": "./audio/mobile/v3-012-mobile-v1.m4a"
     },
     {
       "id": "v3-013",
@@ -3122,10 +3191,11 @@
       "startPage": 119,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=119",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 124,
-      "durationEstimate": 899
+      "durationEstimate": 899,
+      "mobileAudioUrl": "./audio/mobile/v3-013-mobile-v1.m4a"
     },
     {
       "id": "v3-014",
@@ -3137,10 +3207,11 @@
       "startPage": 125,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=125",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 131,
-      "durationEstimate": 1076
+      "durationEstimate": 1076,
+      "mobileAudioUrl": "./audio/mobile/v3-014-mobile-v1.m4a"
     },
     {
       "id": "v3-015",
@@ -3152,10 +3223,11 @@
       "startPage": 132,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=132",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 135,
-      "durationEstimate": 603
+      "durationEstimate": 603,
+      "mobileAudioUrl": "./audio/mobile/v3-015-mobile-v1.m4a"
     },
     {
       "id": "v3-016",
@@ -3167,10 +3239,11 @@
       "startPage": 136,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=136",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 149,
-      "durationEstimate": 2175
+      "durationEstimate": 2175,
+      "mobileAudioUrl": "./audio/mobile/v3-016-mobile-v1.m4a"
     },
     {
       "id": "v3-017",
@@ -3182,10 +3255,11 @@
       "startPage": 150,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=150",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 158,
-      "durationEstimate": 1261
+      "durationEstimate": 1261,
+      "mobileAudioUrl": "./audio/mobile/v3-017-mobile-v1.m4a"
     },
     {
       "id": "v3-018",
@@ -3197,10 +3271,11 @@
       "startPage": 159,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=159",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 173,
-      "durationEstimate": 1830
+      "durationEstimate": 1830,
+      "mobileAudioUrl": "./audio/mobile/v3-018-mobile-v1.m4a"
     },
     {
       "id": "v3-019",
@@ -3212,10 +3287,11 @@
       "startPage": 174,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=174",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 225,
-      "durationEstimate": 7180
+      "durationEstimate": 7180,
+      "mobileAudioUrl": "./audio/mobile/v3-019-mobile-v1.m4a"
     },
     {
       "id": "v3-020",
@@ -3227,10 +3303,11 @@
       "startPage": 226,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=226",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 228,
-      "durationEstimate": 282
+      "durationEstimate": 282,
+      "mobileAudioUrl": "./audio/mobile/v3-020-mobile-v1.m4a"
     },
     {
       "id": "v3-021",
@@ -3242,10 +3319,11 @@
       "startPage": 229,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=229",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 232,
-      "durationEstimate": 565
+      "durationEstimate": 565,
+      "mobileAudioUrl": "./audio/mobile/v3-021-mobile-v1.m4a"
     },
     {
       "id": "v3-022",
@@ -3257,10 +3335,11 @@
       "startPage": 233,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=233",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 235,
-      "durationEstimate": 314
+      "durationEstimate": 314,
+      "mobileAudioUrl": "./audio/mobile/v3-022-mobile-v1.m4a"
     },
     {
       "id": "v3-023",
@@ -3272,10 +3351,11 @@
       "startPage": 236,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=236",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 242,
-      "durationEstimate": 1015
+      "durationEstimate": 1015,
+      "mobileAudioUrl": "./audio/mobile/v3-023-mobile-v1.m4a"
     },
     {
       "id": "v3-024",
@@ -3287,10 +3367,11 @@
       "startPage": 243,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=243",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 246,
-      "durationEstimate": 475
+      "durationEstimate": 475,
+      "mobileAudioUrl": "./audio/mobile/v3-024-mobile-v1.m4a"
     },
     {
       "id": "v3-025",
@@ -3302,10 +3383,11 @@
       "startPage": 247,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=247",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 250,
-      "durationEstimate": 441
+      "durationEstimate": 441,
+      "mobileAudioUrl": "./audio/mobile/v3-025-mobile-v1.m4a"
     },
     {
       "id": "v3-026",
@@ -3317,10 +3399,11 @@
       "startPage": 251,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=251",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 322,
-      "durationEstimate": 10858
+      "durationEstimate": 10858,
+      "mobileAudioUrl": "./audio/mobile/v3-026-mobile-v1.m4a"
     },
     {
       "id": "v3-027",
@@ -3332,10 +3415,11 @@
       "startPage": 323,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=323",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 326,
-      "durationEstimate": 544
+      "durationEstimate": 544,
+      "mobileAudioUrl": "./audio/mobile/v3-027-mobile-v1.m4a"
     },
     {
       "id": "v3-028",
@@ -3347,10 +3431,11 @@
       "startPage": 327,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=327",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 331,
-      "durationEstimate": 673
+      "durationEstimate": 673,
+      "mobileAudioUrl": "./audio/mobile/v3-028-mobile-v1.m4a"
     },
     {
       "id": "v3-029",
@@ -3362,10 +3447,11 @@
       "startPage": 332,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=332",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 335,
-      "durationEstimate": 520
+      "durationEstimate": 520,
+      "mobileAudioUrl": "./audio/mobile/v3-029-mobile-v1.m4a"
     },
     {
       "id": "v3-030",
@@ -3377,10 +3463,11 @@
       "startPage": 336,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=336",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 338,
-      "durationEstimate": 269
+      "durationEstimate": 269,
+      "mobileAudioUrl": "./audio/mobile/v3-030-mobile-v1.m4a"
     },
     {
       "id": "v3-031",
@@ -3392,10 +3479,11 @@
       "startPage": 339,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=339",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 340,
-      "durationEstimate": 95
+      "durationEstimate": 95,
+      "mobileAudioUrl": "./audio/mobile/v3-031-mobile-v1.m4a"
     },
     {
       "id": "v3-032",
@@ -3407,11 +3495,12 @@
       "startPage": 341,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/96241bf235bd68bad86fed6360e6a8bc32635/mobile/index.html#p=341",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "pageMatchMethod": "official-page-title",
       "textMode": "official-facsimile",
       "endPage": 344,
-      "durationEstimate": 141
+      "durationEstimate": 141,
+      "mobileAudioUrl": "./audio/mobile/v3-032-mobile-v1.m4a"
     },
     {
       "id": "v4-001",
@@ -3423,10 +3512,11 @@
       "startPage": 13,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=13",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 26,
-      "durationEstimate": 2398
+      "durationEstimate": 2398,
+      "mobileAudioUrl": "./audio/mobile/v4-001-mobile-v1.m4a"
     },
     {
       "id": "v4-002",
@@ -3438,10 +3528,11 @@
       "startPage": 27,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=27",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 30,
-      "durationEstimate": 453
+      "durationEstimate": 453,
+      "mobileAudioUrl": "./audio/mobile/v4-002-mobile-v1.m4a"
     },
     {
       "id": "v4-003",
@@ -3453,10 +3544,11 @@
       "startPage": 31,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=31",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 37,
-      "durationEstimate": 957
+      "durationEstimate": 957,
+      "mobileAudioUrl": "./audio/mobile/v4-003-mobile-v1.m4a"
     },
     {
       "id": "v4-004",
@@ -3468,10 +3560,11 @@
       "startPage": 38,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=38",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 41,
-      "durationEstimate": 706
+      "durationEstimate": 706,
+      "mobileAudioUrl": "./audio/mobile/v4-004-mobile-v1.m4a"
     },
     {
       "id": "v4-005",
@@ -3483,10 +3576,11 @@
       "startPage": 42,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=42",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 45,
-      "durationEstimate": 459
+      "durationEstimate": 459,
+      "mobileAudioUrl": "./audio/mobile/v4-005-mobile-v1.m4a"
     },
     {
       "id": "v4-006",
@@ -3498,10 +3592,11 @@
       "startPage": 46,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=46",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 56,
-      "durationEstimate": 1457
+      "durationEstimate": 1457,
+      "mobileAudioUrl": "./audio/mobile/v4-006-mobile-v1.m4a"
     },
     {
       "id": "v4-007",
@@ -3513,10 +3608,11 @@
       "startPage": 57,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=57",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 61,
-      "durationEstimate": 550
+      "durationEstimate": 550,
+      "mobileAudioUrl": "./audio/mobile/v4-007-mobile-v1.m4a"
     },
     {
       "id": "v4-008",
@@ -3528,10 +3624,11 @@
       "startPage": 62,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=62",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 63,
-      "durationEstimate": 347
+      "durationEstimate": 347,
+      "mobileAudioUrl": "./audio/mobile/v4-008-mobile-v1.m4a"
     },
     {
       "id": "v4-009",
@@ -3543,10 +3640,11 @@
       "startPage": 64,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=64",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 68,
-      "durationEstimate": 692
+      "durationEstimate": 692,
+      "mobileAudioUrl": "./audio/mobile/v4-009-mobile-v1.m4a"
     },
     {
       "id": "v4-010",
@@ -3558,10 +3656,11 @@
       "startPage": 69,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=69",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 73,
-      "durationEstimate": 613
+      "durationEstimate": 613,
+      "mobileAudioUrl": "./audio/mobile/v4-010-mobile-v1.m4a"
     },
     {
       "id": "v4-011",
@@ -3573,10 +3672,11 @@
       "startPage": 74,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=74",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 75,
-      "durationEstimate": 159
+      "durationEstimate": 159,
+      "mobileAudioUrl": "./audio/mobile/v4-011-mobile-v1.m4a"
     },
     {
       "id": "v4-012",
@@ -3588,10 +3688,11 @@
       "startPage": 76,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=76",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 80,
-      "durationEstimate": 339
+      "durationEstimate": 339,
+      "mobileAudioUrl": "./audio/mobile/v4-012-mobile-v1.m4a"
     },
     {
       "id": "v4-013",
@@ -3603,10 +3704,11 @@
       "startPage": 81,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=81",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 86,
-      "durationEstimate": 677
+      "durationEstimate": 677,
+      "mobileAudioUrl": "./audio/mobile/v4-013-mobile-v1.m4a"
     },
     {
       "id": "v4-014",
@@ -3618,10 +3720,11 @@
       "startPage": 87,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=87",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 91,
-      "durationEstimate": 574
+      "durationEstimate": 574,
+      "mobileAudioUrl": "./audio/mobile/v4-014-mobile-v1.m4a"
     },
     {
       "id": "v4-015",
@@ -3633,10 +3736,11 @@
       "startPage": 92,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=92",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 94,
-      "durationEstimate": 211
+      "durationEstimate": 211,
+      "mobileAudioUrl": "./audio/mobile/v4-015-mobile-v1.m4a"
     },
     {
       "id": "v4-016",
@@ -3648,10 +3752,11 @@
       "startPage": 95,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=95",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 100,
-      "durationEstimate": 908
+      "durationEstimate": 908,
+      "mobileAudioUrl": "./audio/mobile/v4-016-mobile-v1.m4a"
     },
     {
       "id": "v4-017",
@@ -3663,10 +3768,11 @@
       "startPage": 101,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=101",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 108,
-      "durationEstimate": 1151
+      "durationEstimate": 1151,
+      "mobileAudioUrl": "./audio/mobile/v4-017-mobile-v1.m4a"
     },
     {
       "id": "v4-018",
@@ -3678,10 +3784,11 @@
       "startPage": 109,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=109",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 111,
-      "durationEstimate": 257
+      "durationEstimate": 257,
+      "mobileAudioUrl": "./audio/mobile/v4-018-mobile-v1.m4a"
     },
     {
       "id": "v4-019",
@@ -3693,10 +3800,11 @@
       "startPage": 112,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=112",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 113,
-      "durationEstimate": 204
+      "durationEstimate": 204,
+      "mobileAudioUrl": "./audio/mobile/v4-019-mobile-v1.m4a"
     },
     {
       "id": "v4-020",
@@ -3708,10 +3816,11 @@
       "startPage": 114,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=114",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 118,
-      "durationEstimate": 649
+      "durationEstimate": 649,
+      "mobileAudioUrl": "./audio/mobile/v4-020-mobile-v1.m4a"
     },
     {
       "id": "v4-021",
@@ -3723,10 +3832,11 @@
       "startPage": 119,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=119",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 124,
-      "durationEstimate": 804
+      "durationEstimate": 804,
+      "mobileAudioUrl": "./audio/mobile/v4-021-mobile-v1.m4a"
     },
     {
       "id": "v4-022",
@@ -3738,10 +3848,11 @@
       "startPage": 125,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=125",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 130,
-      "durationEstimate": 859
+      "durationEstimate": 859,
+      "mobileAudioUrl": "./audio/mobile/v4-022-mobile-v1.m4a"
     },
     {
       "id": "v4-023",
@@ -3753,10 +3864,11 @@
       "startPage": 131,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=131",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 132,
-      "durationEstimate": 94
+      "durationEstimate": 94,
+      "mobileAudioUrl": "./audio/mobile/v4-023-mobile-v1.m4a"
     },
     {
       "id": "v4-024",
@@ -3768,10 +3880,11 @@
       "startPage": 133,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=133",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 153,
-      "durationEstimate": 2943
+      "durationEstimate": 2943,
+      "mobileAudioUrl": "./audio/mobile/v4-024-mobile-v1.m4a"
     },
     {
       "id": "v4-025",
@@ -3783,10 +3896,11 @@
       "startPage": 154,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=154",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 156,
-      "durationEstimate": 371
+      "durationEstimate": 371,
+      "mobileAudioUrl": "./audio/mobile/v4-025-mobile-v1.m4a"
     },
     {
       "id": "v4-026",
@@ -3798,10 +3912,11 @@
       "startPage": 157,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=157",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 164,
-      "durationEstimate": 1184
+      "durationEstimate": 1184,
+      "mobileAudioUrl": "./audio/mobile/v4-026-mobile-v1.m4a"
     },
     {
       "id": "v4-027",
@@ -3813,10 +3928,11 @@
       "startPage": 165,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=165",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 166,
-      "durationEstimate": 144
+      "durationEstimate": 144,
+      "mobileAudioUrl": "./audio/mobile/v4-027-mobile-v1.m4a"
     },
     {
       "id": "v4-028",
@@ -3828,10 +3944,11 @@
       "startPage": 167,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=167",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 169,
-      "durationEstimate": 285
+      "durationEstimate": 285,
+      "mobileAudioUrl": "./audio/mobile/v4-028-mobile-v1.m4a"
     },
     {
       "id": "v4-029",
@@ -3843,10 +3960,11 @@
       "startPage": 170,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=170",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 172,
-      "durationEstimate": 307
+      "durationEstimate": 307,
+      "mobileAudioUrl": "./audio/mobile/v4-029-mobile-v1.m4a"
     },
     {
       "id": "v4-030",
@@ -3858,10 +3976,11 @@
       "startPage": 173,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=173",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 174,
-      "durationEstimate": 270
+      "durationEstimate": 270,
+      "mobileAudioUrl": "./audio/mobile/v4-030-mobile-v1.m4a"
     },
     {
       "id": "v4-031",
@@ -3873,10 +3992,11 @@
       "startPage": 175,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=175",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 176,
-      "durationEstimate": 323
+      "durationEstimate": 323,
+      "mobileAudioUrl": "./audio/mobile/v4-031-mobile-v1.m4a"
     },
     {
       "id": "v4-032",
@@ -3888,10 +4008,11 @@
       "startPage": 177,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=177",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 180,
-      "durationEstimate": 585
+      "durationEstimate": 585,
+      "mobileAudioUrl": "./audio/mobile/v4-032-mobile-v1.m4a"
     },
     {
       "id": "v4-033",
@@ -3903,10 +4024,11 @@
       "startPage": 181,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=181",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 186,
-      "durationEstimate": 691
+      "durationEstimate": 691,
+      "mobileAudioUrl": "./audio/mobile/v4-033-mobile-v1.m4a"
     },
     {
       "id": "v4-034",
@@ -3918,10 +4040,11 @@
       "startPage": 187,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=187",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 194,
-      "durationEstimate": 1174
+      "durationEstimate": 1174,
+      "mobileAudioUrl": "./audio/mobile/v4-034-mobile-v1.m4a"
     },
     {
       "id": "v4-035",
@@ -3933,10 +4056,11 @@
       "startPage": 195,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=195",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 207,
-      "durationEstimate": 2051
+      "durationEstimate": 2051,
+      "mobileAudioUrl": "./audio/mobile/v4-035-mobile-v1.m4a"
     },
     {
       "id": "v4-036",
@@ -3948,10 +4072,11 @@
       "startPage": 208,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=208",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 212,
-      "durationEstimate": 768
+      "durationEstimate": 768,
+      "mobileAudioUrl": "./audio/mobile/v4-036-mobile-v1.m4a"
     },
     {
       "id": "v4-037",
@@ -3963,10 +4088,11 @@
       "startPage": 213,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=213",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 215,
-      "durationEstimate": 304
+      "durationEstimate": 304,
+      "mobileAudioUrl": "./audio/mobile/v4-037-mobile-v1.m4a"
     },
     {
       "id": "v4-038",
@@ -3978,10 +4104,11 @@
       "startPage": 216,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=216",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 217,
-      "durationEstimate": 158
+      "durationEstimate": 158,
+      "mobileAudioUrl": "./audio/mobile/v4-038-mobile-v1.m4a"
     },
     {
       "id": "v4-039",
@@ -3993,10 +4120,11 @@
       "startPage": 218,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=218",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 223,
-      "durationEstimate": 937
+      "durationEstimate": 937,
+      "mobileAudioUrl": "./audio/mobile/v4-039-mobile-v1.m4a"
     },
     {
       "id": "v4-040",
@@ -4008,10 +4136,11 @@
       "startPage": 224,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=224",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 229,
-      "durationEstimate": 561
+      "durationEstimate": 561,
+      "mobileAudioUrl": "./audio/mobile/v4-040-mobile-v1.m4a"
     },
     {
       "id": "v4-041",
@@ -4023,10 +4152,11 @@
       "startPage": 230,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=230",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 231,
-      "durationEstimate": 189
+      "durationEstimate": 189,
+      "mobileAudioUrl": "./audio/mobile/v4-041-mobile-v1.m4a"
     },
     {
       "id": "v4-042",
@@ -4038,10 +4168,11 @@
       "startPage": 232,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=232",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 240,
-      "durationEstimate": 1279
+      "durationEstimate": 1279,
+      "mobileAudioUrl": "./audio/mobile/v4-042-mobile-v1.m4a"
     },
     {
       "id": "v4-043",
@@ -4053,10 +4184,11 @@
       "startPage": 241,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=241",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 245,
-      "durationEstimate": 263
+      "durationEstimate": 263,
+      "mobileAudioUrl": "./audio/mobile/v4-043-mobile-v1.m4a"
     },
     {
       "id": "v4-044",
@@ -4068,10 +4200,11 @@
       "startPage": 246,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=246",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 249,
-      "durationEstimate": 608
+      "durationEstimate": 608,
+      "mobileAudioUrl": "./audio/mobile/v4-044-mobile-v1.m4a"
     },
     {
       "id": "v4-045",
@@ -4083,10 +4216,11 @@
       "startPage": 250,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=250",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 252,
-      "durationEstimate": 270
+      "durationEstimate": 270,
+      "mobileAudioUrl": "./audio/mobile/v4-045-mobile-v1.m4a"
     },
     {
       "id": "v4-046",
@@ -4098,10 +4232,11 @@
       "startPage": 253,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=253",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 258,
-      "durationEstimate": 598
+      "durationEstimate": 598,
+      "mobileAudioUrl": "./audio/mobile/v4-046-mobile-v1.m4a"
     },
     {
       "id": "v4-047",
@@ -4113,10 +4248,11 @@
       "startPage": 259,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=259",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 261,
-      "durationEstimate": 278
+      "durationEstimate": 278,
+      "mobileAudioUrl": "./audio/mobile/v4-047-mobile-v1.m4a"
     },
     {
       "id": "v4-048",
@@ -4128,10 +4264,11 @@
       "startPage": 262,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=262",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 270,
-      "durationEstimate": 1381
+      "durationEstimate": 1381,
+      "mobileAudioUrl": "./audio/mobile/v4-048-mobile-v1.m4a"
     },
     {
       "id": "v4-049",
@@ -4143,10 +4280,11 @@
       "startPage": 271,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=271",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 275,
-      "durationEstimate": 592
+      "durationEstimate": 592,
+      "mobileAudioUrl": "./audio/mobile/v4-049-mobile-v1.m4a"
     },
     {
       "id": "v4-050",
@@ -4158,10 +4296,11 @@
       "startPage": 276,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=276",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 280,
-      "durationEstimate": 691
+      "durationEstimate": 691,
+      "mobileAudioUrl": "./audio/mobile/v4-050-mobile-v1.m4a"
     },
     {
       "id": "v4-051",
@@ -4173,10 +4312,11 @@
       "startPage": 281,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=281",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 282,
-      "durationEstimate": 331
+      "durationEstimate": 331,
+      "mobileAudioUrl": "./audio/mobile/v4-051-mobile-v1.m4a"
     },
     {
       "id": "v4-052",
@@ -4188,10 +4328,11 @@
       "startPage": 283,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=283",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 289,
-      "durationEstimate": 829
+      "durationEstimate": 829,
+      "mobileAudioUrl": "./audio/mobile/v4-052-mobile-v1.m4a"
     },
     {
       "id": "v4-053",
@@ -4203,10 +4344,11 @@
       "startPage": 290,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=290",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 294,
-      "durationEstimate": 680
+      "durationEstimate": 680,
+      "mobileAudioUrl": "./audio/mobile/v4-053-mobile-v1.m4a"
     },
     {
       "id": "v4-054",
@@ -4218,10 +4360,11 @@
       "startPage": 295,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=295",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 297,
-      "durationEstimate": 335
+      "durationEstimate": 335,
+      "mobileAudioUrl": "./audio/mobile/v4-054-mobile-v1.m4a"
     },
     {
       "id": "v4-055",
@@ -4233,10 +4376,11 @@
       "startPage": 298,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=298",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 302,
-      "durationEstimate": 625
+      "durationEstimate": 625,
+      "mobileAudioUrl": "./audio/mobile/v4-055-mobile-v1.m4a"
     },
     {
       "id": "v4-056",
@@ -4248,10 +4392,11 @@
       "startPage": 303,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=303",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 305,
-      "durationEstimate": 404
+      "durationEstimate": 404,
+      "mobileAudioUrl": "./audio/mobile/v4-056-mobile-v1.m4a"
     },
     {
       "id": "v4-057",
@@ -4263,10 +4408,11 @@
       "startPage": 306,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=306",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 313,
-      "durationEstimate": 1298
+      "durationEstimate": 1298,
+      "mobileAudioUrl": "./audio/mobile/v4-057-mobile-v1.m4a"
     },
     {
       "id": "v4-058",
@@ -4278,10 +4424,11 @@
       "startPage": 314,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=314",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 329,
-      "durationEstimate": 2446
+      "durationEstimate": 2446,
+      "mobileAudioUrl": "./audio/mobile/v4-058-mobile-v1.m4a"
     },
     {
       "id": "v4-059",
@@ -4293,10 +4440,11 @@
       "startPage": 330,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=330",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 334,
-      "durationEstimate": 825
+      "durationEstimate": 825,
+      "mobileAudioUrl": "./audio/mobile/v4-059-mobile-v1.m4a"
     },
     {
       "id": "v4-060",
@@ -4308,10 +4456,11 @@
       "startPage": 335,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=335",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 338,
-      "durationEstimate": 460
+      "durationEstimate": 460,
+      "mobileAudioUrl": "./audio/mobile/v4-060-mobile-v1.m4a"
     },
     {
       "id": "v4-061",
@@ -4323,10 +4472,11 @@
       "startPage": 339,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=339",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 346,
-      "durationEstimate": 247
+      "durationEstimate": 247,
+      "mobileAudioUrl": "./audio/mobile/v4-061-mobile-v1.m4a"
     },
     {
       "id": "v4-062",
@@ -4338,10 +4488,11 @@
       "startPage": 347,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=347",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 349,
-      "durationEstimate": 448
+      "durationEstimate": 448,
+      "mobileAudioUrl": "./audio/mobile/v4-062-mobile-v1.m4a"
     },
     {
       "id": "v4-063",
@@ -4353,10 +4504,11 @@
       "startPage": 350,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=350",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 352,
-      "durationEstimate": 274
+      "durationEstimate": 274,
+      "mobileAudioUrl": "./audio/mobile/v4-063-mobile-v1.m4a"
     },
     {
       "id": "v4-064",
@@ -4368,10 +4520,11 @@
       "startPage": 353,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=353",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 357,
-      "durationEstimate": 674
+      "durationEstimate": 674,
+      "mobileAudioUrl": "./audio/mobile/v4-064-mobile-v1.m4a"
     },
     {
       "id": "v4-065",
@@ -4383,10 +4536,11 @@
       "startPage": 358,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=358",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 372,
-      "durationEstimate": 2321
+      "durationEstimate": 2321,
+      "mobileAudioUrl": "./audio/mobile/v4-065-mobile-v1.m4a"
     },
     {
       "id": "v4-066",
@@ -4398,10 +4552,11 @@
       "startPage": 373,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=373",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 380,
-      "durationEstimate": 1057
+      "durationEstimate": 1057,
+      "mobileAudioUrl": "./audio/mobile/v4-066-mobile-v1.m4a"
     },
     {
       "id": "v4-067",
@@ -4413,10 +4568,11 @@
       "startPage": 381,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=381",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 388,
-      "durationEstimate": 1041
+      "durationEstimate": 1041,
+      "mobileAudioUrl": "./audio/mobile/v4-067-mobile-v1.m4a"
     },
     {
       "id": "v4-068",
@@ -4428,10 +4584,11 @@
       "startPage": 389,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=389",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 394,
-      "durationEstimate": 876
+      "durationEstimate": 876,
+      "mobileAudioUrl": "./audio/mobile/v4-068-mobile-v1.m4a"
     },
     {
       "id": "v4-069",
@@ -4443,10 +4600,11 @@
       "startPage": 395,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=395",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 398,
-      "durationEstimate": 454
+      "durationEstimate": 454,
+      "mobileAudioUrl": "./audio/mobile/v4-069-mobile-v1.m4a"
     },
     {
       "id": "v4-070",
@@ -4458,15 +4616,18 @@
       "startPage": 399,
       "tocMatch": 1.0,
       "readerUrl": "https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/mobile/index.html#p=399",
-      "subtitleStatus": "pending",
+      "subtitleStatus": "verified",
       "textMode": "official-facsimile",
       "endPage": 408,
-      "durationEstimate": 1339
+      "durationEstimate": 1339,
+      "mobileAudioUrl": "./audio/mobile/v4-070-mobile-v1.m4a"
     }
   ],
   "rightsSource": "https://www.12371.cn/gjgx/",
   "fifthVolume": {
     "status": "official-audio-not-found",
     "note": "1977年第五卷单独记录，尚未取得对应官方朗读，不混入四卷第二版。"
-  }
+  },
+  "mobileOptimizedChapters": 160,
+  "verifiedSubtitleChapters": 160
 }

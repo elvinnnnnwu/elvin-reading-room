@@ -1,6 +1,7 @@
 import {books,chapters} from './library';
 import {STORAGE_KEY as OLD_KEY, validateProgress} from './progress';
 export const STORE_KEY='elvin-reading-library-v2';
+export const PREVIEW_MODE=typeof location!=='undefined'&&new URLSearchParams(location.search).get('preview')==='1';
 export const rates=[.75,1,1.25,1.5,2];
 export type Listening = {position:number;duration:number;rate:number;bookmarks:number[];updatedAt:string};
 export type Preferences={rate:number;light:boolean;fontSize:number;autoNext:boolean;view:'listen'|'read'};
@@ -28,7 +29,9 @@ export function validateStore(raw:unknown):LibraryStore|null{
  if(typeof p.fontSize==='number'&&[22,26,30].includes(p.fontSize))out.preferences.fontSize=p.fontSize;
  return out;
 }
+export function saveStore(value:LibraryStore){if(!PREVIEW_MODE)localStorage.setItem(STORE_KEY,JSON.stringify(value));}
 export function loadStore():LibraryStore{
+ if(PREVIEW_MODE)return emptyStore();
  try{
   const current=localStorage.getItem(STORE_KEY);
   if(current)return validateStore(JSON.parse(current))||emptyStore();
